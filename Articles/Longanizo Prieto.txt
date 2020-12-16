@@ -1,0 +1,9 @@
+{{Fichapersonaje|image1 = Longanizo prieto.PNG|nombre_real = Longanizo Prieto|especie = Humana (títere)|edad = Adulta|nacionalidad = Chilena|especialidad = Inventor|primera_aparición = [[Episodio 11: La Gotera]]|última_aparición = [[Episodio 11: La Gotera]]|voces = [[Daniel Castro]]}}
+{{Frase|Tal vez eso parezca, para su pequeño cerebro de periodista|Longanizo Prieto|respondiendo a [[Mario Hugo]]}}
+'''Longanizo Prieto''' fue un personaje que apareció en el [[Episodio 11: La Gotera]] como creador de una máquina supuestamente clonadora, pero que en realidad funciona como una fotocopiadora común y corriente.
+
+== Historia ==
+Junto a [[Mario Hugo]] prueban su máquina fotocopio-clonadora, pero el proceso es estropeado por [[Mario Hugo]] y ambos quedan atrapados en la máquina mientras esta sigue copiando impresiones. [[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Personajes Menores]]
+[[Categoría:Personajes de única aparición]]

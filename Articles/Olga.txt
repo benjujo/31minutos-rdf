@@ -1,0 +1,22 @@
+{{Fichapersonaje
+|image1 = Olga1.png
+|especie = Muñeca
+|especialidad = Escribir rápido<br/>Ayudar
+|ocupación = Ayudante en la sección [[Anatoli, el incombustible]]
+|amigos = [[Anatoli]]
+|primera_aparición =[[Episodio 61: El Meteorito]] 
+|última_aparición =[[Episodio 64: Bodoque Envenenado]] |nombre_real = Olga|nacionalidad = Rusa-chilena|voces = [[Alejandra Dueñas]]|edad = Adulta}}{{Frase|¡Неt! Anatoli, no lo hagas. ¡Te lo suplico!|Olga|en el experimento del ventilador}}
+'''Olga''' es un personaje de [[31 Minutos]]. Es la fiel ayudante del periodista extremo [[Anatoli]], el incombustible. 
+
+== Apariencia ==
+Olga es una muñeca de pelo blanco vestida de una científica, con bata blanca, vestido azul, una camisa blanca con cuadros azules y usa guantes rojos. Tiene una diadema o cintillo en su cabello de color gris. 
+
+== Historia ==
+Olga se encarga de escribir rápidamente los cálculos matemáticos que Anatoli cuenta hacia los espectadores, aunque estos no son ecuaciones reales. Normalmente se muestra seria, pero cuando [[Anatoli]] esta a punto de hacer un experimento, ella se preocupa por la vida de él, diciendo ''"Anatoli, no lo hagas, te lo suplico"''; aunque al final de la sección se muestra que el reportero extremo sobrevivió o no hubo tantos problemas.
+
+== Curiosidades ==
+* En el experimento del ventilador, es la única vez que Olga dice una palabra rusa que es <nowiki>''Нет'' y significa ''No''</nowiki>.
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Personajes Femeninos]]
+[[Categoría:Trabajadores del canal]]

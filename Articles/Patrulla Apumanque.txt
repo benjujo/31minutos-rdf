@@ -1,0 +1,16 @@
+{{Fichapersonaje
+|género = 
+|integrantes=[[Tulio Triviño]] (anterior)<br/>[[Juan Carlos Bodoque]] (anterior)
+|ocupación = Exploradores
+|amigos = 
+|voces= 
+|primera_aparición= 
+|image1 = 
+}}
+La '''Patrulla o Manada Apumanque''' es un grupo de exploradores en [[Titirilquén]], al cual pertenecieron [[Tulio Triviño]] y [[Juan Carlos Bodoque]] en su infancia. En esa etapa de su infancia fue donde encontraron a [[Juanín Juan Harry|Juanín]].
+
+==Curiosidades==
+*El nombre de la patrulla es una referencia al centro comercial Apumanque, en Santiago de Chile, cuyo nombre es una combinación de las calles en que se encuentra: Apoquindo ("ramillete de hojas de coca para el Señor" en quechua) y Manquehue ("lugar de cóndores" en mapudungun).
+[[Categoría:Personajes]]
+[[Categoría:Agrupaciones]]
+[[Categoría:Exploradores]]

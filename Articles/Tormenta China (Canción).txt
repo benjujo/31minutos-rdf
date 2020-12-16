@@ -1,0 +1,37 @@
+----
+<p style="text-align: center;">''Este artículo se trata de una canción de la serie, para otras opciones [[Tormenta China (Desambiguación)|haz click aquí.]]''</p>
+----
+{{Plantilla:Canción
+|nombre = Tormenta China 
+|Director = 
+|Temporada = Cuarta
+|Interprete = [[Juan Carlos Bodoque]]
+|Apariciones = "[[Episodio 64: Bodoque Envenenado|Bodoque Envenenado]]"
+|video = [[Archivo:31 minutos - Tormenta china|center|250px]]
+|Compositor =}}'''Tormenta China''' es una de las canciones de [[31 Minutos]]. Aparece en la [[Cuarta Temporada]] de la serie, y aparece en el episodio "[[Episodio 64: Bodoque Envenenado|Bodoque Envenenado]]".
+
+==Letra==
+<tabber>
+|-|
+Canción =
+Presumo tu galope entre las nieblas,
+<br />
+Confundido en la aroma de tu estiércol.
+<br />
+Convencido hasta en la muerte de tus nobles cualidades,
+<br />
+Me ilusiona la quimera de verte algún día ganar.
+<br />
+<br />
+Corcel trioso, sin jinete y sin fortuna,
+<br />
+Quiero estar al altura de tu calvo cabalgar.
+<br />
+<br />
+¡Tormenta China!
+</tabber>
+
+==Ver También==
+{{Plantilla:ListadeCanciones}}
+[[Categoría:Canciones]]
+[[Categoría:Canciones de la cuarta temporada]]

@@ -1,0 +1,154 @@
+{{Temporada-Nuevo|image1 = TEMP4.png|fecha_de_inicio = 4 de octubre de 2014|fecha_final = 27 de diciembre de 2014|episodios = 12|siguiente = |anterior = [[Tercera Temporada]]<br/>[[31 Minutos, la película]]}}La '''Cuarta Temporada''' de [[31 Minutos]] empezó el 04 de Octubre del 2014. En el año 2013, tras 8 años de ausencia, la productora [[wikipedia:es:Aplaplac|Aplaplac]] confirmó el regreso de 31 Minutos a la televisión, con un ciclo de 12 episodios, los cuales empezaron a rodarse el 11 de Octubre del 2013. Cuentan con el mismo equipo y voces de siempre. Según los creadores, los acontecimientos de los nuevos episodios ocurren poco después de los episodios de la temporada anterior, por lo cual en la trama de la serie no habrá transcurrido ni un año, además de constar con nuevos personajes. Además es la primera temporada en ser visto en formato HD (16:9).
+
+La temporada se desarrolla con el noticiero en una de sus más difíciles etapas, en que luego de muchísimo tiempo como programa reducido a un horario televisivo de muy baja audiencia, en que para subsistir no tenía otra opción que hacerlo, con escasísimo éxito, como programa de concursos, que ofrecía un premio a quién contestara correctamente una pregunta formulada en pantalla (lo cual supuso una humillación enorme para el equipo del programa en general), se le ha concedido una nueva oportunidad de volver al horario regular, aunque con la presión de saber que deben dar un desempeño competente, ya que de lo contrario las consecuencias para el programa podrían ser demoledoras.
+
+La mayor novedad serán las canciones nuevas que se presentarán en este cuarto ciclo, creadas por los hermanos [[Pablo Ilabaca|Pablo]] y Felipe Ilabaca de Chancho en Piedra, junto a Camilo Salinas y Pedro Piedra. Algunas de las canciones son por ejemplo, "[[Mi Mamá me lo Teje Todo]]" de [[Lino y Lana]] y "[[El Huerfadrino]]" de [[Percy Mamani]]. "Anatoli, el incombustible" es una nueva sección que se une al noticiero con un [[Anatoli|nuevo personaje]] interpretado por Héctor <nowiki>''Tito''</nowiki> Velozo.
+
+==Lista de Episodios==
+{| class="collapsible collapsed" width="100%" style="border:1px solid #97b657; text-color:#000;"
+|-
+! colspan="6" style="background-color:#97b657;" |Temporada #4
+|-
+! style="background: #97b657;" |No. Serie
+! style="background: #97b657;" |No. Temp.
+! style="background: #97b657;" |Título
+! style="background: #97b657;" |Fecha de Estreno
+|- class="vevent" style="text-align: center; background: #b8e261"
+|57
+|1
+|"[[Episodio 57: La Mona Lisa|La Mona Lisa]]"
+|[[File:La Mona Lisa.png|thumb|120x120px]]04 de Octubre del 2014
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #97b657" |[[Tulio Triviño|Tulio]] inicia una nueva temporada queriendo traer a la famosa Mona Lisa al programa, contando su gran historia.
+|- class="vevent" style="text-align: center; background: #b8e261"
+|58
+|2
+|"[[Episodio 58: Cirugía|Cirugía]]"
+|[[File:Cirugia.png|thumb|120x120px]]11 de Octubre del 2014
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #97b657" |[[Cossimo Gianni|Cossimo]] informa al equipo que a nadie le gustan los programas donde hay viejos, por lo que todos toman cirugias.
+|- class="vevent" style="text-align: center; background: #b8e261"
+|59
+|3
+|"[[Episodio 59: Patana Enamorada|Patana Enamorada]]"
+|[[File:Patana Enamorada.png|thumb|120x120px]]18 de Octubre del 2014
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #97b657" |Todos se enteran que [[Patana]] se encuentra enamorada de [[Guaripolo]], por lo que [[Mario Hugo]] trata de impedirlo.
+|- class="vevent" style="text-align: center; background: #b8e261"
+|60
+|4
+|"[[Episodio 60: Huachimingo sin Hogar|Huachimingo sin Hogar]]"
+|[[File:Huachimingo sin Hogar.png|thumb|120x120px]]25 de Octubre del 2014
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #97b657" |Un terremoto destruye la casa de [[Huachimingo]], por lo que [[Tulio Triviño|Tulio]] decide acogerlo y deja que el estudio sea su hogar.
+|- class="vevent" style="text-align: center; background: #b8e261"
+|61
+|5
+|"[[Episodio 61: El Meteorito|El Meteorito]]"
+|[[File:El Meteorito.png|thumb|120x120px]]01 de Noviembre del 2014
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #97b657" |Un meteorito cae en el estudio, pero [[Tulio Triviño|Tulio]] piensa que el meteorito los haría famosos, y decide aprovecharse de esto.
+|- class="vevent" style="text-align: center; background: #b8e261"
+|62
+|6
+|"[[Episodio 62: Bebé Monstruo|Bebé Monstruo]]"
+|[[File:Bebe Monstruo.png|thumb|120x120px]]08 de Noviembre del 2014
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #97b657" |Un bebé es dejado en el estudio, por lo que todos deciden hacerse cargo de él, sin enterarse que es un monstruo.
+|- class="vevent" style="text-align: center; background: #b8e261"
+|63
+|7
+|"[[Episodio 63: Jack Patata|Jack Patata]]"
+|[[File:Inseguridad.png|thumb|120x120px]]15 de Noviembre del 2014
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #97b657" |Un ladrón llamado Jack Patata quiere como última voluntad ser entrevistado por [[Tulio Triviño|Tulio]], para así poder vengarse de él.
+|- class="vevent" style="text-align: center; background: #b8e261"
+|64
+|8
+|"[[Episodio 64: Bodoque Envenenado|Bodoque Envenenado]]"
+|[[File:Bodoque Envenenado.png|thumb|122x122px]]22 de Noviembre del 2014
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #97b657" |[[Juan Carlos Bodoque|Bodoque]] es envenenado por la mordida de una serpiente que trajo un entrevistado al estudio.
+|- class="vevent" style="text-align: center; background: #b8e261"
+|65
+|9
+|"[[Episodio 65: Oestelandia|Oestelandia]]"
+|[[File:Oestelandia.png|thumb|120x120px]]06 de Diciembre del 2014
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #97b657" |Después de un mayor retraso de todos, el [[Eusebio Manguera|Sr. Manguera]] vende 31 Minutos al fan más fanático: el Señor Vaquero.
+|- class="vevent" style="text-align: center; background: #b8e261"
+|66
+|10
+|"[[Episodio 66: El Mayordomo|El Mayordomo]]"
+|[[File:El Mayordomo.png|thumb|120x120px]]13 de Diciembre del 2014
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #97b657" |[[Juanín Juan Harry|Juanín]] reemplaza al mayordomo detenido de asesino en el estudio por Jaime, sin saber que se trata de un zombie.
+|- class="vevent" style="text-align: center; background: #b8e261"
+|67
+|11
+|"[[Episodio 67: El Diario de Juanín|El Diario de Juanín]]"
+|[[File:El Diario de Juanin.png|thumb|120x120px]]20 de Diciembre del 2014
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #97b657" |[[Juanín Juan Harry|Juanín]], tras tener su diario web al que llama "''El Diario de Juanín''", se vuelve un éxito al burlarse de [[Tulio Triviño Tufillo|Tulio]] en un video.
+|- class="vevent" style="text-align: center; background: #b8e261"
+|68
+|12
+|"[[Episodio 68: La Gran Gala de Titirilquén|La Gran Gala de Titirilquén]]"
+|[[File:La Gran Gala de Titirilquen.png|thumb|120x120px]]27 de Diciembre del 2014
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #97b657" |En el piso número 1000 del edificio Themístocles Tufillo, se llevara a cabo el gran evento de todos los eventos.
+|}
+
+==Lista de Canciones==
+Esta es una lista de todas las canciones aparecidas en la temporada durante el [[Ranking Top]].
+*"[[Mi Mamá me lo Teje Todo]]" de [[Lino y Lana]].
+*"[[ Drácula, Calígula, Tarántula|Drácula, Calígula, Tarántula]]" de [[Coágula Espátulo]].
+*"[[Son Pololos]]" de [[La Corchetis]].
+*"[[El Huerfadrino]]" de [[Percy Mamani]].
+*"[[Mundo Interior]]" de [[Cápara Sonia]].
+*"[[Amurrao]]" de [[Eustaquio Renato]].
+*"[[Arwrarwrirwrarwro]]" de [[Bombi]].
+
+==Vídeos==
+=== Comerciales ===
+<gallery>
+¡Vuelve 31 Minutos! Buenos días a todos
+Karen y Julián sorprendidos por 31Minutos Buenos días a todos
+Iván Torres es sorprendido por 31Minutos Buenos días a todos
+Tulio en Cadena Nacional 31 Minutos en 24 Horas
+31 minutos "Este Sábado comienza la Invasión"
+31 minutos "Ellos vuelven a Invadir"
+Nueva temporada de 31 Minutos Buenos días a todos
+31 minutos - Aviso Cuarta temporada por Canal Once y Once Niños (México)
+</gallery>
+=== Making of ===
+<gallery>
+31 minutos - Debajo del títere - Daniel Castro
+31 minutos - Debajo del títere - Tito Velozo
+31 minutos - Debajo del títere - Pancho Schultz
+31 minutos - Debajo del títere - Jorge Miranda
+31 minutos - Debajo del títere - Felipe Godoy
+31 minutos - Debajo del títere - Álvaro Díaz
+31 minutos - Debajo del títere - Pato Diaz
+31 minutos - Debajo del títere - Cristian Mayorga
+31 minutos - Debajo del títere - Pedro Peirano
+31 minutos - Debajo del títere - Jani Dueñas
+31 minutos - Debajo del títere - Música y zombies
+31 minutos - Debajo del títere - Estudio Aplaplac
+</gallery>
+=== Entrevista ===
+<gallery>
+"31 Minutos" - nueva temporada
+</gallery>
+
+==Ver También==
+*[[Primera Temporada]]
+*[[Segunda Temporada]]
+*[[Tercera Temporada]]
+
+==Referencias==
+*[https://web.archive.org/web/20141004031919/http://www.31minutos.cl/post/31-minutos-invadiendo-tvn/ 31 Minutos invadiendo TVN (Archivo Backup)]
+*[http://www.31minutos.cl/post/galeria-31-minutos-invadiendo-tvn-making-of/ Galería: 31 minutos invadiendo TVN – Making of]
+*[http://www.31minutos.cl/post/31-minutos-making-of-nueva-temporada-cntv/ 31 minutos – Making of nueva temporada (CNTV)]
+[[Categoría:31 minutos]]
+[[Categoría:Temporadas]]

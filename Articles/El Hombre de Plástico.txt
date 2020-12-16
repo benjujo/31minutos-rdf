@@ -1,0 +1,37 @@
+{{Música|temporada = [[Primera Temporada]]|voces = [[Álvaro Díaz]]|álbum = [[31 Minutos (Álbum)]]|image1 = 31 minutos - Los títeres, presentando "El hombre de plástico"|intérprete = [[Lautaro Cabrera]]|apariciones = [[Episodio 3: Guerra en el Mar Despénsico]]}}
+
+'''El Hombre de Plástico''' es una de las canciones de [[31 Minutos]]. Aparece en la [[Primera Temporada]] de la serie, y aparece en el [[Episodio 3: Guerra en el Mar Despénsico]].
+
+==Letra==
+<tabber>
+|-|
+Canción =
+Soy un hombre de plástico,
+<br />
+Que merece respeto,
+<br />
+Que merece humanidad.
+<br />
+<br />
+Soy un hombre de plástico,
+<br />
+Qué tiene sentimientos,
+<br />
+¡Y que puede amar!
+<br />
+<br />
+Soy el hombre de plástico.
+<br />
+Soy el hombre de plástico.
+<br />
+<br />
+¡Díme títere!
+<br />
+¡Porque soy un títere!
+<br />
+¡Soy tu títere!
+</tabber>
+==Ver También==
+{{Plantilla:ListadeCanciones/Borrador}}
+[[Categoría:Canciones]]
+[[Categoría:Canciones de la primera temporada]]

@@ -1,0 +1,38 @@
+{{Fichapersonaje
+|image1 = Monstruo.png
+|Género = Masculino
+|Edad = 
+|especie = Monstruo
+|Nacimiento = 
+|Especialidad = |Ocupación = 
+|amigos = [[Juan Carlos Bodoque|Bodoque]], [[Policarpo Avendaño|Policarpo]]
+|enemigos = [[Tulio Triviño Tufillo|Tulio]]
+|Familia = 
+|Pareja(s) = 
+|Voz Original = 
+|primera_aparición = [[Episodio 1: El Comienzo|El Comienzo]]
+|última_aparición = [[Episodio 9: Día Libre|Día Libre]]"}}
+'''Monstruo Azul''' es uno de los personajes aparecidos en [[31 Minutos]].
+
+==Descripción==
+Es un monstruo peludo, enorme y agresivo. Aparece al final del episodio "[[Episodio 1: El Comienzo|El Comienzo]]", en donde este ataca a [[Tulio Triviño Tufillo|Tulio]] por insultarlo. En el episodio "[[Episodio 7: El Sr. Amable|El Sr. Amable]]" aparece en la nota de [[Mario Hugo]] "'''''Récord de Titirilquén'''''", en donde fue uno de los personajes que entraron a la lavadora para batir el récord. En el episodio "[[Episodio 9: Día Libre|Día Libre]]" aparece con los demás trabajadores del canal en una parrillada.
+
+==Apariciones==
+==='''Primera Temporada'''===
+*"[[Episodio 1: El Comienzo|El Comienzo]]"
+*"[[Episodio 7: El Sr. Amable|El Señor Amable]]"
+*"[[Episodio 9: Día Libre|Día Libre]]"
+
+==='''Segunda Temporada'''===
+*''No ha aparecido en ningún episodio''
+==='''Tercera Temporada'''===
+*''No ha aparecido en ningún episodio''
+==='''Cuarta Temporada'''===
+*''No ha aparecido en ningún episodio''
+
+==Ver También==
+{{Plantilla:PersonajesNav}}
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Personajes Menores]]
+[[Categoría:Villanos]]

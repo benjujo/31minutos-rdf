@@ -1,0 +1,12 @@
+{{Fichapersonaje
+|image1=Elmh.PNG
+|especialidad=Las cosas a medias
+}}
+{{Frase|Soy el medio hombre, y me gustan las cosas a medias|El medio hombre}}
+'''El medio hombre''' es un personaje secundario de 31 minutos.
+
+==Descripción==
+Es un hombre algo conflictivo, ya que siempre quiere la mitad de las cosas (un medio auto, una media casa, etc.), porque solo tiene la mitad de un cuerpo. 
+Su frase característica es: "Soy el medio hombre y me gustan las cosas a medias".
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]

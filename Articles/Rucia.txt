@@ -1,0 +1,17 @@
+{{Fichapersonaje
+|image1= Rucia.png
+|nombre_real=
+|primera_aparición = [[Capítulo 16: Enfermosis]]
+|género = 
+|familia = [[Otis S. Castro]] (Sobrino)
+|amigos=[[Calcetín con Ramones Man]]
+[[Pompón]]
+|especialidad = 
+|voces=[[Alejandra Dueñas]]
+|ocupación =Miembra del Club Secreto 
+|especie = Calcetín|edad = Adulta|aficiones = Estar con amigos|pareja = [[Calcetín con Rombos Man]] (Novio)|nacionalidad = Chilena}}
+'''La Rucia''' es un personaje de [[31 minutos]]. Es una calcetina novia de [[Calcetín con Rombos Man]] y la tía de [[Otis S. Castro|Otis]].
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Personajes Femeninos]]
+[[Categoría:Personajes de CCRM]]

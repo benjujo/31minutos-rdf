@@ -1,0 +1,59 @@
+{{Plantilla:Canción
+|Director = 
+|Temporada = Tercera
+|Interprete = [[Juan Osvaldo]]
+|Apariciones = "[[Episodio 51: La Alcancía|La Alcancía]]"
+|video = [[Archivo:Juan Osvaldo - Canción de la Leña (video original)|center|250px]]
+|Compositor = }}'''Canción de la Leña''' es una de las canciones de [[31 Minutos]]. Aparece en la [[Tercera Temporada]] de la serie, y aparece en el episodio "[[Episodio 51: La Alcancía|La Alcancía]]".
+
+==Letra==
+<tabber>
+|-|
+Canción =
+''(Hablando)''
+<br />
+Escuchen bien.
+<br />
+<br />
+''(Cantando)''
+<br />
+La leña es muy buena amiga,
+<br />
+Sólo tienes que escuchar esta canción.
+<br />
+Fíjate bien que esté muy seca,
+<br />
+Es el secreto de una mejor combustión.
+<br />
+<br />
+La leña húmeda provoca,
+<br />
+Un humo que es perjudicial. 
+<br />
+Aunque sin duda es más barata,
+<br />
+Al final nos va a matar.
+<br />
+<br />
+Si con paciencia recolectas,
+<br />
+Leña para Navidad.
+<br />
+En el invierno estará seca,
+<br />
+Y tu casa abrigará. 
+<br />
+<br />
+La leña es muy buena amiga,
+<br />
+Es un recurso renovable y de gran utilidad.
+<br />
+Fíjate bien que esté muy seca,
+<br />
+Porque la húmeda enferma y contamina la ciudad.
+</tabber>
+
+==Ver También==
+{{Plantilla:ListadeCanciones}}
+[[Categoría:Canciones]]
+[[Categoría:Canciones de la tercera temporada]]

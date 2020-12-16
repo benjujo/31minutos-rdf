@@ -1,0 +1,31 @@
+{{Fichapersonaje|especie = Humana (Títere)|edad = Adulta|nacionalidad = Alemana|ocupación = Pacifista (Anterior)<br/>Fitupóloga<br/>Científica<br/>Ingeniera|especialidad = Todos los campos científicos|voces = [[Alejandra Dueñas]]|primera_aparición = [[Episodio 57: La Mona Lisa]]|última_aparición = [[Episodio 63: Jack Patata]]|apodos = Profesora<br/>Doctora<br/>Ingeniera|amigos = Gaston (Asistente)|image1 = Helga Szwazzsenberg-T4.png}}{{Frase|Ah, tendría que ser alguien muy malo o muy imbécil|Helga|hablando sobre la bomba en su antigua entrevista}}'''Helga Szwazzsenberg''' es un personaje de 31 Minutos. Es una científica que aparece ocasionalmente.
+==Historia==
+Muchos años antes, presumiblemente en los 80, [[31 Minutos (Noticiero)|31 Minutos]] le hizo una entrevista por parte del conductor [[Tulio Triviño Tufillo|Tulio Triviño]], en ese entonces Helga Szwazzsenberg era una pacifista a la que se le encargo la tarea de custodiar el botón de activación de una bomba atómica.
+
+Ella explica que solo alguien que quería hacer tal acto debería ser una persona muy mala o muy imbécil. Tulio afirma que no es malo y en un instinto de estupidez presiona el botón, Helga le grita: ''¡Imbécil! ''y explota la bomba, irradiando su alrededor. Desde entonces esa entrevista de Tulio se le considera la peor de la historia.
+
+En el presente, Helga Szwazzsenberg se ha convertido en una aplicada científica, incluso descubriendo como acabar con todo el hambre, pero fue ignorada por Tulio al no ser algo de su interés. 
+
+<nowiki>También ha ayudando en casos como los ''fitupos'' ocultos en el jardín de Don Tiburcio Lacho, un caso reportando por Mario Hugo. Durante la noche, ella y su asistente Gaston llevan a Mario Hugo y a Don Tiburcio hacia el Detecta-fitupo-móvil, una furgoneta donde vigilan las cámaras instaladas para ver la actividad de los fitupos.</nowiki>
+
+En los shows en vivo, en <nowiki>''</nowiki>[[Tremendo Tulio Tour]]<nowiki>'' ella diagnostica a Tulio de tener una ataque de panicosis y en ''</nowiki>[[Yo Nunca vi Televisión (Show)|Yo Nunca vi Televisión]]<nowiki>''</nowiki> ella se encarga de explicar el lanzamiento de la pizza más grande del mundo hacia el espacio.
+
+También aparece en [[Cuarentena 31]], siendo contactada por [[Juan Carlos Bodoque]] para explicarlas sobre algunas dudas de la pandemia.
+
+==Apariciones==
+==='''Cuarta Temporada'''===
+*'''Episodio 57: La Mona Lisa'''
+*'''Episodio 61: El Meteorito'''
+*'''Episodio 63: Jack Patata'''
+==='''Shows en Vivo'''===
+*'''Tremendo Tulio Tour'''
+*'''Yo Nunca vi Televisión (Show)'''
+
+=== '''Campañas''' ===
+* '''Cuarentena 31'''
+
+== Curiosidades ==
+* Por su forma de hablar español se muestra que Helga es de Alemania, incluso diciendo algunas palabras alemanas como <nowiki>''Nein'' (No) y ''Sehr gut''</nowiki> (Muy bien).
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Personajes Femeninos]]

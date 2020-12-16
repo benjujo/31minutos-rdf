@@ -1,0 +1,23 @@
+{{Fichapersonaje|nombre_real = Marito Bodoque|especie = Conejo|edad = 10|nacimiento = La Serena, Chile|nacionalidad = Chilena|ocupación = Estudiante|especialidad = Ser travieso en clases|aficiones = Reciclaje|familia = [[Juan Carlos Bodoque]] (Tío)|voces = [[Álvaro Díaz]]|primera_aparición = [[Episodio 1: El Comienzo]]
+[[Episodio 4: Benjamín Listillo]] (Identificado)|última_aparición = [[Episodio 19: Lo Mejor de 31 Minutos (Primera Parte)]]|image1 = Marito.png}}{{Frase|Tío Juan Carlos, aquí en en el colegio juntamos latas, papeles y cartones para reciclar|Marito|explicándole a su tío}}'''Marito''' es uno de los personajes en [[31 Minutos]],  apareciendo especialmente en la [[Nota Verde]].
+
+== Características ==
+Es un títere de mano de conejo azul, tiene pelo rojo, nariz rosada, ojos amarillos y manos rojas. Tienes un solo diente que sobresale se su boca.
+
+==Historia==
+Aparece como uno de los títeres que participaron en la foto de [[Jacobo Fotonolovski]]. En la nota verde "'''''El Reciclaje'''''", se descubre que es uno de los sobrinos de [[Juan Carlos Bodoque|Bodoque]], y que sabe mucho sobre el tema del reciclaje gracias a su colegio <nowiki>''Oscar Aldunate''</nowiki>. Aparece en la nota de [[Mario Hugo]] "'''''Récord de Titirilquén'''''", en donde él es uno de los ciudadanos de [[Titirilquén]] que entro a la lavadora para batir el récord. Aparece en el vídeo de la canción "'''''[[Me Cortaron Mal el Pelo]]'''"'', siendo uno de los compañeros de [[Chascoberto]] que lo molestaba por su mal corte.
+
+==Apariciones==
+==='''Primera Temporada'''===
+*"[[Episodio 1: El Comienzo|El Comienzo]]"
+*"[[Episodio 2: El Árbol Furioso|El Árbol Furioso]]"
+*"[[Episodio 7: El Sr. Amable|El Sr. Amable]]"
+*"[[Episodio 19: Lo Mejor de 31 Minutos (Primera Parte)|Lo Mejor de 31 Minutos (Primera Parte)]]"
+**Aparece en la canción "[[Me Cortaron Mal el Pelo]]" de [[Chascoberto]].
+==Ver También==
+{{Plantilla:PersonajesNV}}
+{{Plantilla:PersonajesCantantes}}
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Personajes Menores]]
+[[Categoría:Personajes en la Nota Verde]]

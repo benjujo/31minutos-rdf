@@ -1,0 +1,68 @@
+{{Plantilla:Canción
+|nombre = El Arrepentimiento<br>de Juan Carlos Bodoque
+|Director = [[Daniel Castro]]<br>[[Álvaro Díaz]]<br>[[Pablo Ilabaca]]<br>[[Pedro Peirano]]<br>[[Rodrigo Salinas]]
+|Temporada = Segunda
+|Interprete = [[Juan Carlos Bodoque]]
+|Apariciones = "[[Especial de Navidad]]"
+|video = [[Archivo:31 minutos - El arrepentimiento de Juan Carlos Bodoque|center|250px]]
+|Compositor = }}'''El Arrepentimiento de Juan Carlos Bodoque''' es una de las canciones de [[31 Minutos]]. Aparece en la [[Segunda Temporada]] de la serie, y aparece en el episodio "[[Especial de Navidad]]".
+
+==Letra==
+<tabber>
+|-|
+Canción =
+''(Hablando)''
+<br />
+¿Por qué fui tan irresponsable, si todo era muy, pero muy simple?
+<br />
+¿Por qué aposté los regalos si no eran míos?
+<br />
+¿Cómo les explico a mis amigos que esta Navidad será tan, pero tan triste?
+<br />
+<br />
+''(Cantando)''
+<br />
+No sé por qué... ''(¿Por qué tenías que apostar?)''
+<br />
+No me pude aguantar... ''(¿Por qué tenías que apostar?)''
+<br />
+<br />
+''(Hablando)''
+<br />
+¿Y ahora? Ahora estoy destruido, no tengo escapatoria.
+<br />
+Si tuviera un mísero regalo, lo apostaría de nuevo,
+<br />
+Para recuperar los otros. ¡Lo sé!
+<br />
+Es el juego, esta maldita enfermedad que no me abandona.
+<br />
+<br />
+''(Cantando)''
+<br />
+No sé por qué... ''(¿Por qué tenías que apostar?)''
+<br />
+Quería una gran Navidad... ''(¿Cómo lo vas a explicar?)''
+<br />
+Mi conciencia me va a liquidar... ''(Tu culpa debes enfrentar)''
+<br />
+¡La cara tengo que dar!... ''(¿Por qué tenías que apostar?)''
+<br />
+<br />
+¡NOOO! ¡AAAH!
+<br />
+<br />
+''(Qué apostar...)'' ¡MIRA MI MUERTE!
+<br />
+''(Qué apostar...)'' ¡POR QUÉ HE DE MORIR!
+<br />
+''(Qué apostar...)'' ¡AAAH!
+</tabber>
+
+==Curiosidades==
+*Las líneas “''Mira mi muerte''” y “''Por qué he de morir''” son una referencia a la canción “'''''Getsemani'''''” del musical '''Jesucristo Superstar''' (1970).
+
+==Ver También==
+{{Plantilla:ListadeCanciones}}
+[[Categoría:Canciones]]
+[[Categoría:Canciones de la segunda temporada]]

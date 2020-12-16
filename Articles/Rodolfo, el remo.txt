@@ -1,0 +1,19 @@
+{{Música|intérprete = Rodolfo, el remo y los clásicos personajes navideños|composición = Adaptación de ''Rudolph the Red-Nosed Reindeer'' de Johnny Marks|voces = [[Álvaro Díaz]] (Rodolfo)|apariciones = [[Calurosa Navidad (Show)]]|image1 = 31 minutos - Rodolfo, el remo (audio en vivo)}}'''Rodolfo, el remo''' es una de las canciones aparecidas en el show en vivo [[Calurosa Navidad (Show)|Calurosa Navidad]], siendo agregada desde la versión de 2017 del show en su temporada debut en México.
+
+== Letra ==
+<tabber>
+|-|
+Canción =
+Era Rodolfo el Remo,
+<br />
+que tenía su barniz,
+<br />
+rojo como su bote
+<br />
+en que remaba feliz
+<br />
+¡En que remaba feliz!
+</tabber>
+
+{{ListadeCanciones}}
+[[Categoría:Canciones]]

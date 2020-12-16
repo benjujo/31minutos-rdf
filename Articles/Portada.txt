@@ -1,0 +1,14 @@
+<mainpage-leftcolumn-start />
+{{cabecera}}
+<mainpage-endcolumn />
+<mainpage-rightcolumn-start />
+{{NE}}
+<mainpage-endcolumn />
+<br style="clear: both;" />
+<mainpage-leftcolumn-start />
+<mainpage-endcolumn />
+<mainpage-rightcolumn-start />
+<mainpage-endcolumn />{{HeadingB|titulo = Wikis Aliadas|contenido = [[Archivo:Zombies_Fanon_Wiki_wordmark.png|170px|link:w:c:es.zombies-fanon|Zombies Fanon]] [[Archivo:Wiki_Hora_de_Aventura-wordmark.png|170px|link:w:c:horadeaventura|Hora de Aventura]]
+}}
+{{:w:Template:Es.entertainment}}
+[[Categoría:publicidad]]

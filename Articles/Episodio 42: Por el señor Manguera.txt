@@ -1,0 +1,33 @@
+{{Capitulo
+|image1=31 minutos - Episodio 3*01 - Por el señor Manguera
+|temporada=[[Tercera Temporada|3]]
+|ep_temporada=1
+|ep_global=42
+|estreno=19 de junio de 2005
+|invitados=[https://es.wikipedia.org/wiki/Rafael_Cavada Rafael Cavada] (como él mismo)
+|anterior=[[Episodio 41: Fiesta en la Casa de Juanín]]
+|siguiente=[[Episodio 43: La Máquina del Tiempo]]
+}}
+'''Por el señor Manguera''' es el primer episodio de la [[Tercera temporada]] de [[31 Minutos]] y el episodio 42 en total. 
+==Sinopsis==
+El Sr. Manguera concuerda con los expertos en que 31 minutos es una mugre y llama a los periodistas del programa a que salgan a buscar verdaderas noticias. Desafortunadamente, el primer golpe noticioso del programa es cómo el mismo Sr. Manguera cometía un secuestro de ventiladores, por lo que es sometido a un complicado juicio en el que, aunque gana, pierde todo su dinero y el programa termina. Un año después, unos decadentes Tulio y Juanín deciden volver a reunir al resto del equipo para poder levantar de la ruina al malogrado Sr. Manguera y volver con sus antiguos empleos realizando una teletón.
+
+== Secciones ==
+
+===Noticias===
+*El ventilador Juanito: Mario Hugo intenta entrevistar al Ventilador Juanito, pero obviamente éste no le contesta. Interrumpida por secuestro.
+*Secuestro de ventiladores: Mario Hugo descubre que el señor Manguera es un coleccionista de ventiladores.
+
+=== Canción de estreno ===
+*[[Ríe]], de [[Cucho Lambretta]]
+==Hechos y referencias culturales==
+*Único episodio del programa que no es un especial ni final de temporada en que no aparecen ninguna de las secciones del programa.
+*La Mangueratón es una clara alusión a la Teletón, campaña solidaria emprendida en Chile por el famoso presentador Mario Kreutzberger, <nowiki>''Don Francisco''</nowiki> y que en 2005 no se realizó debido a las elecciones presidenciales y parlamentarias.
+*Actuación especial de [http://es.wikipedia.org/wiki/Rafael_Cavada Rafael Cavada] como él mismo.
+
+== Canciones prestadas ==
+*''Edward Elgar – Pomp and Circumstance March No. 1'': Esta marcha orquestal se escucha cuando aparece el donante Don Triston Rodríguez.
+*''Antonio Vivaldi – Las cuatro estaciones:'' Esta marcha orquestal se escucha cuando creen haber alcanzado la meta en el segundo computo, pero fue un error de [[Huachimingo]].
+*''Yazoo – Sweet Thing'': Esta canción se escucha cuando [[Mario Hugo]] hace un reporte flash desde el <nowiki>''banco''</nowiki>.
+[[Categoría:Episodios]]
+[[Categoría:Episodios de la tercera temporada]]

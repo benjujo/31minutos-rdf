@@ -1,0 +1,22 @@
+{{Música|image1 = 31 minutos - Tulio ya llegó a la ciudad (audio en vivo)|intérprete = [[Tramoyas]]|composición = Adaptación de ''Santa Claus Is Comin’ to Town'' de John Frederick Coots y Haven Gillespie|voces = [[Patricio Díaz]] y otros interpretes|apariciones = [[Calurosa Navidad (Show)]]}}'''Tulio ya llego a la ciudad''' es una de las canciones en el show en vivo [[Calurosa Navidad (Show)|Calurosa Navidad]]. Es una cortina musical que aparece cuando Tulio entra al escenario como <nowiki>''el Tulio Pascuero''</nowiki> (Santa Claus); también un adaptación de la clásica canción en inglés ''"Santa Claus Is Comin’ to Town"''.
+
+== Letra ==
+<tabber>
+|-|
+Canción =
+Te portaste bien,
+<br />
+tendrás un regalo,
+<br />
+te portaste mal,
+<br />
+no tendrás ni un palo,
+<br />
+Tulio ya llegó a la ciudad.
+</tabber>
+
+==Curiosidades==
+*Esta cortina musical era la única música nueva de la primera versión de Calurosa Navidad en 2014, el resto de canciones de incorporarían en la versión 2017, debutada en México.
+
+{{ListadeCanciones}}
+[[Categoría:Canciones]]

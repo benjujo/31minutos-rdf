@@ -1,0 +1,23 @@
+{{Fichapersonaje
+|image1 = <gallery>
+ChanchoT4.jpg|Película-T4
+Chancho.jpeg|T1 al T3
+</gallery>
+
+|especie = Cerdo
+|nacionalidad = Chilena
+|especialidad = Molestar
+|afiliaciones = [[La Liga del Mal]]
+|voces = [[Rodrigo Salinas]]
+}}'''Chancho Irrarázabal''' es uno de los personajes secundarios de [[31 Minutos]].
+
+== Apariencia ==
+En la primera, segunda y tercera temporada era un peluche pequeño. En la película y en la cuarta temporada pasa a ser un títere más grande, con barba, camisa blanca y con brazos más largos, y ahora sería café con rosa.
+
+== Descripción ==
+Este encuestado habitual de [[Mico el Micófono]], es un peluche de chancho (cerdo) rosado que siempre termina riéndose de forma pesada o sangrona.
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Villanos]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Encuestados]]

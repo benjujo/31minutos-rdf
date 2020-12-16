@@ -1,0 +1,21 @@
+{{Fichapersonaje|image1 = Nancy.png|nombre_real = Nancy Cachete|apodos = La bruja Granuja|especie = Humana (Títere)|edad = Adulta|nacionalidad = Chilena|ocupación = Actriz|afiliaciones = ''Los Títeres''|amigos = [[Maximiliano Ortiz]]<br>[[Rogelio Patraña]]<br>[[Celestina Reyes]]<br>[[Lautaro Cabrera]]<br>[[Policarpo Avendaño]]|enemigos = [[Maximiliano Ortiz]] (Obra en teleserie)<br>[[Rogelio Patraña]] (Obra en teleserie)<br>[[Celestina Reyes]] (Obra en teleserie)<br>[[Lautaro Cabrera]] (Obra en teleserie)|voces = [[Pedro Peirano]]|primera_aparición = [[Episodio 1: El Comienzo]]|última_aparición = [[Episodio 5: El Monstruo Chupa-Chupa]]}}
+
+'''Nancy Cachete''' es uno de los personajes aparecidos en [[31 Minutos]].
+
+==Descripción==
+Es una de las actrices que participa en la teleserie ''"Los Títeres",'' como "''La Bruja Granuja''". 
+
+En su entrevista con [[Policarpo Avendaño|Policarpo]], menciona que vivió un mes como unas brujas títere aprendiendo sus costumbres y modismos, teniendo un gran trabajo con el director y los actores, y mencionando que el equipo de maquillaje hizo un gran trabajo.
+
+==Apariciones==
+==='''Primera Temporada'''===
+*"[[Episodio 1: El Comienzo|El Comienzo]]"
+*"[[Episodio 2: El Árbol Furioso|El Árbol Furioso]]"
+*"[[Episodio 3: Guerra en el Mar Despénsico|Guerra en el Mar Despénsico]]"
+*"[[Episodio 4: Benjamín Listillo|Benjamín Listillo]]"
+*"[[Episodio 5: El Monstruo Chupa-Chupa|El Monstruo Chupa-Chupa]]"
+==Ver También==
+{{Plantilla:PersonajesNav}}
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes Femeninos]]
+[[Categoría:Personajes secundarios]]

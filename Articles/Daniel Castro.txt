@@ -1,0 +1,24 @@
+{{Fichapersonaje
+|image1 = Danielcastro.png
+|nombre_real = Daniel Castro Steinert
+|apodos = Flacosis
+|nacimiento = 1978
+|nacionalidad = Chileno
+|ocupación = Guionista<br>Titiritero<br>Intérprete<br>Actor<br>Letrista<br>Realizador
+}}'''Daniel Castro''', también conocido como el '''Flacosis''', es un guionista y titiritero de [[31 Minutos]]. Es la voz de [[Policarpo Avendaño]], [[Calcetín con Rombos Man]], [[Mico el Micófono]], entre otros personajes e intérprete musical en canciones, como el hermano guaren [[Hermanos Guarennes|Huermanco, o Tangananica.]]
+
+Es egresado de la Escuela de Cine de Chile. Fue el guionista de las series <nowiki>''Block'', ''Clarita'', ''Huaquiman y Tolosa'', entre otras. También fue uno de los guionistas del corto animado chileno ''Historia de un oso''</nowiki>, ganador de un Premio Óscar en 2014.
+
+== Vídeos ==
+=== Debajo del títere ===
+<gallery>
+31 minutos - Debajo del títere - Daniel Castro
+31 minutos - Debajo del títere - Música y zombies
+</gallery>
+<gallery>
+Encuestame si puedes.jpg
+Calcetín Rombosman T1-T3.jpg
+</gallery>
+[[Categoría:31 minutos]]
+[[Categoría:Staff de 31 Minutos]]
+[[Categoría:Voces]]

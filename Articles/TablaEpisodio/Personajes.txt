@@ -1,0 +1,7 @@
+<div style="text-align:center">
+<div style="float:left; width:16%; padding: .5em 0;">'''[[{{{General|{{BASEPAGENAME}}}}}|General]]'''</div>
+<div style="float:left; width:16%; padding: .5em 0;">'''[[{{{General|{{BASEPAGENAME}}}}}/Secciones|Secciones]]'''</div><div class="MPInterior" style="{{Border-radius2|5px|5px|0px|0px}};float:left; width:16%; padding: .5em 0;font-weight:bold; color: black; background-color:#FE7E03; border:2px solid #A61015; border-bottom:0px; border-bottom:0; font-size:120%;">Personajes</div>
+<div style="float:left; width:17%; padding: .5em 0;">'''[[{{{General|{{BASEPAGENAME}}}}}/Curiosidades|Curiosidades]]'''</div>
+</div style="text-align:center">
+
+<div style="clear:both; width:99%; padding:5px; border:2px solid #A61015; background-color: transparent"> </div>

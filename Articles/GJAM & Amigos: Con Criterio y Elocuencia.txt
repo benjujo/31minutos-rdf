@@ -1,0 +1,23 @@
+{{Disco
+|nombre = GJAM & Amigos:<br>Con Criterio y Elocuencia
+|image = [[Archivo:GJAM y Amigos.png|center|150px]]
+|Formato = 
+|Duración = 13:55
+|Discográfica = El Despacho Discos
+|Año = 2014
+|Productor = Denso, el Condenser<br>Ramón
+|Compilador = 
+|anterior = 
+|siguiente =}}'''GJAM & Amigos: Con Criterio y Elocuencia (Canciones de 31 Minutos)''' es el nombre de un disco tributo a las canciones de la serie [[31 Minutos]]. En el 2014, se editan el EP del álbum, con la participación de Denso, el condenser y Ramón.
+
+==Temas==
+#'''En el Continente Negro''' (''Rossi - Dianello'')
+#'''[[Lala]]''' (''Ilabaca - Peirano'')
+#'''El Falsificador de Caramelos'''
+#'''[[Yo Opino]]''' (''Díaz - Espinoza - Salinas'')
+#'''[[Bailan sin César]]''' (''Ilabaca - Salinas'')
+#'''[[Mala]] (Parte 1)''' (''Castro - Díaz - Díaz Jr. - Salinas'')
+#'''[[El Dinosaurio Anacleto]]''' (''Díaz'')
+#'''[[Mala]] (Parte 2)''' (''Castro - Díaz - Díaz Jr. - Salinas'')
+#'''[[Presentación|Tema Central 31 Minutos]]'''
+[[Categoría:Álbumes]]

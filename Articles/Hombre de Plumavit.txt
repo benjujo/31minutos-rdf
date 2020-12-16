@@ -1,0 +1,14 @@
+{{Fichapersonaje
+|image1=31min_cap16_plumavit.jpg
+|especie=Hombre de plumavit
+|ocupación=Ladrón de plumavit
+|especialidad=Robar plumavit
+|primera_aparición=[[Episodio 16: Enfermosis]]
+}}
+{{Frase|Es el Hombre de Plumavit, y solo quiere plumavit|[[Tulio Triviño]]}}
+El '''Hombre de Plumavit''' es un personaje de [[31 minutos]]. 
+
+==Descripción==
+Es un ser hecho totalmente de plumavit. Aparece en una nota del episodio [[Episodio 16: Enfermosis|Enfermosis]], robando solo cosas de plumavit.
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]

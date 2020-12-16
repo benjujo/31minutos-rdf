@@ -1,0 +1,34 @@
+{{Fichapersonaje|image1 = ChamanPelmazo.png|nombre_real = Pelmazo|apodos = Chamán Pelmazo
+Chamán|especie = Humano (Títere)|edad = Adulto|nacionalidad = Chilena|ocupación = Guía espiritual
+Chamán
+
+Consejero|especialidad = Ayudar con dudas existenciales|Residencia = Desierto de Atacama|amigos = [[Juan Carlos Bodoque]]|discípulos = [[Juan Carlos Bodoque]]|voces = [[Álvaro Díaz]]|primera_aparición = [[Episodio 15: No te vayas, Juanín]]|última_aparición = [[Episodio 28: Bodoque Deprimido]]}}
+{{Frase|Las preguntas corrientes, Bodoque. ¿Quieres información sobre todo eso? Te sugiero que vayas a Paranal.|Chamán Pelmazo|hacia Juan Carlos Bodoque.}}
+
+El '''Chamán Pelmazo''' es uno de los personajes secundario de [[31 Minutos]]. Es un guía espiritual que aparece en la [[Nota Verde]] de [[Juan Carlos Bodoque]].
+
+==Características==
+
+Es un títere que representa a un humano con barba negra, con un diente que sobresale y nariz negra. Viste una camiseta de mangas largas verde y un gorro altiplanico o Chullo, que es originario del altiplano andino del Perú y de uso expandido en Chile, Bolivia, Argentina y Ecuador.
+
+==Historia==
+
+El Chamán Pelmazo es un guía espiritual que suele estar en el Desierto de Atacama, haciendo meditación y cantos. En algún punto de su vida, el reportero estrella de [[31 Minutos (Noticiero)|31 Minutos]], [[Juan Carlos Bodoque]] se hizo discípulo del Chamán Pelmazo para poder solucionar sus dudas personales, espirituales y existenciales.
+
+En una ocasión, el Chamán Pelmazo ayudo a [[Juan Carlos Bodoque|Juan Carlos]] en su problema de soledad y destino en el universo y el Chamán le sugirío a ir al Observatorio Astronómico Paranal, que casualmente estaba cerca de donde ellos estaban.
+
+Volvería a encontrarse de nuevo con [[Juan Carlos Bodoque|Juan Carlos]] después de que este estrellara su avioneta en el Desierto de Atacama y llegara al atardecer al Valle de la Luna, donde encontraría a su guía espiritual. El Chamán Pelmazo le ofreció contarle sobre el lugar a cambio del gorro de aviador que llevaba; el conejo acepto de mala manera, llamándolo ‘‘Sin vergüenza’’. 
+
+Después de contarle al conejo que el Valle de la Luna, valga la redundancia, se llama así por ser lo más parecido a la superficie a la Luna en la Tierra, el Chamán se va con su nuevo gorro y dejando al reportero con la sensación agridulce por la sencilla explicación del nombre del lugar.
+
+Durante la depresión de [[Juan Carlos Bodoque]]  al tener un mal día, Tulio le muestra a su amigo un vídeo de apoyo del Chamán Pelmazo, que le decía que era su mejor discípulo y que hizo bien en hacerse amigo de [[Tulio Triviño Tufillo|Tulio Triviño]]. [[Juan Carlos Bodoque|Juan Carlos]], en su actitud pesimista tomó el mensaje como el peor consejo que le hayan dado en su vida y que su maestro era un charlatán.
+==Apariciones==
+===Primera Temporada===
+*Episodio 15: No te vayas, Juanín
+*Episodio 16: Enfermosis
+===Segunda Temporada===
+*Episodio 28: Bodoque Deprimido
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Personajes en la Nota Verde]]
+[[Categoría:Personajes secundarios]]

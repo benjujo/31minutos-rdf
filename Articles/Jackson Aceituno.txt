@@ -1,0 +1,33 @@
+{{Fichapersonaje
+|name=Jackson Aceituno
+|image1=<gallery>
+Jacksont2.jpg|T2 en adelante
+Jacksont1.jpg|T1
+</gallery>
+|imagesize=
+|nombre=
+|especie= Oso (posible)
+|ocupación= Corresponsal de guerra
+Reportero
+|especialidad=Conflictos bélicos
+|nota= 
+|voces=[[Daniel Castro]]
+|primera_aparición=[[Episodio 3: Guerra en el Mar Despénsico]]
+|ultima aparición=
+|género = 
+|nombre_real = |nacimiento = |nacionalidad = Española-Chilena|última_aparición = [[Episodio 59: Patana Enamorada]]  (cameo entre los periodistas)}}{{Frase|Sí, Tulio. Continua la guerra entre dos naciones hermanas: [[Salsacia]] y [[Conservia]]|Jackson Aceituno|en su primera aparición}}'''Jackson Aceituno''' es un personaje de [[31 Minutos]]. Es el corresponsal del noticiero.
+
+==Historia==
+Es un corresponsal de [[31 Minutos (Noticiero)|31 Minutos]], con acento español. La mayoría de las veces reporta la guerra entre [[Salsacia]] y [[Conservia]] en el [[Mar Despénsico]] como también otros hechos y conflictos internacionales.
+
+En sus primeras apariciones tiene su rostro descubierto, pero a partir de la [[Segunda Temporada]] cubre su rostro con una pañoleta debido a una cirugía mal hecha. Por estar siempre afuera en el extranjero, de los funcionarios del programa, nadie lo conoce en detalle. En la [[Tercera Temporada]], aparecen entre los varios trabajadores del canal que [[Raúl Guantecillo]] trae de regreso.
+
+Aunque no tiene una participación relevante en la [[Cuarta Temporada]], aparece en la nueva versión de [[presentación]] del programa como uno de los varios reporteros del noticiero. También aparece como cameo en el [[Episodio 59: Patana Enamorada]], estando durmiendo al lado otros periodistas.
+
+== Curiosidades ==
+* Su nombre está sacado de un amigo del realizador [[Rodrigo Salinas]], quien de verdad se llama así.
+* El acento de Jackson Aceituno es una parodia a [http://es.wikipedia.org/wiki/Amaro_G%C3%B3mez-Pablos Amaro Gómez-Pablos], español reportero y presentador en Chile conocido por conducir el noticiero de TVN, y antes de eso, fue corresponsal para CNN en tiempos de guerra.
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Trabajadores del canal]]

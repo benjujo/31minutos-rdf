@@ -1,0 +1,139 @@
+Esta lista muestra todas las canciones de 31 Minutos.
+
+==Primera Temporada==
+{| class="article-table" border="0" cellspacing="1" cellpadding="1" style="width:500px;"
+|-
+! scope="col" |Me cortaron mal el pelo
+! scope="col" |[[Chascoberto]]
+|-
+|'''Tangananica, Tangananá'''
+|[[Hermanos Guarennes|'''Hermanos Guarennes''']]
+|-
+|'''Lala'''
+|[[Lolo|'''Lolo''']]
+|-
+|'''Diente blanco, no te vayas'''
+|[[John Quijada|'''John Quijada''']]
+|-
+|'''Mi muñeca me habló'''
+|[[Flor Bovina|'''Flor Bovina''']]
+|-
+|'''Bailan sin Cesár'''
+|'''[[LLUEHHHB]] ft. '''
+[[César|'''César''']]
+|-
+|'''Señora, Devuélvame la pelota o sino no sé que hare'''
+|[[Pepe Lota|'''Pepe Lota''']]
+|-
+|'''Yo opino'''
+|[[Joe Pino|'''Joe Pino''']]
+|-
+|'''Mi equilibrio espiritual'''
+|[[Freddy Turbina|'''Freddy Turbina''']]
+|}
+
+==Segunda Temporada==
+{| class="article-table" border="0" cellspacing="1" cellpadding="1" style="width:500px;"
+|-
+! scope="col" |'''El Dinosaurio Anacleto'''
+! scope="col" |[[Dinosaurio Roberto]]
+|-
+|'''Rin Raja'''
+|[[Juan Tástico|'''Juan Tástico''']]
+|-
+|'''Severlá'''
+|[[Otto y los Sarcofagos del Ritmo|'''Otto y los Sarcofagos del Ritmo''']]
+|-
+|'''Boing, Boing, Boing'''
+|[[Tío Horacio|'''Tío Horacio''']]
+'''y sus queridos personajes'''
+|-
+|'''Sra. Interesante'''
+|'''[[Cucky]]'''
+|-
+|'''Objeción Denegada'''
+|[[Juan Pablo Sopa|'''Juan Pablo Sopa''']]
+|-
+|'''Nunca me he sacado un 7'''
+|[[Michael Astudillo Jr.|'''Michael Astudillo Jr.''']]
+|-
+|'''Doggy Style'''
+|'''[[Duque]]'''
+|-
+|'''Papá, te quiero'''
+|
+[[Exequiel Tapia|'''Exequiel Tapia''']]''' y [[los Tapia]]'''
+|}
+==Tercera Temporada==
+{| class="article-table" border="5" cellspacing="1" cellpadding="1" style="width:500px;"
+|-
+! scope="col" |
+'''Ríe'''
+! scope="col" |
+[[Cucho Lambretta]]
+|-
+|'''Guácala'''
+|[[Carmencita|'''Carmencita''']]
+|-
+|'''Un Castillo de Blanca Arena con Vista al Mar'''
+|[[Gary González|'''Gary González''']]
+|-
+|'''La Regla Primordial'''
+|[[Retrete Navarrete|'''Retrete Navarrete''']]
+''' y [[Los Bulliciosos]]'''
+|-
+|'''Parque de Diversiones'''
+|[[Milton Ludovico|'''Milton Ludovico''']]
+|-
+|'''Mr. Guantecillo'''
+|[[Hermanos Computadores de Paine|'''Hermanos Computadores de Paine''']]
+|-
+|'''Ratoncitos'''
+|[[Ratoncitos (Grupo)|'''Ratoncitos (Grupo)''']]
+|}
+
+== Cuarta Temporada ==
+{| border="0" cellspacing="1" cellpadding="1" style="width:500px;" class="article-table"
+|-
+! scope="col"|
+Mi Mamá me lo Teje Todo
+! scope="col"|
+[[Lino y Lana]]
+|-
+|'''Drácula, Calígula, Tarántula'''
+|[[Coágula Espátulo|'''Coágula Espátulo''']]
+|-
+|'''Son Pololos'''
+|[[La Corchetis|'''La Corchetis''']]
+|-
+|'''El Huerfadrino'''
+|[[Percy Mamani|'''Percy Mamani''']]
+|-
+|'''Mundo Interior'''
+|[[Cápara Sonia|'''Cápara Sonia''']]
+|-
+|'''Amurrao'''
+|[[Eustaquio Renato|'''Eustaquio Renato''']]
+|-
+|'''Arwrarwrirwrarwro'''
+|[[Bombi|'''Bombi''']]
+|}
+
+== Episodicas ==
+
+=== Temporada 1 ===
+{| class="article-table" border="0" cellspacing="1" cellpadding="1" style="width:500px;"
+|-
+! scope="col" |El hombre de plástico
+! scope="col" |[[Lautaro Cabrera]]
+|-
+|'''Yo vengo de titirilquén'''
+|[[Patana Tufillo|'''Patana Tufillo''']]''' y el resto'''
+|-
+|'''Yo nuca vi televisión(y, luego sí, pero después no)'''
+|[[Tulio y sus amigos|'''Tulio y sus amigos''']][[Categoría:Canciones]]
+[[Categoría:Canciones de la primera temporada]]
+[[Categoría:Canciones de la segunda temporada]]
+[[Categoría:Canciones de la tercera temporada]]
+[[Categoría:Canciones de la cuarta temporada]]
+|}

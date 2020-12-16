@@ -1,0 +1,34 @@
+{{Fichapersonaje
+|image1 = <gallery>
+Hermanos_Guarennes_T4.png|T4
+4850324 640px.jpg|T1
+</gallery>
+|caption1 = De izquierda a derecha: Smidson y Huermanco
+|integrantes = Huermanco/Tangananica<br/>Smidson/Tangananá<ref>31 Minutos en Sofoca - [http://www.sofoca.cl/31minutos/leseras/ranking-top-y-otras-canciones/ Ranking Top y otras canciones]</ref>
+|especie = Guarén (rata)
+|edad = Jóvenes
+|nacionalidad = Chilena
+|ocupación = Estudiantes
+|especialidad = Pelear entre ellos
+|familia = Mamá (referenciada en el video)<br/>[[Policarpo Avendaño]] (tío)
+|cancion = [[Tangananica, Tangananá]]
+|album = [[31 Minutos (Álbum)|31 Minutos]]
+|top = [[Episodio 3: Guerra en el Mar Despénsico]]
+|voces = [[Daniel Castro]] (Huermanco/Tangananica)<br/>[[Pedro Peirano]] (Smidson/Tangananá)
+|primera_aparición = [[Episodio 1: El Comienzo]]
+|última_aparición = [[Episodio 61: El Meteorito]]
+|genero = Masculino
+}}Los '''Hermanos Guarennes''' son dos gemelos que cantan la canción [[Tangananica, Tangananá]]. Son los sobrinos de [[Policarpo Avendaño]] y se la pasan discutiendo.
+
+== Descripción ==
+Son hermanos gemelos que normalmente se la pasan discutiendo sobre que palabra es mejor: si el ''<nowiki>''Tangananica''</nowiki>'' o el ''<nowiki>''Tangananá''</nowiki>''. Incluso en una encuesta de Mico, el micrófono donde preguntaba que palabra era la mas fea.
+
+== Referencias ==
+<references/>
+[[Categoría:Cantantes del Ranking Top]]
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Encuestados]]
+[[Categoría:Dúos de personajes]]
+[[Categoría:Hermanos]]

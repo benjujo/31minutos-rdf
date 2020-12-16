@@ -1,0 +1,11 @@
+{{Expandir}}
+{{Fichapersonaje
+|image1=Archivo:Minilolas-31-minutos.jpg
+|caption1=De izquierda a derecha: La Tami, la Romi y la Mojojojo
+|integrantes=La Tami<br>La Romi<br>La Mojojojo
+|ocupación=Estudiantes
+|cancion=[[Minilolas]]
+|voces=[[Fran Feuerhake]] (la Tami)<br>[[Alejandra Dueñas]] (la Romi y la Mojojojo)
+}}
+[[Categoría:Cantantes femeninas]]
+[[Categoría:Grupos musicales]]

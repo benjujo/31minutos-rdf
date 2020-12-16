@@ -1,0 +1,53 @@
+----
+<p style="text-align: center;">''Este artículo se trata del primer álbum/disco de la serie, para otras opciones [[31 Minutos (Desambiguación)|haz click aquí.]]''</p>
+----
+
+{{Disco
+|nombre = 31 Minutos
+|Formato = CD
+|Duración = 32:48
+|Discográfica = La Oreja
+|Año = 2003
+|Productor = [[Pablo Ilabaca]]<br>[[Álvaro Díaz]]<br>[[Pedro Peirano]]
+|Compilador = [[Pedro Peirano]]
+|anterior = Ninguno
+|siguiente = "[[31 Canciones de Amor y una Canción de Guaripolo]]"|image = [[Archivo:31minutos.jpg|center|150px]]}}
+'''31 Minutos''' es el primer disco de la serie editado por el sello "''La Oreja''". Tiene 31 pistas de audio y dura 33 minutos y 47 segundos. Incluye todas las canciones de la [[Primera Temporada|primera temporada]], extras y una pista oculta, las letras de las canciones, tres videos ("[[Bailan sin César]]", "[[Tangananica, Tangananá]]", "[[Lala]]") y stickers. En su carátula aparece uno de los [[Tramoyas]] con accesorios de DJ.
+
+==Temas==
+#'''¿Qué te pasa, Policarpo?'''
+#'''[[Presentación|31 Minutos]]''' (''Ilabaca'')
+#'''En el Continente Negro''' (''Rossi - Dianello'')
+#'''[[Lala]]''' - [[Lolo]] (''Ilabaca - Peirano'')
+#'''Joven de Espíritu'''
+#'''[[Señora, Devuélvame la Pelota o si no no sé que Haré]]''' - [[Pepe Lota]] (''Castro - Ilabaca - Salinas'')
+#'''Terrible de Frío''' (''Adaptación "Heigh-ho" Churchill - Morey'')
+#'''[[Bailan sin César]]''' - [[LLUEHHHB]] (Latidos Latinos Urbanos Emergentes Hip Hop Hermano Brother) (''Ilabaca - Salinas'')
+#'''[http://31minutos.wikia.com/wiki/Episodio_2%3A_El_%C3%81rbol_Furioso/Secciones#Ba.C3.B1o_Molestoso El Baño Molestoso]''' (''Del Valle'')
+#'''Martín'''
+#'''[[Tangananica, Tangananá]]''' - [[Hermanos Guarennes]] (''Castro - Ilabaca - Peirano'')
+#[[Si Yo Fuera Rico|'''Si Yo Fuera Rico''']] (''Bock - Harnick'')
+#'''[[Mi Muñeca me Habló]]''' - [[Flor Bovina]] (''Díaz'')
+#'''En una Cómoda Cómoda de Ciudad Cómoda'''
+#'''[[CCRM|Calcetín con Rombos Man]]''' (''Ilabaca'')
+#'''No Toquen esa Consola'''
+#'''[[Me Cortaron Mal el Pelo]]''' - [[Chascoberto]] (''Castro - Díaz - Ilabaca - Salinas'')
+#'''Thank you Policarp for your Information'''
+#'''[http://31minutos.wikia.com/wiki/Me_Cortaron_Mal_el_Pelo#They_Cut_Wrong_my_Hair They Cut Wrong my Hair]''' - [[Chascoberto|Chascobert]] (''Traducción: Anita Díaz'')
+#'''[[Yo Vengo de Titirilquén]]''' (''Adaptación "La Pérgola de las Flores" Francisco Flores del Campo'')
+#'''La Estrella de Chañaral'''
+#'''[[Mi Equilibrio Espiritual]]''' - [[Freddy Turbina]] (''Castro - Díaz - Ilabaca - Peirano - Salinas'')
+#'''Los Títeres''' (Presentando "[[El Hombre de Plástico]]") (''Scott - Díaz'')
+#'''[[Diente Blanco, no te Vayas]]''' - [[John Quijada]] (''Castro - Ilabaca - Peirano'')
+#'''Tengo Miedo'''
+#'''[[Encuestas|Mico, el Micófono]]''' (''Ilabaca'')
+#'''Situación Compleja de Sequedad'''
+#'''[[Yo Opino]]''' - [[Joe Pino]] & The Maniacodepresivos (''Díaz - Espinoza - Salinas'')
+#'''Quiero hacer mi show...'''
+#'''[[Yo Nunca vi Televisión|Yo Nunca vi Televisión (Y Luego sí Pero Después No)]] '''- [[Tulio Triviño Tufillo|Tulio Triviño]] y sus amigos (''Castro - Díaz - Ilabaca - Peirano - Salinas'')
+#'''Chao/Backmasking''' (Pista Oculta)
+
+==Curiosidades==
+*En la '''Pista 31''', después de la despedida del [[Chancho Irarrázabal]]], se escucha un mensaje al revés de [[Juanín Juan Harry|Juanín]] diciendo “''Yo enterré a Tulio''”. Esta frase puede sonar para algunos muy apocalíptica, pero en realidad es sólo una humorada. Hace muchos años, cuando todos [[wikipedia:es:The Beatles|Los Beatles]] estaban vivos, al final de la canción de los Beatles "''[[wikipedia:es:Strawberry Fields Forever|Strawberry Fields Forever]]''", se podía escuchar unos mensajes al revés. Ahora bien, se supone de lo que decían era “''Cranberry Sauce''”, pero mucha gente lo malinterpretó y alcanzó a escuchar “''I buried Paul''” ("''Yo enterré a Paul''").
+[[Categoría:Productos]]
+[[Categoría:Álbumes]]

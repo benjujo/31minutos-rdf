@@ -1,0 +1,12 @@
+{{Fichapersonaje|image1 = Scolapio Santana.PNG|nombre_real = |especie = Humano (títere)|edad = Adulta|nacionalidad = Chilena|ocupación = Arbitro de tenis|familia = <nowiki>''40 hijos''</nowiki>|primera_aparición = [[Episodio 7: El Señor Amable]]|última_aparición = [[Episodio 7: El Señor Amable]]|voces = [[Daniel Castro]]}}
+{{Frase|Match point|Scolapio Santana|en el episodio "El señor amable"}}
+'''Scolapio Santana''' fue un árbitro de tenis entrevistado por [[Tulio Triviño]] para el noticiero [[31 Minutos (Noticiero)|31 Minutos]], aparecido en el [[Episodio 7: El Señor Amable]] de la [[Primera Temporada]].
+
+== Vídeos ==
+<gallery>
+31 minutos - Entrevista - Scolapio Santana
+</gallery>
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Personajes Menores]]
+[[Categoría:Personajes]]

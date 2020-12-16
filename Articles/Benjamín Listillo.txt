@@ -1,0 +1,11 @@
+{{Fichapersonaje|image1 = <gallery>
+BL3M.png|T1
+</gallery>|nombre_real = |especie = Tramoya|edad = Adulto|ocupación = Funcionario en 31 Minutos|voces = [[Álvaro Díaz]]|primera_aparición = [[Episodio 4: Benjamín Listillo]]|última_aparición = [[Episodio 64: Bodoque Envenenado]]}}'''Benjamín Listillo''' es uno de los funcionarios tramoyas de [[31 minutos]]. Él es el <nowiki>''encargado de apoderarse del programa''</nowiki>.
+
+En el [[Episodio 4: Benjamín Listillo|episodio 4: Benjamín Listillo]] sustituye a [[Tulio Triviño|Tulio]] en múltiples ocasiones, pero este fracasa y [[Tulio Triviño|Tulio]] siempre lo descubre.
+[[Categoría:Personajes secundarios]]
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Tramoyas]]
+[[Categoría:Personajes]]
+[[Categoría:Trabajadores del canal]]

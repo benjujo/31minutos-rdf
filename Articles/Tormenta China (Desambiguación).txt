@@ -1,0 +1,9 @@
+{{Plantilla:Desambiguación}}
+----
+<p style="text-align: center;">'''Tormenta China''' es el nombre de varias cosas diferentes de la serie, estas son:</p>
+----
+
+==Lista==
+*'''[[Tormenta China]]''': Personaje de la serie que aparece en el episodio "La Mona Lisa".
+*'''[[Tormenta China (Canción)]]''': Canción de la serie que aparece en la Cuarta Temporada.
+[[Categoría:Desambiguaciones]]

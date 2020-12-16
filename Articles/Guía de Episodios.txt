@@ -1,0 +1,563 @@
+Esta es una lista de episodios de la serie [[31 Minutos]].
+
+==Resumen de Temporadas==
+{| class="wikitable"
+|-
+! colspan="2" | Temporada
+! Episodios
+! colspan="1" | Fecha Inicio
+! Fecha Final
+|-
+| style="background-color:#4F81BD;" |&nbsp;
+| '''[[#Primera Temporada (2003)|1]]'''
+| style="text-align:center;" |21
+| style="text-align:center;" |15 de Marzo del 2003
+| style="text-align:center;" |09 de Agosto del 2003
+|-
+| style="background-color:#C0504D;" |&nbsp;
+| '''[[#Segunda Temporada (2004)|2]]'''
+| style="text-align:center;" |20
+| style="text-align:center;" |20 de Marzo del 2004
+| style="text-align:center;" |11 de Septiembre del 2004
+|-
+| style="background-color:#97B657;" |&nbsp;
+| '''[[#Tercera Temporada (2005)|3]]'''
+| style="text-align:center;" |15
+| style="text-align:center;" |19 de Junio del 2005
+| style="text-align:center;" |02 de Octubre del 2005
+|-
+| style="background-color:#8064A2;" |&nbsp;
+| '''[[#Cuarta Temporada (2014)|4]]'''
+| style="text-align:center;" |12
+| style="text-align:center;" |04 de Octubre del 2014
+| style="text-align:center;" |27 de Diciembre del 2014
+|}
+
+==[[Primera Temporada]] (2003)==
+{| class="collapsible collapsed" width="100%" style="border:1px solid #4F81BD; text-color:#000;"
+|-
+! colspan="6" style="background-color:#4F81BD;"|Temporada #1
+|-
+! style="background: #4F81BD;"|No. Serie
+! style="background: #4F81BD;"|No. Temp.
+! style="background: #4F81BD;"|Título
+! style="background: #4F81BD;"|Fecha de Estreno
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|1
+|1
+|"[[Episodio 1: El Comienzo|El Comienzo]]"
+|15 de Marzo del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|Primer episodio donde todo transcurre muy normal; hasta que al final [[Tulio Triviño|Tulio]] es atacado por un enorme monstruo azul.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|2
+|2
+|"[[Episodio 2: El Árbol Furioso|El Árbol Furioso]]"
+|22 de Marzo del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|El científico [[Belisario Carmona]], trata de demostrar que los árboles crecen lento porque son flojos.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|3
+|3
+|"[[Episodio 3: Guerra en el Mar Despénsico|Guerra en el Mar Despénsico]]"
+|29 de Marzo del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|[[Jackson Aceituno]] informa sobre la guerra en el mar despénsico; al final, una ola de sueño invade el estudio.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|4
+|4
+|"[[Episodio 4: Benjamín Listillo|Benjamín Listillo]]"
+|05 de Abril del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|Uno de los tramoyas: [[Tramoyas|Benjamín Listillo]], trata de ser el conductor del programa, reemplazando a [[Tulio Triviño|Tulio]].
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|5
+|5
+|"[[Episodio 5: El Monstruo Chupa-Chupa|El Monstruo Chupa-Chupa]]"
+|12 de Abril del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4F81BD" |El [[Chupa Chupa|Monstruo Chupa-Chupa]], después de invadir el Pueblo Pequeño, se dirige a Titirilquén.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|6
+|6
+|"[[Episodio 6: El Experimento|El Experimento]]"
+|19 de Abril del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|[[Tulio Triviño|Tulio]] inventa una fórmula secreta, la cual ni él mismo sabe para qué sirve, pero asegura que revolucionará al mundo.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|7
+|7
+|"[[Episodio 7: El Sr. Amable|El Sr. Amable]]"
+|26 de Abril del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|[[Tulio Triviño|Tulio]] es nominado al premio Sr. Amable, para lo cual debe fingir una excesiva amabilidad y educación.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|8
+|8
+|"[[Episodio 8: El Asesor de Imagen|El Asesor de Imagen]]"
+|03 de Mayo del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|El nuevo asesor de imagen, [[Cossimo Gianni]], decide darle retoques estéticos al programa, la cual despide a todos.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|9
+|9
+|"[[Episodio 9: Día Libre|Día Libre]]"
+|10 de Mayo del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|Todos deciden tomar su día libre (establecido en el contrato) al mismo tiempo, menos [[Juanín Juan Harry|Juanín]] y [[Tulio Triviño|Tulio]].
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|10
+|10
+|"[[Episodio 10: Maguito|Maguito]]"
+|17 de Mayo del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|[[Dante Torobolino]], un mago bastante malo, insiste todo el tiempo en hacer su show en el noticiero.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|11
+|11
+|"[[Episodio 11: La Gotera|La Gotera]]"
+|24 de Mayo del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|Hay una gotera en el estudio, por lo que [[Tulio Triviño|Tulio]] llama a unos plomeros para arreglarla, pero dejan todo peor.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|12
+|12
+|"[[Episodio 12: Patana|Patana]]"
+|31 de Mayo del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|[[Patana|Patricia Ana]], la sobrina de [[Tulio Triviño|Tulio]], se muda del campo a la ciudad para trabajar en el programa.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|13
+|13
+|"[[Episodio 13: Risotrón|Risotrón]]"
+|07 de Junio del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|Un extraño científico le regala a [[Tulio Triviño|Tulio]] una máquina de risas para que deje de ser aburrido.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|14
+|14
+|"[[Episodio 14: Ahorrando|Ahorrando]]"
+|14 de Junio del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4F81BD" |El Rating del noticiero está bajo y para solucionarlo se decide ahorrar en todo para contratar al [[Denis Danis|pintor más rápido]].
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|15
+|15
+|"[[Episodio 15: No te vayas, Juanín|No te vayas, Juanín]]"
+|21 de Junio del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|[[Juanín Juan Harry|Juanín]] intenta al estudio a recapacitar con sus regaños, pero al ver que no lo hacen caso, decide renunciar.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|16
+|16
+|"[[Episodio 16: Enfermosis|Enfermosis]]"
+|28 de Junio del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|Luego de entrevistar a un coleccionista de enfermedades, estas se esparcen y todos en el estudio se enferman.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|17
+|17
+|"[[Episodio 17: La Coanimadora|La Coanimadora]]"
+|05 de Julio del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|[[Cossimo Gianni]] dice que [[Tulio Triviño|Tulio]] necesita tener una co-animadora y [[Patana]] es escogida.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|18
+|18
+|"[[Episodio 18: El Fin del Mundo|El Fin del Mundo]]"
+|19 de Julio del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|Un profeta que es entrevistado dice que se acerca el fin del mundo, lo cual causa el caos en todo el planeta.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|19
+|19
+|"[[Episodio 19: Lo Mejor de 31 Minutos (Primera Parte)|Lo Mejor de 31 Minutos (Primera Parte)]]"
+|26 de Julio del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|En este programa, se ve un resumen de las mejores notas del programa, [[Tulio Triviño|Tulio]] presenta y [[Juan Carlos Bodoque|Bodoque]] toca el piano.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|20
+|20
+|"[[Episodio 20: Lo Mejor de 31 Minutos (Segunda Parte)|Lo Mejor de 31 Minutos (Segunda Parte)]]"
+|02 de Agosto del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|Es la segunda parte del programa especial. [[Tulio Triviño|Tulio]] por accidente hace que a [[Juan Carlos Bodoque|Bodoque]] le caiga la tapa del piano.
+|- class="vevent" style="text-align: center; background: #6EAFFF"
+|21
+|21
+|"[[Episodio 21: Policarpo Top Top Top Awards|Policarpo Top Top Top Awards]]"
+|09 de Agosto del 2003
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #4F81BD"|Se celebran los "Policarpo Top Top Top Awards" donde se premiará a la mejor canción del Ranking Top.
+|}
+
+==[[Segunda Temporada]] (2004)==
+{| class="collapsible collapsed" width="100%" style="border:1px solid #C0504D; text-color:#000;"
+|-
+! colspan="6" style="background-color:#C0504D;"|Temporada #2
+|-
+! style="background: #C0504D;"|No. Serie
+! style="background: #C0504D;"|No. Temp.
+! style="background: #C0504D;"|Título
+! style="background: #C0504D;"|Fecha de Estreno
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|22
+|1
+|"[[Episodio 22: Vacaciones|Vacaciones]]"
+|20 de Marzo del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|Luego de regresar de vacaciones, todos sospechan que [[Tulio Triviño|Tulio]] ha conseguido una novia.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|23
+|2
+|"[[Episodio 23: Relox|Relox]]"
+|27 de Marzo del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|La región de Salsasia le regala a [[Tulio Triviño|Tulio]] un reloj valioso, pero más tarde lo pierde y piensa que fue un robo.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|24
+|3
+|"[[Episodio 24: Tío Horacio|Tío Horacio]]"
+|03 de Abril del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|El programa le rinde un homenaje al gran exanimador de programas infantiles: el [[Tío Horacio]].
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|25
+|4
+|"[[Episodio 25: Japonés|Japonés]]"
+|10 de Abril del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|El [[Eusebio Manguera|Sr. Manguera]] le vende el canal a los japoneses, los cuales hacen cambios drásticos en el programa.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|26
+|5
+|"[[Episodio 26: ¡Qué Lástima!|¡Qué Lástima!]]"
+|17 de Abril del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|[[Cossimo Gianni|Cossimo]] dice que la alegría paso de moda, por lo que obliga a [[Tulio Triviño|Tulio]] hacer un programa orientado en la lástima.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|27
+|6
+|"[[Episodio 27: Lulo Serrucho|Lulo Serrucho]]"
+|24 de Abril del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|El malvado maestro del disfraz [[Lulo Serrucho]] escapó de la cárcel y llega al estudio para suplantar a [[Tulio Triviño|Tulio]] y a todos.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|28
+|7
+|"[[Episodio 28: Bodoque Deprimido|Bodoque Deprimido]]"
+|01 de Mayo del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|A [[Juan Carlos Bodoque|Bodoque]] le da depresión y [[Tulio Triviño|Tulio]], con la ayuda de sus amigos, trata de hacer que su amigo tenga buen ánimo.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|29
+|8
+|"[[Episodio 29: Cebollas, me Encanta|Cebollas, me Encanta]]"
+|08 de Mayo del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|El equipo del programa tendrá que soportar a su nuevo auspiciador: "Las Cebollas, me encanta".
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|30
+|9
+|"[[Episodio 30: Un Ratoncito Duro de Matar|Un Ratoncito Duro de Matar]]"
+|15 de Mayo del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|Un ratón provoca caos en el estudio y [[Tulio Triviño|Tulio]] y sus amigos tratan de atraparlo, aunque este sea muy listo que ellos.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|31
+|10
+|"[[Episodio 31: El Secreto|El Secreto]]"
+|22 de Mayo del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|[[Tío Pelado]] le cuenta a [[Tulio Triviño|Tulio]] el mayor secreto de [[Policarpo]], el cual, el conductor (prácticamente obligado) lo revela.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|32
+|11
+|"[[Episodio 32: El Despido|El Despido]]"
+|05 de Junio del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|Debido a una crisis económica, el [[Eusebio Manguera|Sr. Manguera]] le encarga a [[Tulio Triviño|Tulio]] despedir a [[Mico el Micófono]] (funcionario más útil).
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|33
+|12
+|"[[Episodio 33: 31 Minutos Educativio|31 Minutos Educativio]]"
+|12 de Junio del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|[[Tulio Triviño|Tulio]] trata de demostrarle a [[Cindy Miraflores|Cindy]], su novia, que no miente poniendo al programa lo más "educativio" posible.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|34
+|13
+|"[[Episodio 34: Maguito Explosivo|Maguito Explosivo]]"
+|19 de Junio del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|El mago [[Dante Torobolino]] va a una clínica para que deje de explotar, pero se descubre que se dirije un asteroide.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|35
+|14
+|"[[Episodio 35: Mugre|Mugre]]"
+|26 de Junio del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|[[Juanín Juan Harry|Juanín]] convence a sus compañeros de seguir las sucias enseñanzas de su nuevo líder espiritual: Wildo Waldo.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|36
+|15
+|"[[Episodio 36: Hielito|Hielito]]"
+|03 de Julio del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|[[Juanín Juan Harry|Juanín]] crea un muñeco de nieve llamado Hielito, que cobra vida, pero los problemas empiezan cuando sale el calor.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|37
+|16
+|"[[Episodio 37: La Amenaza Siluria (Primera Parte)|La Amenaza Siluria (Primera Parte)]]"
+|07 de Agosto del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|El planeta Siluris exige la entrega de [[Tulio Triviño|Tulio]] para poder vengarse del pastelazo que el conductor tiró a su embajador.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|38
+|17
+|"[[Episodio 38: La Amenaza Siluria (Segunda Parte)|La Amenaza Siluria (Segunda Parte)]]"
+|14 de Agosto del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|Para evitar que los silurios lanzen un pastelazo que destruirá la Tierra, [[Tulio Triviño|Tulio]] y el resto del equipo viajan a su planeta.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|39
+|18
+|"[[Episodio 39: La Amenaza Siluria (Tercera Parte)|La Amenaza Siluria (Tercera Parte)]]"
+|21 de Agosto del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|La nave espacial se descompone y todos quedan perdidos en el espacio, víctimas del peor problema: el hambre.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|40
+|19
+|"[[Episodio 40: Lo Recuerdo Muy Bien|Lo Recuerdo Muy Bien]]"
+|28 de Agosto del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|[[Tulio Triviño|Tulio]] se encuentra en el hospital, y sus amigos van a visitarlo, para hacerle recordar lo mejor de la temporada.
+|- class="vevent" style="text-align: center; background: #FF6E6E"
+|41
+|20
+|"[[Episodio 41: Fiesta en la Casa de Juanín|Fiesta en la Casa de Juanín]]"
+|11 de Septiembre del 2004
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #C0504D"|[[Juanín Juan Harry|Juanín]] organiza una fiesta en su propia casa, en la cual los invitados son todos los funcionarios del programa.
+|}
+
+==[[Tercera Temporada]] (2005)==
+{| class="collapsible collapsed" width="100%" style="border:1px solid #97B657; text-color:#000;"
+|-
+! colspan="6" style="background-color:#97B657;"|Temporada #3
+|-
+! style="background: #97B657;"|No. Serie
+! style="background: #97B657;"|No. Temp.
+! style="background: #97B657;"|Título
+! style="background: #97B657;"|Fecha de Estreno
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|42
+|1
+|"[[Episodio 42: Por el Sr. Manguera|Por el Sr. Manguera]]"
+|19 de Junio del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|El [[Eusebio Manguera|Sr. Manguera]] pierde el canal junto con todo su dinero, y [[Tulio Triviño|Tulio]] y sus amigos se quedan sin trabajo.
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|43
+|2
+|"[[Episodio 43: La Máquina del Tiempo|La Máquina del Tiempo]]"
+|26 de Junio del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|Al decirle un hipnotizador a [[Juanín Juan Harry|Juanín]] que no tuvo una vida pasada, el productor construye una máquina del tiempo.
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|44
+|3
+|"[[Episodio 44: La Liga del Mal|La Liga del Mal]]"
+|03 de Julio del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|[[Calcetín con Rombos Man]] renuncia, lo que ocasiona que el [[Tío Pelado]] y sus secuaces invadan el canal.
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|45
+|4
+|"[[Episodio 45: El Estiércol|El Estiércol]]"
+|10 de Julio del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|[[Juan Carlos Bodoque|Bodoque]] intenta deshacerse de un estiércol heredado mediante un programa de concursos.
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|46
+|5
+|"[[Episodio 46: Mr. Drilo’s|Mr. Drilo's]]"
+|17 de Julio del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|[[Dylan Manguera]] se queda a cargo del programa y lo convierte en una cadena de hamburguesas "Mr. Drilos".
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|47
+|6
+|"[[Episodio 47: El Fantasma del Estudio|El Fantasma del Estudio]]"
+|24 de Julio del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|[[Juanín Juan Harry|Juanín]] cuenta que cada noche un espíritu intranquilo recorre el estudio, por lo que todos tratan de ver si es cierto.
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|48
+|7
+|"[[Episodio 48: Las Madres|Las Madres]]"
+|31 de Julio del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|[[Tulio Triviño|Tulio]] intenta ayudar a una señora a encontrar a su hijo perdido desde hace mucho tiempo.
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|49
+|8
+|"[[Episodio 49: Invasión Tramoya|Invasión Tramoya]]"
+|07 de Agosto del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|Debido a la liberación de un virus, el científico [[Cirilo Pila]] aclara que para conservar su salud, todos deben vacunarse.
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|50
+|9
+|"[[Episodio 50: El Vídeo|El Vídeo]]"
+|14 de Agosto del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|El [[Eusebio Manguera|Sr. Manguera]] ve un chascarro de [[Tulio Triviño|Tulio]] orinando en un patrimonio arqueológico, por lo que decide reemplazarlo.
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|51
+|10
+|"[[Episodio 51: La Alcancía|La Alcancía]]"
+|21 de Agosto del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|Los funcionarios del programa logran llenar su alcancía, y deciden gastar su dinero en comprar una nueva.
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|52
+|11
+|"[[Episodio 52: Bodoque Apostador|Bodoque Apostador]]"
+|04 de Septiembre del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|Después de que [[Juan Carlos Bodoque|Bodoque]] pierde una apuesta, unos hombres de la mafia lo buscan y lo amenazan con pagarles.
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|53
+|12
+|"[[Episodio 53: La Bruja (Primera Parte)|La Bruja (Primera Parte)]]"
+|11 de Septiembre del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|Una bruja les cambia las voces a [[Tulio Triviño|Tulio]], [[Juan Carlos Bodoque|Bodoque]], [[Juanín Juan Harry|Juanín]], [[Policarpo Avendaño|Policarpo]] y [[Mario Hugo]] por unas de ratoncitos.
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|54
+|13
+|"[[Episodio 54: La Bruja (Segunda Parte)|La Bruja (Segunda Parte)]]"
+|18 de Septiembre del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|El pájaro ayudante de la bruja le presta a [[Patana]] el libro de hechizos de la hechicera para deshacer una maldición.
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|55
+|14
+|"[[Episodio 55: El Funeral de Tulio|El Funeral de Tulio]]"
+|25 de Septiembre del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|[[Tulio Triviño|Tulio]] y [[Juan Carlos Bodoque|Bodoque]] se pelean, y éste último se enoja con el primero y decide no hablarle más.
+|- class="vevent" style="text-align: center; background: #B0FF6E"
+|56
+|15
+|"[[Episodio 56: XXXIV Festival de la Canción de Titirilquén|XXXIV Festival de la Canción de Titirilquén]]"
+|02 de Octubre del 2005
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #97B657"|[[Tulio Triviño|Tulio]] y sus amigos quieren participar en el festival de Titirilquén con el grupo "Los Ratoncitos".
+|}
+
+==[[Cuarta Temporada]] (2014)==
+{| class="collapsible collapsed" width="100%" style="border:1px solid #8064A2; text-color:#000;"
+|-
+! colspan="6" style="background-color:#8064A2;"|Temporada #4
+|-
+! style="background: #8064A2;"|No. Serie
+! style="background: #8064A2;"|No. Temp.
+! style="background: #8064A2;"|Título
+! style="background: #8064A2;"|Fecha de Estreno
+|- class="vevent" style="text-align: center; background: #AB6EFF"
+|57
+|1
+|"[[Episodio 57: La Mona Lisa|La Mona Lisa]]"
+|04 de Octubre del 2014
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #8064A2"|[[Tulio Triviño|Tulio]] inicia una nueva temporada queriendo traer a la famosa Mona Lisa al programa, contando su gran historia.
+|- class="vevent" style="text-align: center; background: #AB6EFF"
+|58
+|2
+|"[[Episodio 58: Cirugía|Cirugía]]"
+|11 de Octubre del 2014
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #8064A2"|[[Cossimo Gianni|Cossimo]] informa al equipo que a nadie le gustan los programas donde hay viejos, por lo que todos toman cirugias.
+|- class="vevent" style="text-align: center; background: #AB6EFF"
+|59
+|3
+|"[[Episodio 59: Patana Enamorada|Patana Enamorada]]"
+|18 de Octubre del 2014
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #8064A2"|Todos se enteran que [[Patana]] se encuentra enamorada de [[Guaripolo]], por lo que [[Mario Hugo]] trata de impedirlo.
+|- class="vevent" style="text-align: center; background: #AB6EFF"
+|60
+|4
+|"[[Episodio 60: Huachimingo sin Hogar|Huachimingo sin Hogar]]"
+|25 de Octubre del 2014
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #8064A2"|Un terremoto destruye la casa de [[Huachimingo]], por lo que [[Tulio Triviño|Tulio]] decide acogerlo y deja que el estudio sea su hogar.
+|- class="vevent" style="text-align: center; background: #AB6EFF"
+|61
+|5
+|"[[Episodio 61: El Meteorito|El Meteorito]]"
+|01 de Noviembre del 2014
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #8064A2"|Un meteorito cae en el estudio, pero [[Tulio Triviño|Tulio]] piensa que el meteorito los haría famosos, y decide aprovecharse de esto.
+|- class="vevent" style="text-align: center; background: #AB6EFF"
+|62
+|6
+|"[[Episodio 62: Bebé Monstruo|Bebé Monstruo]]"
+|08 de Noviembre del 2014
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #8064A2"|Un bebé es dejado en el estudio, por lo que todos deciden hacerse cargo de él, sin enterarse que es un monstruo.
+|- class="vevent" style="text-align: center; background: #AB6EFF"
+|63
+|7
+|"[[Episodio 63: Jack Patata|Jack Patata]]"
+|15 de Noviembre del 2014
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #8064A2"|Un ladrón llamado Jack Patata quiere como última voluntad ser entrevistado por [[Tulio Triviño|Tulio]], para así poder vengarse de él.
+|- class="vevent" style="text-align: center; background: #AB6EFF"
+|64
+|8
+|"[[Episodio 64: Bodoque Envenenado|Bodoque Envenenado]]"
+|22 de Noviembre del 2014
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #8064A2"|[[Juan Carlos Bodoque|Bodoque]] es envenenado por la mordida de una serpiente que trajo un entrevistado al estudio.
+|- class="vevent" style="text-align: center; background: #AB6EFF"
+|65
+|9
+|"[[Episodio 65: Oestelandia|Oestelandia]]"
+|06 de Diciembre del 2014
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #8064A2" |Después de un mayor retraso de todos, el [[Eusebio Manguera|Sr. Manguera]] vende 31 Minutos al fan más fanático: el Señor Vaquero.
+|- class="vevent" style="text-align: center; background: #AB6EFF"
+|66
+|10
+|"[[Episodio 66: El Mayordomo|El Mayordomo]]"
+|13 de Diciembre del 2014
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #8064A2" |[[Juanín Juan Harry|Juanín]] reemplaza al mayordomo detenido de asesino en el estudio por Jaime, sin saber que se trata de un zombie.
+|- class="vevent" style="text-align: center; background: #AB6EFF"
+|67
+|11
+|"[[Episodio 67: El Diario de Juanín|El Diario de Juanín]]"
+|20 de Diciembre del 2014
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #8064A2"|[[Juanín Juan Harry|Juanín]], tras tener su diario web al que llama "''El Diario de Juanín''", se vuelve un éxito al burlarse de [[Tulio Triviño Tufillo|Tulio]] en un video.
+|- class="vevent" style="text-align: center; background: #AB6EFF"
+|68
+|12
+|"[[Episodio 68: La Gran Gala de Titirilquén|La Gran Gala de Titirilquén]]"
+|27 de Diciembre del 2014
+|-
+| class="description" colspan="6" style="border-bottom:3px solid #8064A2" |En el piso número 1000 del edificio Themístocles Tufillo, se llevara a cabo el gran evento de todos los eventos.
+|}
+
+==Especiales==
+==='''[[Especial de la Teletón|Teletón (2003)]]'''===
+El '''''Especial en la Teletón 2003 '''''de [[31 Minutos]] se estrenó el 22 de Noviembre del 2003 dentro de la transmisión de la Teletón de ese año y habla sobre el aporte del programa para la Teletón Chilena.
+==='''[[Especial de Navidad|Especial Navideño (2003)]]'''===
+El '''''Especial Navideño de 31 Minutos''''' se transmitió el 24 de Diciembre del 2003, y fue retransmitido el mismo día los años 2004, 2005 y 2006.
+==='''[[31 Minutos: La Película|Película (2008)]]'''===
+La serie fue llevada al cine bajo el título de '''''31 Minutos: La Película'''''. Fue estrenada el 27 de Marzo del 2008.
+[[Categoría:Episodios]]

@@ -1,0 +1,46 @@
+{{Plantilla:Canción
+|Director = 
+|Temporada = [[Tercera Temporada]]
+|Interprete = Cantan todos
+|Apariciones = [[Episodio 51: La Alcancía]]
+|video = [[Archivo:31_Minutos_-_La_Alcancia|250px]]
+|Compositor = |nombre = Canción de la Alcancía}}
+La '''Canción de la Alcancía''' es una de las canciones de [[31 Minutos]] que aparece en el episodio: [[Episodio 51: La Alcancía|La Alcancía]].
+
+==Letra==
+<tabber>
+|-|
+Canción =
+Es nuestra linda alcancía
+<br />
+''(Ía)''
+<br />
+<br />
+Que ya no esta tan vacía
+<br />
+''(Ía)''
+<br />
+<br />
+Con amor y monedas ya se repleto
+<br />
+El chanchito de barro engordo y engordo
+<br />
+<br />
+Y con esos ahorros por fin compraremos
+<br />
+Aquello soñado que siempre quisimos
+<br />
+<br />
+¿Y que es lo que siempre quisimos?
+<br />
+Hay que pensarlo muy bien
+<br />
+Exacto, este chanchito es muy...
+<br />
+Oh‼, ¡donde esta el chanchito!
+</tabber>
+
+==Ver También==
+{{Plantilla:ListadeCanciones}}
+[[Categoría:Canciones]]
+[[Categoría:Canciones de la tercera temporada]]

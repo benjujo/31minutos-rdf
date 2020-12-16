@@ -1,0 +1,29 @@
+{{Fichapersonaje
+|image1=RosarioCentral.jpg
+|especie=Oveja
+|ocupación=Reportera
+Pianista
+
+Maestra de piano
+|nombre_real = |aficiones = Tejer
+Tocar el piano|amigos = [[Chico Terry]] (Alumno de piano)
+[[Juan Carlos Bodoque]]|voces = [[Álvaro Díaz]]|primera_aparición = [[Episodio 5: El Monstruo Chupa-Chupa]]|última_aparición = [[Episodio 68: La Gran Gala de Titirilquén ]]|edad = Adulta mayor|nacionalidad = Chilena}}
+{{Frase|Hola, huachito|Rosario Central|cuando saluda a alguien}}
+'''Rosario Central''' es un personaje de 31 Minutos. Fue una funcionaria del canal durante la Primera Temporada, luego siguió apareciendo de forma esporádica.
+
+==Características==
+Es una oveja de lana blanca y piel clara, sus labios son rosados y sus ojos son bolitas negras. En un principio no utilizaba vestimenta, pero en temporadas siguientes utiliza distintas ropas según la ocasión.
+
+== Descripción ==
+Es una anciana reportera solo hizo una nota en el programa (reemplazando a [[Carla Rubio]] en [[El Club de los Reclamones]]), pero frecuentemente acompaña a [[Juan Carlos Bodoque|Bodoque]] y a [[Calcetín con Rombos Man]] en sus notas.
+
+Ella se caracteriza por su pronunciación, en específico del reemplazo del fonema africado postalveolar sordo (presente en español como la letra ''ch'') por el fricativo postalveolar sordo (graficado frecuentemente como ''sh''), fenómeno común en estratos populares. Tiende a decirle "gua''sh''ito" a los demás de modo afectivo.
+
+==Curiosidades==
+*Su nombre está basado en un [http://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Rosario_Central club deportivo argentino].
+*En sus primeras apariciones se modificaba la voz en post-producción para que sonara más chillona, pero después se dejo de utilizar.
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Periodistas]]
+[[Categoría:Personajes Femeninos]]
+[[Categoría:Personajes en la Nota Verde]]

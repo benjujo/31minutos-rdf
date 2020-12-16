@@ -1,0 +1,37 @@
+{{Fichapersonaje|
+image1 =<gallery>
+Felipe Despues.PNG|Después
+Felipe antes.PNG|Antes
+</gallery>
+|nombre_real = Felipe
+|especie = Guante
+|edad = Adulta
+|nacionalidad = Chilena
+|especialidad = Ser fuerte
+|amigos = Los guantes<br/>[[Raúl Guantecillo]]
+|primera_aparición = [[Episodio 4: Benjamín Listillo]]
+|última_aparición = [[Episodio 7: El Señor Amable]]
+|aficiones = Ir a el gimnasio}}{{Frase|Mira como estoy ahora, le digo a todos los guantes que se preocupen: "Si yo puede, ustedes también pueden"|Felipe|frase de motivación  }}
+'''Felipe, el guante '''fue un personaje de la [[Primera Temporada]] que salio en los episodios [[Episodio 4: Benjamín Listillo|Benjamin Listillo]] y [[Episodio 7: El Señor Amable|El Señor Amable]].
+==Historia==
+Por la retención de líquidos y el inadecuado consumo de aire, ha provocado que mas del 30% de los guantes tenga obesidad.
+
+Felipe era uno de los afectados que abordaba los 56 centímetros de circunferencia, más de la mitad de él era compuesta de aire. Un día decidió ir al gimnasio, según él: ''"Fue una decepciona difícil y no te miento muchas veces quise abandonarlo por que la exigencia es mucha, pero ya esta cansado que me dijeran globo en la calle, Yo soy un guante como cualquier otro"''. 
+
+Después de eso y de realizar un buen tiempo realizando ejercicios con mucha exigencia, el renovado Felipe motiva a los guantes a que se motiven y vayan al gimnasio, porque si él pudo hacerlo, ellos también pueden.
+
+Un tiempo más tarde, en el [[Episodio 7: El Señor Amable]] en la [[Calcetín con Rombos Man (Sección)|sección]] de [[Calcetín con Rombos Man]], Felipe toca en la puerta de [[Raúl Guantecillo]] y le pregunta si quiere ir al gimnasio, a lo que Guantecillo dice "''Uy, no puedo, estoy terminando mi libro".'' Felipe'' ''pregunta si le dejaba verlo pero Guantecillo se niega en hacerlo, también le pregunta si tiene agua o un jugo, pero Guantecillo dice que no y le cierra la puerta. Al rato, el guante toca otra vez y diciendo ''"Oye, me cerraste la puerta"'', Guantecillo molesto por su insistencia le responde que fue a propósito y otra vez le cierra la puerta.
+
+Al final, Felipe sale con [[Tulio]], [[Balón Von Bola]], [[Juan Carlos Bodoque|Juan Carlos]], [[Ténison Salinas|Ténison]], [[Rosario Central]] y [[Policarpo]], quienes habían molestado a Guantecillo y piden perdón a Raúl Guantecillo por interrumpirlo y no dejarle escribir su libro en paz.
+
+==Galería==
+<gallery>
+Felipe Despues.PNG
+Felipe.PNG
+Felipe_con_tulio_y_los_demas.png|Felipe con Tulio y los demás
+</gallery>{{PersonajesCCRM}}{{PersonajesNav}}
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Personajes]]
+[[Categoría:Personajes de CCRM]]

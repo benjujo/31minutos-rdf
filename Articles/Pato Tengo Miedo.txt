@@ -1,0 +1,22 @@
+{{Fichapersonaje
+|image1 = <gallery>
+PTM.jpg|Película-T4
+27545_144554222236841_2961_n.jpg|T1 al T3
+</gallery>
+|especie = Pato
+|especialidad = Tener miedo
+|voces = [[Pedro Peirano]]
+|primera_aparición = [[Episodio 4: Benjamín Listillo]]|última_aparición = [[Episodio 66: El Mayordomo]]}}
+{{Frase|¡Tengo miedo! ¡Tengo miedo! ¡Tengo mucho miedo!|Su frase típica. }}
+'''El Pato Tengo Miedo''' es uno de los personajes secundarios de [[31 Minutos]].
+==Descripción==
+Es un encuestado habitual de [[Mico el Micófono]] y ha aparecido en la película de esta serie. Es un pato miedoso, que al parecer lo único que no le da miedo son las [[encuestas]] de [[Mico el Micófono]]<nowiki>. Su frase característica es "¡Tengo miedo!, ¡Tengo miedo!, ¡Mucho miedo!''. En la película, es uno de los animales de </nowiki>[[Cachirula]].
+
+== Curiosidades ==
+* Lo único que no le da miedo son las encuestas.
+* En el Episodio Jack Patata, después de que Tulio dijo "Tengo miedo", el apareció y dijo su frase de siempre.
+* La única encuesta en la que no dijo su frase típica es en la encuesta "¿Dónde prefiere estar, aquí o acá?".
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Encuestados]]

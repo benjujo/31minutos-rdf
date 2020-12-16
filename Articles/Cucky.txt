@@ -1,0 +1,16 @@
+{{Fichapersonaje
+|image1 = Cucky.png
+|apodos = Señora interesante
+|ocupación = Cantante<br>Guitarrista<br>Guardaespaldas
+|aficiones = Lo interesante
+|cancion = [[Sra. Interesante]]
+|top = [[Episodio 27: Lulo Serrucho]]<br>[[Episodio 31: El Secreto]]
+|voces = [[Alejandra Dueñas]]
+|primera_aparición = [[Episodio 25: Japonés]]
+|última_aparición = [[Episodio 67: El Diario de Juanín]] (cameo)
+|album = [[31 Canciones de Amor y una Canción de Guaripolo]]}}{{Frase|Eso no lo se, sólo se, qué es muy interesante. |Cucky|en su canción}}'''Cucky''' es un personaje cantante de 31 Minutos. Ella es la ex-guardaespaldas de [[Policarpo Avendaño]]; por ende ella se ganó un puesto en el [[Ranking Top]] de la [[Segunda Temporada]], con la canción <nowiki>''</nowiki>[[Sra. Interesante]]<nowiki>''</nowiki>.
+
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Cantantes del Ranking Top]]
+[[Categoría:Cantantes femeninas]]
+[[Categoría:Personajes Femeninos]]

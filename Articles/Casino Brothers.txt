@@ -1,0 +1,17 @@
+{{Fichapersonaje
+|image1=Images.jpeg
+|integrantes=Langosta<br/>Flauta
+|ocupación=Funcionarios del canal<br/>Paramédicos<br/>Cocineros<br/>Guardias
+|voces=[[Patricio Díaz]] (Langosta)<br/>[[Rodrigo Salinas]] (Flauta)
+|||apodos = Los Casino Brothers|afiliaciones = [[31 Minutos (Noticiero)]]|primera_aparición = [[Episodio 10: Maguito]]|especialidad = Improvisar<br/>Molestar}}
+'''Los Casino Brothers''' son el dúo de funcionarios de 31 Minutos, formado por el Flauta y el Langosta.
+
+== Descripción ==
+El que tiene el gorro del Chavo se llama Flauta y el otro azul se llama Langosta. Se encargan de ordenar el estudio, cocinar en el casino del noticiero, asistir a los heridos y a veces se encargan de sacar a las personas no deseadas.
+
+En cuanto personalidad, el Flauta es más burlón mientras que el Langosta es calmado.
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Trabajadores del canal]]
+[[Categoría:Dúos de personajes]]

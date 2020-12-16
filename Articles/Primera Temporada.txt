@@ -1,0 +1,186 @@
+{{Temporada-Nuevo|image1 = TEMP1.png|fecha_de_inicio = 15 de marzo de 2003|fecha_final = 9 de agosto de 2003|episodios = 21|siguiente = [[Segunda Temporada]]}}'''La Primera Temporada '''de [[31 Minutos]] empezó el 15 de Marzo del 2003, financiada por el [[wikipedia:es:Consejo Nacional de Televisión de Chile|CNTV]] y es la más popular y conocida temporada del programa. Aunque el co-creador [[Álvaro Díaz]] dice que [[wikipedia:es:Aplaplac|Aplaplac]] sienten angustia comparar esta temporada con las subsecuentes porque “''Los monos eran lentos, se movían mal, los guiones eran súper fomes en términos de situaciones que pasaban en estudio''”.
+
+Hay una pequeña evolución conforme la temporada avanza: Los episodios no se enmarcan en una historia establecida hasta el [[Episodio 7: El Sr. Amable|Episodio 7]]; en los primeros episodios se usaban muchos títeres y peluches de verdad disponibles en el comercio usados como extras hasta un punto en que ya habían ocupado toda la variedad y empezaron a producir marionetas originales con rasgos desprendibles e intercambiables entre ellos como ojos, narices y pelo, junto con remakes de varios personajes.
+
+==Lista de episodios==
+{| class="collapsible collapsed" width="100%" style="border:1px solid #fee03b; text-color:#000;"
+|-
+! colspan="6" style="background-color:#fee03b;" |Temporada #1
+|-
+! style="background: #fee03b;" |No. Serie
+! style="background: #fee03b;" |No. Temp.
+! style="background: #fee03b;" |Título
+! style="background: #fee03b;" |Fecha de Estreno
+|- class="vevent" style="text-align: center; background: #fff35f"
+|1
+|1
+|"[[Episodio 1: El Comienzo|El Comienzo]]"
+|[[Archivo:El_Comienzo.png|thumb|121x121px]]15 de Marzo del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |Primer episodio donde todo transcurre muy normal; hasta que al final [[Tulio Triviño Tufillo|Tulio es]] atacado por un enorme monstruo azul.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|2
+|2
+|"[[Episodio 2: El Árbol Furioso|El Árbol Furioso]]"
+|[[Archivo:El_Arbol_Furioso.png|thumb|120x120px]]22 de Marzo del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |El científico [[Belisario Carmona]], trata de demostrar que los árboles crecen lento porque son flojos.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|3
+|3
+|"[[Episodio 3: Guerra en el Mar Despénsico|Guerra en el Mar Despénsico]]"
+|[[File:Guerra en el Mar Despensico.png|thumb|120x120px]]29 de Marzo del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |[[Jackson Aceituno]] informa sobre la guerra en el mar despénsico; al final, una ola de sueño invade el estudio.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|4
+|4
+|"[[Episodio 4: Benjamín Listillo|Benjamín Listillo]]"
+|[[File:Benjamin Listillo.png|thumb|120x120px]]05 de Abril del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |Uno de los tramoyas: [[Tramoyas|Benjamín Listillo]], trata de ser el conductor del programa, reemplazando a [[Tulio Triviño Tufillo|Tulio]].
+|- class="vevent" style="text-align: center; background: #fff35f"
+|5
+|5
+|"[[Episodio 5: Monstruo Chupachupa|Monstruo Chupachupa]]"
+|[[File:El Monstruo ChupaChupa.png|thumb|120x120px]]12 de Abril del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |El [[Monstruo Chupachupa]], después de invadir el Pueblo Pequeño, se dirige a Titirilquén.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|6
+|6
+|"[[Episodio 6: El Experimento|El Experimento]]"
+|[[File:El Experimento.png|thumb|120x120px]]19 de Abril del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |[[Tulio Triviño|Tulio]] inventa una fórmula secreta, la cual ni él mismo sabe para qué sirve, pero asegura que revolucionará al mundo.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|7
+|7
+|"[[Episodio 7: El Señor Amable|El Señor Amable]]"
+|[[File:El Sr. Amable.png|thumb|120x120px]]26 de Abril del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |[[Tulio Triviño|Tulio]] es nominado al premio Sr. Amable, para lo cual debe fingir una excesiva amabilidad y educación.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|8
+|8
+|"[[Episodio 8: El Asesor de Imagen|El Asesor de Imagen]]"
+|[[File:El Asesor de Imagen.png|thumb|120x120px]]03 de Mayo del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |El nuevo asesor de imagen, [[Cossimo Gianni]], decide darle retoques estéticos al programa, la cual despide a todos.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|9
+|9
+|"[[Episodio 9: Día Libre|Día Libre]]"
+|[[File:Dia Libre.png|thumb|120x120px]]10 de Mayo del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |Todos deciden tomar su día libre (establecido en el contrato) al mismo tiempo, menos [[Juanín Juan Harry|Juanín]] y [[Tulio Triviño|Tulio]].
+|- class="vevent" style="text-align: center; background: #fff35f"
+|10
+|10
+|"[[Episodio 10: El Maguito|El Maguito]]"
+|[[File:El Maguito.png|thumb|120x120px]]17 de Mayo del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |[[Dante Torobolino]], un mago bastante malo, insiste todo el tiempo en hacer su show en el noticiero.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|11
+|11
+|"[[Episodio 11: La Gotera|La Gotera]]"
+|[[File:La Gotera.png|thumb|120x120px]]24 de Mayo del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |Hay una gotera en el estudio, por lo que [[Tulio Triviño|Tulio]] llama a unos plomeros para arreglarla, pero dejan todo peor.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|12
+|12
+|"[[Episodio 12: Patana|Patana]]"
+|[[Archivo:Patana..png|thumb|120x120px]]31 de Mayo del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |[[Patana|Patricia Ana]], la sobrina de [[Tulio Triviño|Tulio]], se muda del campo a la ciudad para trabajar en el programa.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|13
+|13
+|"[[Episodio 13: Risotrón|Risotrón]]"
+|07 de Junio del 2003 [[Archivo:16.jpg|thumb|120x120px]]
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |Un extraño científico le regala a [[Tulio Triviño|Tulio]] una máquina de risas para que deje de ser aburrido.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|14
+|14
+|"[[Episodio 14: Ahorrando|Ahorrando]]"
+|[[File:Ahorrando.png|thumb|120x120px]]14 de Junio del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |El Rating del noticiero está bajo y para solucionarlo se decide ahorrar en todo para contratar al [[Denis Danis|pintor más rápido]].
+|- class="vevent" style="text-align: center; background: #fff35f"
+|15
+|15
+|"[[Episodio 15: No te vayas, Juanín|No te vayas, Juanín]]"
+|[[Archivo:No_te_vayas_Juanin.png|thumb|120x120px]]21 de Junio del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |[[Juanín Juan Harry|Juanín]] intenta al estudio a recapacitar con sus regaños, pero al ver que no lo hacen caso, decide renunciar.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|16
+|16
+|"[[Episodio 16: Enfermosis|Enfermosis]]"
+|[[File:Enfermosis.png|thumb|120x120px]]28 de Junio del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |Luego de entrevistar a un coleccionista de enfermedades, estas se esparcen y todos en el estudio se enferman.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|17
+|17
+|"[[Episodio 17: La Co-animadora|La Co-animadora]]"
+|[[File:La Coanimadora.png|thumb|120x120px]]05 de Julio del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |[[Cossimo Gianni]] dice que [[Tulio Triviño|Tulio]] necesita tener una co-animadora y [[Patana]] es escogida.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|18
+|18
+|"[[Episodio 18: El Fin del Mundo|El Fin del Mundo]]"
+|[[File:El Fin del Mundo.png|thumb|120x120px]]19 de Julio del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |Un profeta que es entrevistado dice que se acerca el fin del mundo, lo cual causa el caos en todo el planeta.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|19
+|19
+|"[[Episodio 19: Lo Mejor de 31 Minutos (Primera Parte)|Lo Mejor de 31 Minutos]][[Episodio 19: Lo Mejor de 31 Minutos (Primera Parte)|(Primera Parte)]]"
+|[[File:Lo Mejor de 31 Minutos I.png|thumb|120x120px]]26 de Julio del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |En este programa, se ve un resumen de las mejores notas del programa, [[Tulio Triviño|Tulio]] presenta y [[Juan Carlos Bodoque|Bodoque]] toca el piano.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|20
+|20
+|"[[Episodio 20: Lo Mejor de 31 Minutos (Segunda Parte)|Lo Mejor de 31 Minutos]][[Episodio 20: Lo Mejor de 31 Minutos (Segunda Parte)|(Segunda Parte)]]"
+|[[File:Lo Mejor de 31 Minutos II.png|thumb|120x120px]]02 de Agosto del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |Es la segunda parte del programa especial. [[Tulio Triviño|Tulio]] por accidente hace que a [[Juan Carlos Bodoque|Bodoque]] le caiga la tapa del piano.
+|- class="vevent" style="text-align: center; background: #fff35f"
+|21
+|21
+|"[[Episodio 21: Policarpo Top Top Top Awards|Policarpo Top Top Top Awards]]"
+|[[File:Policarpo Top Top Top Awards.png|thumb|120x120px]]09 de Agosto del 2003
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #fee03b" |Se celebran los "Policarpo Top Top Top Awards" donde se premiará a la mejor canción del Ranking Top.
+|}
+
+==Lista de Canciones==
+Esta es una lista de todas las canciones aparecidas en la temporada durante el [[Ranking Top]].
+*"[[Lala]]" de [[Lolo]].
+*"[[Me Cortaron Mal el Pelo]]" de [[Chascoberto]].
+*"[[Tangananica, Tangananá]]" de [[Hermanos Guarennes|Los Hermanos Guarennes]].
+*"[[Diente Blanco, no te Vayas]]" de [[John Quijada]].
+*"[[Mi Muñeca me Habló]]" de [[Flor Bovina]].
+*"[[Bailan sin César]]" de [[LLUEHHHB]].
+*"[[Señora, Devuélvame la Pelota o si no no sé que Haré]]" de [[Pepe Lota]].
+*"[[Yo Opino]]" de [[Joe Pino]] & The Maniacodepresivos.
+*"[[Mi Equilibrio Espiritual]]" de [[Freddy Turbina]].
+
+== Vídeos ==
+<gallery>
+31 minutos - Making of primera temporada
+31 minutos - Chascarros primera temporada
+</gallery>
+
+==Ver También==
+*[[Segunda Temporada]]
+*[[Tercera Temporada]]
+*[[Cuarta Temporada]]
+[[Categoría:31 minutos]]
+[[Categoría:Temporadas]]

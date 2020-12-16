@@ -1,0 +1,47 @@
+{{Plantilla:Canción
+|Director = 
+|Temporada = Segunda
+|Interprete = Cantan todos
+|Apariciones = "[[Episodio 36: Hielito|Hielito]]"
+|video = [[Archivo:31 minutos - Canción de Hielito|center|250px]]
+|Compositor = }}'''Canción de Hielito''' es una de las canciones de [[31 Minutos]]. Aparece en la [[Segunda Temporada]] de la serie, y aparece en el episodio "[[Episodio 36: Hielito|Hielito]]".
+
+==Letra==
+<tabber>
+|-|
+Canción =
+''(Hablando)''
+<br />
+Tengo una nueva familia!
+<br />
+<br />
+''(Cantando)''
+<br />
+Hielito es nuestro amigo y es muy humano,
+<br />
+Juanín lo hizo de nieve y despertó.
+<br />
+Él es redondo y frío, pero su corazón nos da mucho calor.
+<br />
+<br />
+Hielito nos alegra y nos acompaña,
+<br />
+No exige nada a cambio, salvo amistad.
+<br />
+Da sentido a la vida y al cruel invierno más parece Disney World.
+<br />
+<br />
+Nunca te vayas, nunca nos dejes.
+<br />
+Nunca te vayas, nunca nos dejes.
+<br />
+<br />
+Hielito tu por siempre vivirás,
+<br />
+Tu eterno y lindo hogar será el canal!
+</tabber>
+
+==Ver También==
+{{Plantilla:ListadeCanciones}}
+[[Categoría:Canciones]]
+[[Categoría:Canciones de la segunda temporada]]

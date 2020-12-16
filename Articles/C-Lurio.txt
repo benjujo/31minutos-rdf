@@ -1,0 +1,20 @@
+{{Expandir}}
+{{Fichapersonaje
+|género = Masculino
+|especie = [[Silurios|Silurio]]
+|edad = 
+|especialidad = Música
+|ocupación = Conquistador<br>General
+|cancion=[[Ritmo sideral]]
+|amigos = 
+|voces=[[Patricio Díaz]] 
+|primera_aparición=[[Ritmo sideral]]
+|image1 = Clurio.jpg
+|última_aparición = [[Yo Nunca vi Televisión (Show)]]}}
+{{Frase|¡Terrícolas!|C-Lurio}}
+'''C-Lurio''' es un personaje de [[31 Minutos]]. Es un general y conquistador silurio, ademas de DJ de Discotexx que aparece en el vídeo musical de la canción [[Ritmo sideral]] y en el show [[Yo Nunca vi Televisión (Show)|Yo Nunca vi Televisión]].[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Cantantes del Ranking Top]]
+[[Categoría:Cantantes Masculinos]]
+[[Categoría:Cantantes]]
+[[Categoría:Villanos]]

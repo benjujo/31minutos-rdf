@@ -1,0 +1,35 @@
+{{Plantilla:Canción
+|Director = 
+|Temporada = Primera|Interprete = [[Tulio]] y [[Bodoque]]
+|Apariciones = [[Episodio 3: Guerra en el Mar Despénsico]]
+|video = [[Archivo:31 minutos - Si yo fuera rico|center|250px]]
+|Compositor = }}
+Si Yo Fuera Rico es una canción de la película "[https://es.wikipedia.org/wiki/El_violinista_en_el_tejado_(pel%C3%ADcula) El Violinista en el Tejado]" la cual es referenciada en 31 Minutos siendo un "cover" cantado por [[Tulio]] y [[Bodoque]].
+
+==Letra==
+<tabber>
+|-|
+Canción =
+Si yo fuera rico
+<br />
+Dubi, dubi, dubi, dubi,
+<br />
+dubi, dubi, dubi duuu.
+<br />
+<br />
+No tendría más que trabajar.
+<br />
+Si yo fuera solo un ricachón.
+<br />
+<br />
+Naaaaniiinaaaaananaranamnam,
+<br />
+n​amnaranamnan.
+<br />
+¡Si yo fuera un ricachón!.
+<br />
+¡Estamos al aire!.
+</tabber>
+
+[[Categoría:Canciones]]
+[[Categoría:Covers de Canciones]]

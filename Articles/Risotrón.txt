@@ -1,0 +1,19 @@
+{{Fichapersonaje
+|image1 = Risotron-0.png
+|especialidad = Reproducir risas grabadas
+|enemigos = [[Tulio Triviño]]
+|familia = [[Payaso Clavito]] (Creador)
+|voces = <s>[[Payaso Clavito]]</s><br/>[[Alejandra Dueñas]]
+|primera_aparición = [[Episodio 13: Risotrón]]
+|especie = Máquina}}'''Risotrón''' es una máquina que apareció en el [[Episodio 13: Risotrón|episodio del mismo nombre]] en [[31 Minutos]].
+
+==Historia==
+Es una máquina creada por un hombre llamado [[Payaso Clavito|Alberto Roberto]] para emitir risas grabadas para ayudar a los presentadores de televisión como [[Tulio Triviño Tufillo|Tulio Triviño]], hasta que empieza a abuchear después de que conductor contara un chiste muy fome.
+
+Se hace con el cargo de conductor del noticiero e incluso se gana la aprobación de [[Policarpo Avendaño]].
+
+Posteriormente se revela que en realidad es la creación del hombre que la había traído al estudio y era el [[Payaso Clavito]], recién despedido del circo, con la ambición de tener su propio programa.
+
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Personajes Femeninos]]

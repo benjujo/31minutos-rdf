@@ -1,0 +1,31 @@
+{{Fichapersonaje
+|especie = Tortuga
+|nacionalidad = Chilena
+|ocupación = Profesor<br>Científico
+|especialidad = Todos los campos científicos
+|amigos = [[Juan Carlos Bodoque]]<br>[[Huachimingo]]
+|familia = [[Juan Osvaldo]] (Sobrino)
+|voces = [[Patricio Díaz]] (T2-T3)<br>[[Héctor Velozo]] (''[[Las Vacaciones de Tulio, Patana y el pequeño Tim|Vacaciones]]'', T4)
+|primera_aparición = [[Episodio 33: 31 Minutos Educativio]]
+|última_aparición = [[Episodio 60: Huachimingo sin Hogar]]
+|primera_vacaciones = [[Episodio 1: El parque]]
+|última_vacaciones = Episodio 12: La rana que nadie quería
+|image1 = 
+<gallery>
+CiriloPilo.png|Vacaciones-T4
+Cirilo Pila T2-T3.png|T2-T3
+</gallery>
+|apodos = Profe}}{{Frase|¡Bodoque! Si me vienes a pedir dinero para tus apuestas, ¡Olvídalo!|Cirilo Pila|en el Episodio 1: El parque de ''[[Las Vacaciones de Tulio, Patana y el pequeño Tim|Vacaciones]]''}}El profesor '''Cirilo Pila''' es un personaje de 31 minutos y Las Vacaciones de Tulio, Patana y el pequeño Tim. Aparece en la [[Nota Verde]].
+
+==Apariencia==
+Es una anciana tortuga verde con poco pelo y usa lentes, viste una bata blanca de laboratorio que cubre su caparazón.
+
+== Historia ==
+Es un anciano científico, especialista en toda clase de materias como biología, combustibles, pelusas. Siempre ayuda a los personajes de 31 Minutos, especialmente a [[Juan Carlos Bodoque]] y muchas veces aparece con él en sus [[Nota Verde|Notas Verdes]]. Tiene un sobrino que aparece en la Nota Verde <nowiki>''La leña''</nowiki>, llamado Juan Osvando. 
+
+En el spin-off de la serie: [[Las Vacaciones de Tulio, Patana y el pequeño Tim]], él participa en el segmento ''<nowiki>''</nowiki>[[Bodoque eficientemente energético|Bodoque eficientemente energético']]''' donde se le ve ayudando a Juan Carlos a investigar temas del medio ambiente y la energía, por lo cual su participación es más continua.
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Personajes en la Nota Verde]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Personajes de Las Vacaciones de Tulio, Patana y el pequeño Tim]]

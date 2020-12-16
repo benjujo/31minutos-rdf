@@ -1,0 +1,9 @@
+{{Plantilla:Desambiguación}}
+----
+<p style="text-align: center;">'''Lala''' es el nombre de varias cosas diferentes de la serie, estas son:</p>
+----
+
+==Lista==
+*'''[[Lala]]''': Canción del Ránking Top que aparece en la Primera Temporada.
+*'''[[Lala (Personaje)]]''': Personaje menor de la serie que aparece en las encuestas de Mico el Micófono.
+[[Categoría:Desambiguaciones]]

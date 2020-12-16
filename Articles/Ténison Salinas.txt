@@ -1,0 +1,28 @@
+{{Fichapersonaje
+|image1=Tenison.png
+|nombre_real=Ténison Salinas
+|apodos=Edison<br>Érvinson<br>Wilkinson<br>Ericsson<br>Parkinson<br>Morrissey<br>Konchalovsky
+|image=
+|imagesize=
+|nombre=Ténison Salinas
+|especie= Pelota de tenis
+|ocupación=Periodista deportivo en terreno
+|especialidad=Deportes
+|voces=[[Rodrigo Salinas]]
+|nacimiento = |nacionalidad = Chilena|edad = Adulto}}
+{{Frase|Soy Ténison, y no Edison, ni Wilkinson, ni Ericsson|Ténison|corrigiendo a [[Balón Von Bola]]}}
+'''Ténison Salinas''' es un reportero deportivo de terreno en 31 minutos.
+
+==Características==
+Es un pelota de tenis verde lima fosforito con rayas de separación blancas, tiene puntos negros como ojos, y posee una boca movible. Su cuerpo es cilíndrico y la vestimenta varia de color en la serie, ha vestido un traje naranjo, gris o verde grisáseo, también una camisa blanca o café claro y una corbata negra o café oscuro. Lleva consigo un auricular de botón negro.
+
+== Descripción ==
+Ténison Salinas trabaja en terreno, escuelas y lugares varios, donde hace reportajes para la sección Minutos Deportivos. Les hace todo el trabajo a los comentaristas deportivos: [[Balón von Bola|Balón Von Bola]] y [[Raúl Guantecillo|Guantecillo]], aunque el primero ni siquiera se acuerde de su nombre, llamándolo por otros nombres.
+
+== Curiosidades ==
+* En las primeras apariciones del personaje en la serie, su nombre se escribía ''Tenisson'', después cambio a ''Ténison.''
+* Ténison Salinas es integrante al equipo de Tenis para Chile desde el 6 de Junio de 2018, donde realiza reportes diarios para ayudar a la masificación del tenis en Chile. Se puede ver sus apariciones en la cuenta oficial de Tenis para Chile o en el canal oficial de 31 Minutos en YouTube.
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Trabajadores del canal]]
+[[Categoría:Personajes Masculinos]]

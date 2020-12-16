@@ -1,0 +1,24 @@
+{{Fichapersonaje
+|image1= Carmona.png
+|Edad = 
+|ocupación = Científico
+|especialidad=Crecimiento de los árboles
+|amigos = [[Tulio Triviño Tufillo|Tulio]]<br>[[Mario Hugo]]
+|voces = [[Pedro Peirano]]
+|primera_aparición = "[[Episodio 2: El Árbol Furioso|El Árbol Furioso]]"
+|última_aparición = "[[Episodio 17: La Coanimadora|La Coanimadora]]"}}'''Belisario Carmona''' es un personaje secundario aparecido en [[31 Minutos]].
+
+==Descripción==
+Es un científico al que descubrió una teoría de que los árboles crecen rápidamente si uno lo molesta mientras esta en la tierra sembrada, aunque esto se pueda tardar un poco. 
+
+Aparece en el episodio "[[Episodio 9: Día Libre|Día Libre]]" cuando este trae las bebidas para los trabajadores del canal. Aparece en la nota de [[Mario Hugo]] "'''''Convención de Inventores'''''" en donde creo "''El Escribe Fácil''", una máquina que sostiene un lápiz, pero al final resulta muy complicada.
+
+==Apariciones==
+==='''Primera Temporada'''===
+*"[[Episodio 2: El Árbol Furioso|El Árbol Furioso]]"
+*"[[Episodio 9: Día Libre|Día Libre]]"
+*"[[Episodio 17: La Coanimadora|La Coanimadora]]"
+{{Plantilla:PersonajesNav}}
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Personajes secundarios]]

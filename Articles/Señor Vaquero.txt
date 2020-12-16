@@ -1,0 +1,9 @@
+{{Fichapersonaje|especie = Títere|edad = Adulto|ocupación = Vaquero<br/>Dueño de 31 Minutos (temporalmente)|voces = [[Rodrigo Salinas]] (T1-T3)<br/>[[Patricio Díaz]] (T4)|primera_aparición = [[Episodio 3: Guerra en el Mar Despénsico]]|última_aparición = [[Episodio 65: Oestelandia]]|image1 = <gallery>
+Señor Vaquero-T4.png|T4
+Señor Vaquero-T3.png|T3
+Señor Vaquero-T1.png|T1
+</gallery>|aficiones = Estilo de vida del viejo oeste estadounidense}}{{Frase|Buenos y lindos días, Tulio. ¡Me gane un año de estiércol gratis!|El Señor Vaquero|en su entrevista en el noticiero}}
+'''El Señor Vaquero''' es un personaje secundario de [[31 Minutos]]. Es un vaquero con una gran fortuna en estiércol, que se considera el fan número uno del noticiero. A tenido una breve aparición en la [[Primera Temporada]], pero más tarde volvería a participar de manera relevante en un episodio en la [[Tercera Temporada|Tercera]] y en la [[Cuarta Temporada]].
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes Masculinos]]
+[[Categoría:Personajes secundarios]]

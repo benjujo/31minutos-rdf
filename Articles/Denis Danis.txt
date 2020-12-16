@@ -1,0 +1,17 @@
+{{Fichapersonaje
+|image1=Denis_Danis_APLAPLAC---.jpg
+|nombre_real=
+|ocupación=Pintor
+|especialidad=Pintar rápido (y horrible)
+|voces=[[Patricio Díaz]]
+|primera_aparición=[[Episodio 14: Ahorrando]]
+|última_aparición = [[Episodio 60: Huachimingo sin Hogar]] }}
+'''Denis Danis''' es uno de los personajes de [[31 minutos]].
+
+==Descripción==
+Es el pintor más rápido del mundo,y en un episodio estuvieron ahorrando para que pudiera ir al estudio, sin embargo su aparición decepcionó a los del estudio, ya que sus pinturas son horribles.
+
+Volvió a aparecer en el episodio de la cuarta temporada La Mona Lisa y en Huachimingo sin Hogar, como parte de los videos graciosos de Terremoto del Tío Horacio.
+[[Categoría:Personajes de 31 Minutos]]
+[[Categoría:Personajes secundarios]]
+[[Categoría:Personajes Masculinos]]

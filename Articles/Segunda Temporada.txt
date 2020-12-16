@@ -1,0 +1,173 @@
+{{Temporada-Nuevo|image1 = TEMP2.png|fecha_de_inicio = 20 de marzo de 2004|fecha_final = 11 de septiembre de 2004|episodios = 20|siguiente = [[Tercera Temporada]]|anterior = [[Primera Temporada]]<br/>[[Especial de la Teletón]]<br/>[[Especial de Navidad]]}}La '''Segunda Temporada''' de [[31 Minutos]] empezó el 20 de Marzo del 2004, pero habían mostrado 2 episodios especiales los últimos meses del 2003 ("[[Especial de la Teletón]]" y "[[Especial de Navidad]]"), que introducían un nuevo y permanente diseño de personajes y la incorporación de [[Patricio Díaz]] (hermano de [[Álvaro Díaz]], generalmente acreditado como ''Díaz Jr.'') al staff creativo, junto con su personaje [[Guaripolo]]. Esta temporada estuvo financiada por [[wikipedia:es:Televisión Nacional de Chile|TVN]] y tuvo un presupuesto perceptiblemente más alto que cambió y mejoró la visualidad del show, cómo un nuevo opening filmado en 35mm, nuevos escenarios, muchos nuevos personajes por episodio y diferentes gráficas de continuidad.
+
+En esta temporada las historias dejaron de girar solamente en [[Tulio Triviño Tufillo|Tulio Triviño]] y en el noticiero en sí y se concentró más en las historias los personajes secundarios, con episodios que ya no están bajo el concepto de “transmisión televisiva”, con menos contenidos educativos y menos apariciones de los segmentos habituales (como las “[[Encuestas]]”, que fueron removidas del programa desde el episodio [[Episodio 33: 31 Minutos Educativio|33]] y “[[Calcetín con Rombos Man]]”, que no aparece entre los episodios [[Episodio 29: Cebollas|29]] y [[Episodio 34: Maguito Explosivo|34]]), aunque aparecieron nuevos segmentos como ”[[La Dimensión Hermosa y Desconocida]]” y “[[Cosas que Buscan Cosas]]” (que sólo aparece esta temporada). Personajes recurrentes como el [[Tío Horacio]], [[Dios]], [[Bongo Stingo]] y [[Cirilo Pila]] fueron introducidos también.
+
+==Lista de Episodios==
+{| class="collapsible collapsed" width="100%" style="border:1px solid #4f81bd; text-color:#000;"
+|-
+! colspan="6" style="background-color:#4f81bd;" |Temporada #2
+|-
+! style="background: #4f81bd;" |No. Serie
+! style="background: #4f81bd;" |No. Temp.
+! style="background: #4f81bd;" |Título
+! style="background: #4f81bd;" |Fecha de Estreno
+|- class="vevent" style="text-align: center; background: #6eafff"
+|22
+|1
+|"[[Episodio 22: Vacaciones|Vacaciones]]"
+|[[File:Vacaciones.png|thumb|127x127px]]20 de Marzo del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |Luego de regresar de vacaciones, todos sospechan que [[Tulio Triviño|Tulio]] ha conseguido una novia.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|23
+|2
+|"[[Episodio 23: Relox|Relox]]"
+|[[File:Relox.png|thumb|127x127px]]27 de Marzo del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |La región de Salsasia le regala a [[Tulio Triviño|Tulio]] un reloj valioso, pero más tarde lo pierde y piensa que fue un robo.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|24
+|3
+|"[[Episodio 24: Tío Horacio|Tío Horacio]]"
+|[[File:Tio Horacio.png|thumb|126x126px]]03 de Abril del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |El programa le rinde un homenaje al gran exanimador de programas infantiles: el [[Tío Horacio]].
+|- class="vevent" style="text-align: center; background: #6eafff"
+|25
+|4
+|"[[Episodio 25: Japonés|Japonés]]"
+|[[File:Japones.png|thumb|125x125px]]10 de Abril del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |El [[Eusebio Manguera|Sr. Manguera]] le vende el canal a los japoneses, los cuales hacen cambios drásticos en el programa.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|26
+|5
+|"[[Episodio 26: ¡Qué Lástima!|¡Qué Lástima!]]"
+|[[File:Que Lastima.png|thumb|129x129px]]17 de Abril del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |[[Cossimo Gianni|Cossimo]] dice que la alegría paso de moda, por lo que obliga a [[Tulio Triviño|Tulio]] hacer un programa orientado en la lástima.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|27
+|6
+|"[[Episodio 27: Lulo Serrucho|Lulo Serrucho]]"
+|[[File:Lulo Serrucho.png|thumb|129x129px]]24 de Abril del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |El malvado maestro del disfraz [[Lulo Serrucho]] escapó de la cárcel y llega al estudio para suplantar a [[Tulio Triviño|Tulio]] y a todos.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|28
+|7
+|"[[Episodio 28: Bodoque Deprimido|Bodoque Deprimido]]"
+|[[File:Bodoque Deprimido.png|thumb|129x129px]]01 de Mayo del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |A [[Juan Carlos Bodoque|Bodoque]] le da depresión y [[Tulio Triviño|Tulio]], con la ayuda de sus amigos, trata de hacer que su amigo tenga buen ánimo.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|29
+|8
+|"[[Episodio 29: Cebollas|Cebollas]]"
+|[[File:Cebollas.png|thumb|129x129px]]08 de Mayo del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |El equipo del programa tendrá que soportar a su nuevo auspiciador: "Las Cebollas, me encanta".
+|- class="vevent" style="text-align: center; background: #6eafff"
+|30
+|9
+|"[[Episodio 30: Un Ratoncito Duro de Cazar|Un Ratoncito Duro de Cazar]]"
+|[[File:Un Ratoncito Duro de Cazar.png|thumb|130x130px]]15 de Mayo del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |Un ratón provoca caos en el estudio y [[Tulio Triviño|Tulio]] y sus amigos tratan de atraparlo, aunque este sea muy listo que ellos.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|31
+|10
+|"[[Episodio 31: El Secreto|El Secreto]]"
+|[[File:El Secreto.png|thumb|127x127px]]22 de Mayo del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |[[Tío Pelado]] le cuenta a [[Tulio Triviño|Tulio]] el mayor secreto de [[Policarpo]], el cual, el conductor (prácticamente obligado) lo revela.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|32
+|11
+|"[[Episodio 32: El Despido|El Despido]]"
+|[[File:El Despido.png|thumb|130x130px]]05 de Junio del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |Debido a una crisis económica, el [[Eusebio Manguera|Sr. Manguera]] le encarga a [[Tulio Triviño|Tulio]] despedir a [[Mico el Micófono]] (funcionario más útil).
+|- class="vevent" style="text-align: center; background: #6eafff"
+|33
+|12
+|"[[Episodio 33: 31 Minutos Educativio|31 Minutos Educativio]]"
+|[[File:31 minutos Educativio.png|thumb|131x131px]]12 de Junio del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |[[Tulio Triviño|Tulio]] trata de demostrarle a [[Cindy Miraflores|Cindy]], su novia, que no miente poniendo al programa lo más "educativio" posible.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|34
+|13
+|"[[Episodio 34: El Maguito Explosivo|El&nbsp;Maguito Explosivo]]"
+|[[File:El Maguito Explosivo.png|thumb|130x130px]]19 de Junio del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |El mago [[Dante Torobolino]] va a una clínica para que deje de explotar, pero se descubre que se dirije un asteroide.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|35
+|14
+|"[[Episodio 35: Mugre|Mugre]]"
+|[[File:Mugre.png|thumb|129x129px]]26 de Junio del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |[[Juanín Juan Harry|Juanín]] convence a sus compañeros de seguir las sucias enseñanzas de su nuevo líder espiritual: Wildo Waldo.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|36
+|15
+|"[[Episodio 36: Hielito|Hielito]]"
+|[[File:Hielito.png|thumb|129x129px]]03 de Julio del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |[[Juanín Juan Harry|Juanín]] crea un muñeco de nieve llamado Hielito, que cobra vida, pero los problemas empiezan cuando sale el calor.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|37
+|16
+|"[[Episodio 37: La Amenaza Siluria (Primera Parte)|La Amenaza Siluria (Primera Parte)]]"
+|[[File:La Amenaza Siluria I.png|thumb|125x125px]]07 de Agosto del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |El planeta Siluris exige la entrega de [[Tulio Triviño|Tulio]] para poder vengarse del pastelazo que el conductor tiró a su embajador.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|38
+|17
+|"[[Episodio 38: La Amenaza Siluria (Segunda Parte)|La Amenaza Siluria (Segunda Parte)]]"
+|[[File:La Amenaza Siluria II.png|thumb|127x127px]]14 de Agosto del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |Para evitar que los silurios lanzen un pastelazo que destruirá la Tierra, [[Tulio Triviño|Tulio]] y el resto del equipo viajan a su planeta.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|39
+|18
+|"[[Episodio 39: La Amenaza Siluria (Tercera Parte)|La Amenaza Siluria (Tercera Parte)]]"
+|[[File:La Amenaza Siluria III.png|thumb|129x129px]]21 de Agosto del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |La nave espacial se descompone y todos quedan perdidos en el espacio, víctimas del peor problema: el hambre.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|40
+|19
+|"[[Episodio 40: Lo Recuerdo Muy Bien|Lo Recuerdo Muy Bien]]"
+|[[File:Lo Recuerdo muy Bien.png|thumb|122x122px]]28 de Agosto del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |[[Tulio Triviño|Tulio]] se encuentra en el hospital, y sus amigos van a visitarlo, para hacerle recordar lo mejor de la temporada.
+|- class="vevent" style="text-align: center; background: #6eafff"
+|41
+|20
+|"[[Episodio 41: Fiesta en la Casa de Juanín|Fiesta en la Casa de Juanín]]"
+|[[File:Fiesta en la Casa de Juanín.png|thumb|126x126px]]11 de Septiembre del 2004
+|-
+| colspan="6" class="description" style="border-bottom:3px solid #4f81bd" |[[Juanín Juan Harry|Juanín]] organiza una fiesta en su propia casa, en la cual los invitados son todos los funcionarios del programa.
+|}
+
+==Lista de Canciones==
+Esta es una lista de todas las canciones aparecidas en la temporada durante el [[Ranking Top]].
+*"[[Severlá]]" de [[Otto]] & Los Sarcófagos del Ritmo.
+*"[[Rin Raja]]" de [[Juan Tástico]].
+*"[[Boing, Boing, Boing]]" de [[Tío Horacio]].
+*"[[El Dinosaurio Anacleto]]" de [[Dinosaurio Roberto]].
+*"[[Sra. Interesante]]" de [[Cucky]].
+*"[[Objeción Denegada]]" de [[Juan Pablo Sopa]].
+*"[[Nunca me he Sacado un Siete]]" de [[Michael Astudillo Jr.|Michael Astudillo Jr]].
+*"[[Doggy Style]]" de [[Perros de Mario Hugo|El Perro Duque]].
+*"[[Papá, te Quiero]]" de [[Exequiel Tapia]] & los Tapia.
+
+==Ver También==
+*[[Primera Temporada]]
+*[[Tercera Temporada]]
+*[[Cuarta Temporada]]
+[[Categoría:31 minutos]]
+[[Categoría:Temporadas]]
