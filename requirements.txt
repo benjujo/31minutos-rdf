@@ -3,8 +3,12 @@ bs4==0.0.1
 certifi==2020.12.5
 chardet==3.0.4
 idna==2.10
+isodate==0.6.0
+pyparsing==2.4.7
+rdflib==5.0.0
 regex==2020.11.13
 requests==2.25.0
+six==1.15.0
 soupsieve==2.1
 urllib3==1.26.2
 wcwidth==0.2.5

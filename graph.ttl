@@ -1,0 +1,426 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<%C3%81lvaro%20D%C3%ADaz> <nombre_real> "Álvaro Díaz González"^^xsd:string .
+
+<Abuela%20Lala> <amigo> "[[Cebollón]]"^^xsd:string ;
+    <especie> "Humana (Titere)"^^xsd:string ;
+    <nombre_real> "Lala"^^xsd:string .
+
+<Albertina%20y%20Anton%C3%ADn> <especie> "Conejo"^^xsd:string ;
+    <nombre_real> """Albertina Bodoque
+Antonín Bodoque"""^^xsd:string .
+
+<Alfred> <especie> "Títere"^^xsd:string .
+
+<Amapola%20Polar> <amigo> """[[Juan Carlos Bodoque]]
+[[Zorro Buena Onda]]"""^^xsd:string ;
+    <especie> "Humana (Títere)"^^xsd:string ;
+    <nombre_real> "Amapola Polar"^^xsd:string .
+
+<Armando%20Delgadillo> <amigo> "[[Anciana iguana]]"^^xsd:string,
+        "[[Demóstenes]]"^^xsd:string,
+        "[[Domingo Perezoso]]"^^xsd:string,
+        "[[Jaime Jaguar]]"^^xsd:string,
+        "[[Julian Tuc]]"^^xsd:string,
+        "[[Mono araña]]"^^xsd:string,
+        "[[Pizote sisters]]"^^xsd:string,
+        "[[Rodolfa Garcés]]"^^xsd:string ;
+    <apodo> "El armadillo"^^xsd:string ;
+    <especie> "Armadillo"^^xsd:string .
+
+<Benjam%C3%ADn%20Listillo> <especie> "Tramoya"^^xsd:string ;
+    <nombre_real> ""^^xsd:string .
+
+<Bife%20chorizo> <especie> "Carne (bife de chorizo)"^^xsd:string ;
+    <nombre_real> ""^^xsd:string .
+
+<Bombi> <amigo> "[[Juanín Juan Harry]]"^^xsd:string,
+        "[[Policarpo Avendaño]]"^^xsd:string,
+        "[[Tulio Triviño]]"^^xsd:string ;
+    <apodo> "Jaime"^^xsd:string,
+        "Yugoslavo"^^xsd:string,
+        "Zombie"^^xsd:string ;
+    <especie> "Gorila zombificado"^^xsd:string ;
+    <nombre_real> "Puñetin"^^xsd:string .
+
+<Bongo%20Stingo> <amigo> "[[Jackson Aceituno]]"^^xsd:string ;
+    <nombre_real> "Bongo Stingo"^^xsd:string .
+
+<C%C3%A1para%20Sonia> <especie> "Tortuga"^^xsd:string .
+
+<C%C3%A1ptus%20%22El%20C%C3%A1ctus%22> <especie> "Cactus"^^xsd:string ;
+    <nombre_real> "Captus"^^xsd:string .
+
+<Calcet%C3%ADn%20con%20Ramones%20Man> <amigo> "[[Otis]]"^^xsd:string,
+        "[[Pompón]]"^^xsd:string,
+        "[[Rucia]]"^^xsd:string ;
+    <especie> "Calcetín"^^xsd:string ;
+    <nombre_real> "Ramón ''Peligro'' Quintanilla"^^xsd:string .
+
+<Carla%20Rubio> <amigo> "[[Tulio Triviño Tufillo]] (Anteriormente)"^^xsd:string ;
+    <especie> "Muñeca"^^xsd:string .
+
+<Carlitos%20Lechuga> <especie> "Cerdo (Títere de dedo)"^^xsd:string ;
+    <nombre_real> "Carlitos Lechuga"^^xsd:string .
+
+<Carmencita> <especie> "Humana (TÍtere)"^^xsd:string .
+
+<Carola%20Cargante> <especie> "Humana (titere)"^^xsd:string ;
+    <nombre_real> "Carola Cargante"^^xsd:string .
+
+<Cham%C3%A1n%20Pelmazo> <amigo> "[[Juan Carlos Bodoque]]"^^xsd:string ;
+    <apodo> """Chamán Pelmazo
+Chamán"""^^xsd:string ;
+    <especie> "Humano (Títere)"^^xsd:string ;
+    <nombre_real> "Pelmazo"^^xsd:string .
+
+<Chico%20Terry> <amigo> "[[Balón Von Bola]] (Entrenador)"^^xsd:string,
+        "[[Mico el Micófono]]"^^xsd:string,
+        "[[Rosario Central]] (Tutora de piano)"^^xsd:string,
+        "[[Ténison Salinas]] (Profesor)"^^xsd:string ;
+    <apodo> "Chico Terry"^^xsd:string,
+        "La pequeña promesa del fútbol"^^xsd:string,
+        "Tom Sawyer (Rol actoral)"^^xsd:string,
+        "[https://es.wikipedia.org/wiki/Carlos_Caszely Caszely]"^^xsd:string,
+        "[https://es.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin Chopin]"^^xsd:string ;
+    <especie> "Muñeco"^^xsd:string .
+
+<Cindy%20Miraflores> <especie> "Ardilla"^^xsd:string ;
+    <nombre_real> ""^^xsd:string .
+
+<Cucho%20Lambretta> <amigo> ""^^xsd:string ;
+    <apodo> ""^^xsd:string ;
+    <especie> "Oso (Títere)"^^xsd:string .
+
+<Demetrio%20Largo> <amigo> "[[Albertina y Antonín]]"^^xsd:string,
+        "[[Juan Carlos Bodoque]]"^^xsd:string ;
+    <especie> "Cerdo (Títere de mano)"^^xsd:string .
+
+<Dios> <amigo> "[[Calcetín con Rombos Man]]"^^xsd:string,
+        "[[Juan Carlos Bodoque]]"^^xsd:string,
+        "[[Juanín Juan Harry]]"^^xsd:string,
+        "[[Mario Hugo]]"^^xsd:string,
+        "[[Patana Tufillo]]"^^xsd:string,
+        "[[Policarpo Avendaño]]"^^xsd:string,
+        "[[Tulio Triviño]]"^^xsd:string,
+        "Ángeles del cielo"^^xsd:string ;
+    <apodo> "Creador del cielo y de la tierra"^^xsd:string,
+        "Padre"^^xsd:string ;
+    <especie> "Ser omnipotente"^^xsd:string ;
+    <nombre_real> "Dios"^^xsd:string .
+
+<Don%20Chumingo> <amigo> "[[Juan Carlos Bodoque]] [[Mico el Micófono]]"^^xsd:string ;
+    <apodo> "Don Chumingo"^^xsd:string ;
+    <especie> "Titere de Mano"^^xsd:string ;
+    <nombre_real> "Chumingo"^^xsd:string .
+
+<Don%20Sergio> <amigo> "Pepe Lota"^^xsd:string .
+
+<Duque> <amigo> "[[Johnny (Choapino)]]"^^xsd:string,
+        "[[Tepo-Tepo]]"^^xsd:string ;
+    <especie> "Dóberman"^^xsd:string .
+
+<El%20peque%C3%B1o%20Tim> <amigo> """[[Patana Tufillo]]
+[[Tulio Triviño]]"""^^xsd:string ;
+    <apodo> "Pequeño Tim"^^xsd:string ;
+    <especie> "Títere"^^xsd:string ;
+    <nombre_real> "Tim"^^xsd:string .
+
+<Estrella%20de%20Lana> <especie> "Muñeca de lana"^^xsd:string .
+
+<Exequiel%20Tapia> <apodo> "Señor mimo"^^xsd:string ;
+    <especie> "Humano"^^xsd:string .
+
+<Felipe> <amigo> "Los guantes"^^xsd:string,
+        "[[Raúl Guantecillo]]"^^xsd:string ;
+    <especie> "Guante"^^xsd:string ;
+    <nombre_real> "Felipe"^^xsd:string .
+
+<Felipe%20Godoy> <nombre_real> "Felipe Godoy"^^xsd:string .
+
+<Fernando%20Sol%C3%ADs> <nombre_real> "Fernando Javier Solís Lara"^^xsd:string .
+
+<Fleco%20Graseli> <especie> "Perro"^^xsd:string .
+
+<Flor%20Bovina> <amigo> "Muñeca de Flor Bovina"^^xsd:string ;
+    <apodo> "Loca"^^xsd:string ;
+    <especie> "Humana (Títere)"^^xsd:string .
+
+<Francisco%20Schultz> <apodo> "Pancho"^^xsd:string ;
+    <nombre_real> "Francisco Schultz"^^xsd:string .
+
+<Gary%20Gonz%C3%A1lez> <especie> "Títere"^^xsd:string .
+
+<General%20Laton> <especie> "Lata de salsa"^^xsd:string ;
+    <nombre_real> "Laton"^^xsd:string .
+
+<Gotita> <amigo> "[[Juan Carlos Bodoque]]"^^xsd:string ;
+    <especie> "Gota de Agua (Títere)"^^xsd:string .
+
+<Guante> <amigo> "Calcetines del Colegio"^^xsd:string,
+        "[[Calcetín con Rombos Man]]"^^xsd:string ;
+    <especie> "Guante"^^xsd:string .
+
+<Guaripolo> <amigo> "[[Sopapiglobo]]"^^xsd:string ;
+    <apodo> "Aparecido"^^xsd:string,
+        "Profesor Guaripolus (Ep. 65)"^^xsd:string,
+        "[[Romeo y Julieta|Conde Paris]]"^^xsd:string ;
+    <especie> "Monstruo"^^xsd:string .
+
+<H%C3%A9ctor%20Velozo> <apodo> "Tito"^^xsd:string ;
+    <nombre_real> "Héctor Velozo"^^xsd:string .
+
+<Helga%20Szwazzsenberg> <amigo> "Gaston (Asistente)"^^xsd:string ;
+    <apodo> "Doctora"^^xsd:string,
+        "Ingeniera"^^xsd:string,
+        "Profesora"^^xsd:string ;
+    <especie> "Humana (Títere)"^^xsd:string .
+
+<Hermanos%20Computadores%20de%20Paine> <amigo> "[[Raúl Guantecillo]]"^^xsd:string ;
+    <especie> "Computadoras"^^xsd:string .
+
+<Hermanos%20Wala-Wala> <especie> "Humana (títeres)"^^xsd:string .
+
+<Hielito%20(personaje)> <especie> "Muñeco de nieve"^^xsd:string .
+
+<Huachimingo> <amigo> "[[Juan Carlos Bodoque]]"^^xsd:string,
+        "[[Juanín Juan Harry]] (Durante 31 Minutos: La Pelicula)"^^xsd:string,
+        "[[Mario Hugo]]"^^xsd:string ;
+    <apodo> "Huachiminguito"^^xsd:string,
+        "Mentiroso"^^xsd:string,
+        "Predador natural de las pelusas"^^xsd:string,
+        "[[Romeo y Julieta|Primo Huachimucio]]"^^xsd:string ;
+    <especie> "Huachimingo"^^xsd:string ;
+    <nombre_real> "H. H. Huachimingo"^^xsd:string .
+
+<Igor%20El%20Destructor> <apodo> "El Destructor del aburrimiento"^^xsd:string,
+        "Igor, El Destructor"^^xsd:string ;
+    <especie> "Bombilla de luz"^^xsd:string ;
+    <nombre_real> "Igor"^^xsd:string .
+
+<Jack%20Patata> <especie> "Humano (Títere)"^^xsd:string ;
+    <nombre_real> "Jack Patata"^^xsd:string .
+
+<Jacobo%20Fotonolovski> <especie> "Mono"^^xsd:string ;
+    <nombre_real> "Jacobo Fotonolovski"^^xsd:string .
+
+<James%20J.%20McNamara> <apodo> "El gringo"^^xsd:string ;
+    <especie> "Tramoya"^^xsd:string ;
+    <nombre_real> "James J. McNamara"^^xsd:string .
+
+<Je-Jin> <especie> "Cerdo"^^xsd:string ;
+    <nombre_real> ""^^xsd:string .
+
+<Jenkins,%20el%20mayordomo> <apodo> "Fiel Jenkins"^^xsd:string,
+        "Jenkilito"^^xsd:string ;
+    <especie> "Humano (títere)"^^xsd:string ;
+    <nombre_real> ""^^xsd:string .
+
+<John%20Quijada> <especie> "Humano (Títere)"^^xsd:string .
+
+<Johnny%20(Choapino)> <amigo> "Perros de [[Mario Hugo]]"^^xsd:string ;
+    <especie> "Perro"^^xsd:string .
+
+<Juan%20Licuado> <especie> "Balón de gas"^^xsd:string .
+
+<Juan%20Pablo%20Sopa> <apodo> "Idiota"^^xsd:string ;
+    <especie> "Cerdo"^^xsd:string .
+
+<L%C3%A1piz> <especie> "Lápiz grafito"^^xsd:string ;
+    <nombre_real> "Lápiz"^^xsd:string .
+
+<Lala%20(Personaje)> <amigo> "[[Lolo]]"^^xsd:string ;
+    <especie> "Títere de mano"^^xsd:string .
+
+<Loco%20Estero> <amigo> "Estrella"^^xsd:string,
+        "[[Juan Carlos Bodoque]]"^^xsd:string ;
+    <apodo> "Dr. Richardson"^^xsd:string,
+        "Loco Estero"^^xsd:string ;
+    <especie> "[https://es.wikipedia.org/wiki/Concholepas_concholepas Loco (''Concholepas concholepas'')]"^^xsd:string ;
+    <nombre_real> "Desconocido"^^xsd:string .
+
+<Lolo> <amigo> "[[Lala (Personaje)|Lala]]"^^xsd:string .
+
+<Longanizo%20Prieto> <especie> "Humana (títere)"^^xsd:string ;
+    <nombre_real> "Longanizo Prieto"^^xsd:string .
+
+<Machi%20Fresia> <apodo> "Machi Fresia"^^xsd:string ;
+    <especie> "Humana (Títere)"^^xsd:string ;
+    <nombre_real> "Fresia"^^xsd:string .
+
+<Mam%C3%A1%20de%20Tulio> <apodo> "Mamá (Tulio)"^^xsd:string ;
+    <especie> "Simio chimpancé con ojos de botón y sin nariz"^^xsd:string ;
+    <nombre_real> "Vespertina Tufillo"^^xsd:string .
+
+<Marianita%20Riofr%C3%ADo> <amigo> "[[Juan Carlos Bodoque]]"^^xsd:string ;
+    <especie> "Conejo"^^xsd:string .
+
+<Marito> <especie> "Conejo"^^xsd:string ;
+    <nombre_real> "Marito Bodoque"^^xsd:string .
+
+<Martes> <amigo> "[[Juan Carlos Bodoque]]"^^xsd:string ;
+    <apodo> "Martes Nuñez"^^xsd:string ;
+    <especie> "Humano (Títere)"^^xsd:string ;
+    <nombre_real> "Viernes"^^xsd:string .
+
+<Maximiliano%20Ortiz> <amigo> "[[Celestina Reyes]]"^^xsd:string,
+        "[[Lautaro Cabrera]]"^^xsd:string,
+        "[[Nancy Cachete]]"^^xsd:string,
+        "[[Policarpo Avendaño]]"^^xsd:string,
+        "[[Rogelio Patraña]]"^^xsd:string ;
+    <apodo> "Príncipe Calugo"^^xsd:string ;
+    <especie> "Humano (Títere)"^^xsd:string .
+
+<Michael%20Astudillo%20Jr.> <amigo> "Compañeros de su clase"^^xsd:string ;
+    <nombre_real> "Michael Astudillo"^^xsd:string .
+
+<Milton%20Ludovico> <especie> "Títere"^^xsd:string ;
+    <nombre_real> ""^^xsd:string .
+
+<Monstruo%20Chupachupa> <apodo> "El monstruo"^^xsd:string,
+        "Monstruo Chupachupa"^^xsd:string ;
+    <especie> "Aspiradora"^^xsd:string ;
+    <nombre_real> ""^^xsd:string .
+
+<Morticia%20Felicinda%20Trivi%C3%B1o> <apodo> "Felicinda"^^xsd:string,
+        "Morticia"^^xsd:string ;
+    <especie> "Probablemente simio"^^xsd:string .
+
+<Nancy%20Cachete> <amigo> "[[Celestina Reyes]]"^^xsd:string,
+        "[[Lautaro Cabrera]]"^^xsd:string,
+        "[[Maximiliano Ortiz]]"^^xsd:string,
+        "[[Policarpo Avendaño]]"^^xsd:string,
+        "[[Rogelio Patraña]]"^^xsd:string ;
+    <apodo> "La bruja Granuja"^^xsd:string ;
+    <especie> "Humana (Títere)"^^xsd:string ;
+    <nombre_real> "Nancy Cachete"^^xsd:string .
+
+<Nicasio%20Fallido> <nombre_real> ""^^xsd:string .
+
+<Noelia%20Bodoque> <amigo> "Señor Litre"^^xsd:string,
+        "[[Zorro Buena Onda]]"^^xsd:string ;
+    <apodo> ""^^xsd:string ;
+    <especie> "Conejo"^^xsd:string .
+
+<Off> <amigo> "[[Calcetín con Rombos Man]]"^^xsd:string ;
+    <nombre_real> "Desconocido"^^xsd:string .
+
+<Oso%20mir%C3%B3n> <especie> "Oso azul"^^xsd:string .
+
+<Otis> <amigo> """[[Calcetín con Rombos Man]] (Tío)
+[[Calcetín con Ramones Man]]"""^^xsd:string ;
+    <especie> "Calcetín"^^xsd:string ;
+    <nombre_real> "Otis S. Castro"^^xsd:string .
+
+<Pablo%20Ilabaca> <apodo> """K-V-Zon
+Jaco Sánchez"""^^xsd:string ;
+    <nombre_real> "Pablo Ignacio llabaca González"^^xsd:string .
+
+<Pato%20Willy> <amigo> "El Comandante"^^xsd:string ;
+    <apodo> "Pato Willy"^^xsd:string ;
+    <especie> "Pato (piñata)"^^xsd:string ;
+    <nombre_real> "Willy"^^xsd:string .
+
+<Patricio%20D%C3%ADaz> <apodo> "Pato"^^xsd:string ;
+    <nombre_real> "Patricio Díaz"^^xsd:string .
+
+<Pepe%20Lota> <amigo> "[[Don Sergio]]"^^xsd:string ;
+    <especie> "Humana"^^xsd:string ;
+    <nombre_real> "Pepe Lota"^^xsd:string .
+
+<Perfectina%20G%C3%B3mez> <amigo> "[[Calcetín con Rombos Man]]"^^xsd:string ;
+    <especie> "Calcetina"^^xsd:string .
+
+<Pirata%20pata%20de%20palo> <especie> "Humano"^^xsd:string ;
+    <nombre_real> "Desconocido"^^xsd:string .
+
+<Pomp%C3%B3n> <amigo> "[[Calcetín con Ramones Man]]"^^xsd:string,
+        "[[Calcetín con Rombos Man]] (Maestro)"^^xsd:string,
+        "[[Rucia]]"^^xsd:string ;
+    <apodo> """El ceniciento
+Pompones Man"""^^xsd:string ;
+    <especie> "Calcetín"^^xsd:string ;
+    <nombre_real> "Pompón"^^xsd:string .
+
+<Profesor%20de%20Michael%20Astudillo%20Jr.> <especie> "Humano (títere)"^^xsd:string .
+
+<Profeta%20Isa%C3%ADas> <apodo> "Profeta Isaías"^^xsd:string ;
+    <especie> "Humana (titere)"^^xsd:string ;
+    <nombre_real> "Isaías"^^xsd:string .
+
+<Ramona> <amigo> "[[Juan Carlos Bodoque]]"^^xsd:string ;
+    <apodo> "Hermosa chilota"^^xsd:string ;
+    <especie> "Humana (Títere)"^^xsd:string ;
+    <nombre_real> "Ramona Pincoya"^^xsd:string .
+
+<Renato%20Sensato> <especie> "Humano (títere)"^^xsd:string ;
+    <nombre_real> ""^^xsd:string .
+
+<Retrete%20Navarrete> <amigo> "Los Bulliciosos"^^xsd:string ;
+    <especie> "Oso"^^xsd:string ;
+    <nombre_real> ""^^xsd:string .
+
+<Rigoberta%20Manchula> <especie> "Títere"^^xsd:string .
+
+<Robinson%20Guillermo> <especie> "Humana (titere)"^^xsd:string ;
+    <nombre_real> "Robinson Guillermo"^^xsd:string .
+
+<Rodrigo%20Salinas> <apodo> "El Guatón Salinas"^^xsd:string ;
+    <nombre_real> "Rodrigo Salvador Salinas Marambio"^^xsd:string .
+
+<Rolando%20Goloso> <especie> "Humana (titere)"^^xsd:string ;
+    <nombre_real> "Rolando Goloso"^^xsd:string .
+
+<Rotulo%20Fom%C3%ADnguez> <especie> "Humana (Títere)"^^xsd:string ;
+    <nombre_real> "Rotulo Fomínguez"^^xsd:string .
+
+<Scolapio%20Santana> <especie> "Humano (títere)"^^xsd:string ;
+    <nombre_real> ""^^xsd:string .
+
+<Se%C3%B1or%20Vaquero> <especie> "Títere"^^xsd:string .
+
+<Segurito> <especie> "Humano (títere)"^^xsd:string .
+
+<Sol%20del%20Solar> <especie> "Muñeca"^^xsd:string ;
+    <nombre_real> "Sol del Solar"^^xsd:string .
+
+<Sopapiglobo> <amigo> "[[Guaripolo]]"^^xsd:string ;
+    <apodo> "Sopapiglobus (Ep. 65)"^^xsd:string,
+        "[[Romeo y Julieta|Sopapibaldo]]"^^xsd:string ;
+    <especie> "Sopapo-globo"^^xsd:string ;
+    <nombre_real> "Sopapiglobo"^^xsd:string .
+
+<Sr.%20Invisible%20Mudo> <especie> "Desconocidad"^^xsd:string ;
+    <nombre_real> "Invisible Mudo"^^xsd:string .
+
+<Sr.%20Yokoshima> <especie> "Cerdo"^^xsd:string ;
+    <nombre_real> "Yokoshima"^^xsd:string .
+
+<Sra.%20Ardilla> <especie> "Ardilla"^^xsd:string ;
+    <nombre_real> "Señora Ardilla"^^xsd:string .
+
+<Teniente%20Pu%C3%B1ete> <amigo> ""^^xsd:string ;
+    <especie> "Gorila"^^xsd:string ;
+    <nombre_real> "Puñete"^^xsd:string .
+
+<Tepo-Tepo> <amigo> "[[Mario Hugo]] (Dueño)"^^xsd:string ;
+    <especie> "Pinscher miniatura"^^xsd:string .
+
+<Tormenta%20China> <amigo> "[[Juan Carlos Bodoque]]"^^xsd:string ;
+    <especie> "Caballo o Yegua"^^xsd:string .
+
+<Vecina%20de%20Pepe%20Lota> <especie> "Humana (Títere)"^^xsd:string ;
+    <nombre_real> "Emerilda Pomposa"^^xsd:string .
+
+<Viejos%20Pascueros%20Acalorados> <especie> "Humanos (Titere)"^^xsd:string .
+
+<Vladimiro%20Virutilla> <nombre_real> "Vladimiro Virutilla"^^xsd:string .
+
+<Wildo%20Waldo> <apodo> "Sagrado maestro"^^xsd:string ;
+    <especie> "Humana (títere)"^^xsd:string ;
+    <nombre_real> "Wildo Waldo"^^xsd:string .
+
+<Zorro%20Buena%20Onda> <amigo> """[[Juan Carlos Bodoque]]
+[[Amapola Polar]]"""^^xsd:string ;
+    <especie> "Zorro de Darwin"^^xsd:string .
+
