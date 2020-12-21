@@ -7,6 +7,13 @@ from requests.utils import requote_uri
 
 ARTICLES_PATH = 'Articles/'
 
+def to_camel_case(text):
+    s = text.replace("-", " ").replace("_", " ").replace('"', " ")
+    s = s.split()
+    if len(text) == 0:
+        return text
+    return s[0] + ''.join(i.capitalize() for i in s[1:])
+
 class Personaje():
     def __init__(self, nombre):
         self.nombre = nombre
@@ -28,8 +35,12 @@ class Personaje():
         return iter(list)
     
     def to_graph(self, graph):
-        nodename = requote_uri(self.nombre)
+        nodename = to_camel_case(self.nombre)
+        print("to_graph: {}".format(nodename))
         for k,v in self:
+            #if(v)
+            
+            
             graph.add((URIRef(nodename),
                        URIRef(k),
                        Literal(v, datatype=XSD.string)))
@@ -83,21 +94,25 @@ def serialize_pj(nombre, template):
     return pj            
     
 
-g = Graph()
 
-##borre las carpetas para no tener problemas
-fileList = os.listdir(ARTICLES_PATH)
-for file in fileList:
-    with open(ARTICLES_PATH+file, "r") as file:
-        parsed = wtp.parse(file.read())
-        templates = parsed.templates
-        for template in templates:
-            if(template.name == 'Fichapersonaje'):
-                nombre = file.name.replace(".txt","").replace(ARTICLES_PATH,"")
-                pj = serialize_pj(nombre, template)
-                pj.to_graph(g)
+
+def create_pj_graph():
+    g = Graph()
+
+    ##borre las carpetas para no tener problemas
+    fileList = os.listdir(ARTICLES_PATH)
+    for file in fileList:
+        with open(ARTICLES_PATH+file, "r") as file:
+            parsed = wtp.parse(file.read())
+            templates = parsed.templates
+            for template in templates:
+                if(template.name == 'Fichapersonaje'):
+                    nombre = file.name.replace(".txt","").replace(ARTICLES_PATH,"")
+                    pj = serialize_pj(nombre, template)
+                    pj.to_graph(g)
+                
                 
 
-g.serialize(destination='graph.ttl', format='turtle')
+    g.serialize(destination='graph.ttl', format='turtle')
 
 
