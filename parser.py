@@ -14,6 +14,16 @@ def to_camel_case(text):
         return text
     return s[0] + ''.join(i.capitalize() for i in s[1:])
 
+def is_link(v):
+    linkregex = r'\[\[.*\]\]'
+    return re.match(linkregex, v) is not None
+
+def get_link(v):
+    a=v
+    clean = re.match(r'(\[\[((?!\[).)*\]\])(.*)', v).group(1)
+    wl = wtp.WikiLink(clean)
+    return wl.title
+
 class Personaje():
     def __init__(self, nombre):
         self.nombre = nombre
@@ -28,27 +38,85 @@ class Personaje():
             list.append(('nombre_real', i))
         for i in self.apodos:
             list.append(('apodo', i))
+        for i in self.integrantes:
+            list.append(('integrante', i))
         for i in self.especie:
             list.append(('especie', i))
+        for i in self.edad:
+            list.append(('edad', i))
+        for i in self.nacimiento:
+            list.append(('nacimiento', i))
+        for i in self.nacionalidad:
+            list.append(('nacionalidad', i))
+        for i in self.ocupacion:
+            list.append(('ocupacion', i))
+        for i in self.especialidad:
+            list.append(('especialidad', i))
+        for i in self.afiliaciones:
+            list.append(('afiliacion', i))
+        for i in self.residencia:
+            list.append(('residencia', i))
+        for i in self.aficiones:
+            list.append(('aficion', i))
+        for i in self.logros:
+            list.append(('logro', i))
+        
         for i in self.amigos:
             list.append(('amigo', i))
+        for i in self.enemigos:
+            list.append(('enemigo', i))
+        for i in self.familia:
+            list.append(('familia', i))
+        for i in self.pareja:
+            list.append(('pareja', i))
+        for i in self.mascotas:
+            list.append(('mascota', i))
+        for i in self.lider:
+            list.append(('lider', i))
+        for i in self.guiaespiritual:
+            list.append(('guiaEspiritual', i))
+        for i in self.discipulos:
+            list.append(('discipulo', i))
+        
+        for i in self.cancion:
+            list.append(('cancion', i))
+        for i in self.album:
+            list.append(('album', i))
+        for i in self.top:
+            list.append(('top', i))
+        
+        for i in self.voces:
+            list.append(('voz', i))
+        
+        for i in self.primera_aparicion:
+            list.append(('primera_aparicion', i))
+        for i in self.ultima_aparicion:
+            list.append(('ultima_aparicion', i))
+        for i in self.primera_vacaciones:
+            list.append(('primera_vacaciones', i))
+        for i in self.ultima_vacaciones:
+            list.append(('ultima_vacaciones', i))
         return iter(list)
     
     def to_graph(self, graph):
         nodename = to_camel_case(self.nombre)
         print("to_graph: {}".format(nodename))
         for k,v in self:
-            #if(v)
+            if(is_link(v)):
+                o = URIRef(to_camel_case(get_link(v)))
+                print("\tFound a link: {}".format(o))
+            else:
+                o = Literal(v, datatype=XSD.string)
             
             
             graph.add((URIRef(nodename),
                        URIRef(k),
-                       Literal(v, datatype=XSD.string)))
+                       o))
         
 def get_arg(template, arg):
     if template.has_arg(arg):
         value = template.get_arg(arg).value.replace("<nowiki>","").replace("</nowiki>","").strip()
-        value = re.split('<br/>|<br>', value)
+        value = re.split('<br/>|<br>|\n', value)
         if value != "": return value
     return []
 
@@ -87,7 +155,7 @@ def serialize_pj(nombre, template):
     pj.voces = get_arg(template, 'voces')
     # Apariciones
     pj.primera_aparicion = get_arg(template, 'primera_aparición')
-    pj.ultima_aparición = get_arg(template, 'última_aparición')
+    pj.ultima_aparicion = get_arg(template, 'última_aparición')
     pj.primera_vacaciones = get_arg(template, 'primera_vacaciones')
     pj.ultima_vacaciones = get_arg(template, 'última_vacaciones')
                 
@@ -115,4 +183,5 @@ def create_pj_graph():
 
     g.serialize(destination='graph.ttl', format='turtle')
 
-
+if __name__ == '__main__':
+    create_pj_graph()
