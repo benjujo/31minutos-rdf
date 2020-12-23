@@ -1,0 +1,558 @@
+to_graph: RigobertaManchula
+	Found a link: AlejandraDueñas
+	Found a link: Episodio11:LaGotera
+	Found a link: Episodio11:LaGotera
+to_graph: SolDelSolar
+	Found a link: AlejandraDueñas
+	Found a link: Episodio4:BenjamínListillo
+	Found a link: Episodio11:LaGotera
+	Found a link: Episodio4:JaguarSuperestrella
+to_graph: MamáDeGuaripolo
+to_graph: OsoMirón
+to_graph: CáparaSonia
+	Found a link: MundoInterior
+	Found a link: Arwrarwrirwrarwro(álbum)
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: BongoStingo
+	Found a link: JacksonAceituno
+	Found a link: FranciscoSchultz
+	Found a link: Episodio31:ElSecretoDePolicarpo
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: Sra.Ardilla
+	Found a link: Episodio4:BenjamínListillo
+	Found a link: Episodio4:BenjamínListillo
+to_graph: Lápiz
+	Found a link: RodrigoSalinas
+	Found a link: Episodio9:DíaLibre
+to_graph: FlecoGraseli
+	Found a link: Mr.Drilo’s
+	Found a link: Episodio46:Mr.Drilo’s
+to_graph: ElFabulosoScanavini
+	Found a link: Episodio47:ElFantasmaDelEstudio
+to_graph: DemetrioLargo
+	Found a link: JuanCarlosBodoque
+	Found a link: AlbertinaYAntonín
+	Found a link: RodrigoSalinas
+	Found a link: DanielCastro
+	Found a link: Episodio1:ElComienzo
+	Found a link: Episodio39:LaAmenazaSiluria(terceraParte)
+to_graph: MachiFresia
+	Found a link: AlejandraDueñas
+	Found a link: Episodio11:LaGotera
+	Found a link: Episodio12:Patana
+to_graph: HéctorVelozo
+to_graph: JeJin
+	Found a link: FranciscoSchultz
+	Found a link: DanielCastro
+	Found a link: Episodio16:Enfermosis
+	Found a link: Episodio49:InvasiónTramoya
+to_graph: PirataPataDePalo
+	Found a link: CalcetínConRamonesMan
+	Found a link: RodrigoSalinas
+	Found a link: Episodio6:ElExperimento
+	Found a link: Episodio18:ElFinDelMundo
+to_graph: Dios
+	Found a link: TulioTriviño
+	Found a link: JuanCarlosBodoque
+	Found a link: JuanínJuanHarry
+	Found a link: PolicarpoAvendaño
+	Found a link: MarioHugo
+	Found a link: PatanaTufillo
+	Found a link: CalcetínConRombosMan
+	Found a link: PatricioDíaz
+	Found a link: Episodio39:LaAmenazaSiluria(terceraParte)
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: PerfectinaGómez
+	Found a link: CalcetínConRombosMan
+	Found a link: Episodio2:ElÁrbolFurioso
+	Found a link: EspecialDeNavidad
+to_graph: FernandoSolís
+to_graph: RotuloFomínguez
+	Found a link: Episodio31:ElSecreto
+to_graph: Hielito(personaje)
+	Found a link: CanciónDeHielito
+	Found a link: AlejandraDueñas
+	Found a link: Episodio36:Hielito
+to_graph: FlorBovina
+	Found a link: MiMuñecaMeHabló
+	Found a link: 31Minutos
+	Found a link: YoNuncaViTelevisión(álbum)
+	Found a link: Episodio7:ElSr.Amable
+	Found a link: Episodio16:Enfermosis
+	Found a link: AlejandraDueñas
+	Found a link: Episodio7:ElSr.Amable
+	Found a link: Episodio21:PolicarpoTopTopTopAwards
+to_graph: AbuelaLala
+	Found a link: Cebollón
+to_graph: RetreteNavarrete
+	Found a link: LaReglaPrimordial
+	Found a link: Ratoncitos(álbum)
+	Found a link: Episodio46:Mr.Drilo’s
+	Found a link: ÁlvaroDíaz
+	Found a link: Episodio46:Mr.Drilo’s
+	Found a link: Episodio65:Oestelandia
+to_graph: Gotita
+	Found a link: JuanCarlosBodoque
+	Found a link: Episodio1:ElComienzo
+	Found a link: Episodio1:ElComienzo
+to_graph: Segurito
+to_graph: EstrellaDeLana
+	Found a link: AlejandraDueñas
+	Found a link: 31Minutos,LaPelícula
+to_graph: CuchoLambretta
+	Found a link: Ríe
+	Found a link: Ratoncitos(álbum)
+	Found a link: GiraMundial(álbum)
+	Found a link: Episodio42:PorElSr.Manguera
+	Found a link: Episodio45:Estiércol
+	Found a link: PatricioDíaz
+	Found a link: Episodio42:PorElSr.Manguera
+	Found a link: Episodio56:XxxivFestivalDeLaCanciónDeTitirilquén
+to_graph: TenientePuñete
+	Found a link: Bombi
+	Found a link: FelipeGodoy
+	Found a link: Episodio63:JackPatata
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: PatricioDíaz
+	Found a link: ÁlvaroDíaz
+to_graph: MorticiaFelicindaTriviño
+	Found a link: Titirilquén
+	Found a link: PatanaTufillo
+	Found a link: TulioTriviñoTufillo
+	Found a link: VespertinaTufillo
+	Found a link: AlejandraDueñas
+	Found a link: Episodio12:Patana
+to_graph: ViejosPascuerosAcalorados
+	Found a link: PabloIlabaca
+	Found a link: PedroPeirano
+	Found a link: RodrigoSalinas
+	Found a link: EspecialDeNavidad
+	Found a link: CalurosaNavidad(show)
+to_graph: Carmencita
+	Found a link: Guácala
+	Found a link: Ratoncitos(álbum)
+	Found a link: Episodio43:LaMáquinaDelTiempo
+	Found a link: Episodio48:LaMamá
+	Found a link: AlejandraDueñas
+	Found a link: Episodio43:LaMáquinaDelTiempo
+	Found a link: Episodio56:XxxivFestivalDeLaCanciónDeTitirilquén
+to_graph: TepoTepo
+	Found a link: MarioHugo
+to_graph: Lala(personaje)
+	Found a link: Lolo
+	Found a link: Lala
+	Found a link: PedroPeirano
+	Found a link: Episodio1:ElComienzo
+	Found a link: Episodio7:ElSr.Amable
+to_graph: GaryGonzález
+	Found a link: MiCastilloDeBlancaArenaConVistaAlMar
+	Found a link: Ratoncitos(álbum)
+	Found a link: Episodio44:LaLigaDelMal
+	Found a link: Episodio47:ElFantasmaDelEstudio
+to_graph: MonstruoChupachupa
+	Found a link: ÁlvaroDíaz
+	Found a link: Episodio5:MonstruoChupachupa
+to_graph: WildoWaldo
+	Found a link: Episodio35:Mugre
+	Found a link: 31Minutos,LaPelícula
+to_graph: ZorroBuenaOnda
+	Found a link: JuanCarlosBodoque
+	Found a link: AmapolaPolar
+	Found a link: Episodio22:Vacaciones
+	Found a link: Episodio63:JackPatata
+to_graph: Martes
+	Found a link: JuanCarlosBodoque
+	Found a link: FranciscoSchultz
+	Found a link: Episodio31:ElSecreto
+to_graph: LonganizoPrieto
+	Found a link: DanielCastro
+	Found a link: Episodio11:LaGotera
+	Found a link: Episodio11:LaGotera
+to_graph: Felipe
+	Found a link: RaúlGuantecillo
+	Found a link: Episodio4:BenjamínListillo
+	Found a link: Episodio7:ElSeñorAmable
+to_graph: JackPatata
+	Found a link: PatricioDíaz
+	Found a link: Episodio63:JackPatata
+to_graph: Sr.Yokoshima
+	Found a link: PatricioDíaz
+	Found a link: Episodio25:Japonés
+	Found a link: Episodio25:Japonés
+to_graph: Sr.InvisibleMudo
+	Found a link: Episodio1:ElComienzo
+	Found a link: Episodio67:ElDiarioDeJuanín
+to_graph: RolandoGoloso
+	Found a link: Episodio15:NoTeVayas,Juanín
+to_graph: CáptusElCáctus
+	Found a link: Episodio15:NoTeVayas,Juanín
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: CarlaRubio
+	Found a link: TulioTriviñoTufillo
+	Found a link: TulioTriviñoTufillo
+	Found a link: AlejandraDueñas
+	Found a link: Episodio1:ElComienzo
+	Found a link: Episodio61:ElMeteorito
+to_graph: Otis
+	Found a link: CalcetínConRombosMan
+	Found a link: CalcetínConRamonesMan
+	Found a link: Rucia
+	Found a link: PatricioDíaz
+	Found a link: Episodio35:Mugre
+to_graph: Cebolla'sMeEncanta
+	Found a link: Cebollón
+	Found a link: 31Minutos(noticiero)
+	Found a link: Episodio29:Cebollas
+to_graph: DonChumingo
+	Found a link: JuanCarlosBodoque
+	Found a link: PedroPeirano
+	Found a link: Episodio1:ElComienzo
+	Found a link: Episodio19:LoMejorDe31Minutos(primeraParte)
+to_graph: MamáDeTulio
+	Found a link: TulioTriviñoTufillo
+	Found a link: PedroPeirano
+	Found a link: Episodio2:ElÁrbolFurioso
+	Found a link: Episodio48:LaMamá
+	Found a link: Episodio62:BebéMonstruo
+	Found a link: Episodio67:ElDiarioDeJuanín
+to_graph: ChamánPelmazo
+	Found a link: JuanCarlosBodoque
+	Found a link: JuanCarlosBodoque
+	Found a link: ÁlvaroDíaz
+	Found a link: Episodio15:NoTeVayas,Juanín
+	Found a link: Episodio28:BodoqueDeprimido
+to_graph: TormentaChina
+	Found a link: JuanCarlosBodoque
+	Found a link: TormentaChina(canción)
+	Found a link: Arwrarwrirwrarwro(álbum)
+	Found a link: Episodio18:ElFinDelMundo
+	Found a link: Episodio57:LaMonaLisa
+	Found a link: Episodio64:BodoqueEnvenenado
+to_graph: NancyCachete
+	Found a link: MaximilianoOrtiz
+	Found a link: RogelioPatraña
+	Found a link: CelestinaReyes
+	Found a link: LautaroCabrera
+	Found a link: PolicarpoAvendaño
+	Found a link: MaximilianoOrtiz
+	Found a link: RogelioPatraña
+	Found a link: CelestinaReyes
+	Found a link: LautaroCabrera
+	Found a link: PedroPeirano
+	Found a link: Episodio1:ElComienzo
+	Found a link: Episodio5:ElMonstruoChupaChupa
+to_graph: MichaelAstudilloJr.
+	Found a link: NuncaMeHeSacadoUnSiete
+	Found a link: 31CancionesDeAmorYUnaCanciónDeGuaripolo
+	Found a link: Episodio32:ElDespido
+	Found a link: Episodio37:LaAmenazaSiluria(primeraParte)
+	Found a link: PedroPeirano
+	Found a link: Episodio32:ElDespido
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: HermanosWalaWala
+	Found a link: PedroPeirano
+	Found a link: Episodio13:Risotrón
+to_graph: Relox
+to_graph: ArmandoDelgadillo
+	Found a link: DomingoPerezoso
+	Found a link: JulianTuc
+	Found a link: PizoteSisters
+	Found a link: MonoAraña
+	Found a link: RodolfaGarcés
+	Found a link: AncianaIguana
+	Found a link: JaimeJaguar
+	Found a link: Demóstenes
+	Found a link: JuanCarlosBodoque
+	Found a link: HéctorVelozo
+	Found a link: Episodio1:ElParque
+to_graph: ExequielTapia
+	Found a link: Papá,TeQuiero
+	Found a link: PatricioDíaz
+	Found a link: Episodio17:LaCoanimadora
+to_graph: AlbertinaYAntonín
+	Found a link: NoeliaBodoque
+	Found a link: JuanCarlosBodoque
+	Found a link: DanielCastro
+	Found a link: Episodio9:DíaLibre
+	Found a link: Episodio58:Cirugía
+to_graph: PatoWilly
+	Found a link: Ratoncitos(álbum)
+	Found a link: AlejandraDueñas
+	Found a link: Episodio45:Estiércol
+	Found a link: 31Minutos,LaPelícula
+to_graph: Duque
+	Found a link: Johnny(choapino)
+	Found a link: TepoTepo
+	Found a link: MarioHugo
+	Found a link: DoggyStyle
+	Found a link: PabloIlabaca
+to_graph: MarianitaRiofrío
+	Found a link: JuanCarlosBodoque
+	Found a link: PedroPeirano
+	Found a link: Episodio1:ElComienzo
+to_graph: MaximilianoOrtiz
+	Found a link: NancyCachete
+	Found a link: RogelioPatraña
+	Found a link: CelestinaReyes
+	Found a link: LautaroCabrera
+	Found a link: PolicarpoAvendaño
+	Found a link: NancyCachete
+	Found a link: CelestinaReyes
+	Found a link: ÁlvaroDíaz
+	Found a link: Episodio1:ElComienzo
+	Found a link: Episodio5:ElMonstruoChupaChupa
+to_graph: BifeChorizo
+	Found a link: PatricioDíaz
+to_graph: LocoEstero
+	Found a link: JuanCarlosBodoque
+	Found a link: TíoPelado
+	Found a link: FelipeGodoy
+	Found a link: Episodio59:PatanaEnamorada
+	Found a link: Episodio59:PatanaEnamorada
+to_graph: ScolapioSantana
+	Found a link: DanielCastro
+	Found a link: Episodio7:ElSeñorAmable
+	Found a link: Episodio7:ElSeñorAmable
+to_graph: CindyMiraflores
+	Found a link: Titiritalca
+	Found a link: PatanaTufillo
+	Found a link: MorticiaFelicindaTriviño
+	Found a link: TulioTriviñoTufillo
+	Found a link: AlejandraDueñas
+	Found a link: Episodio22:Vacaciones
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: Ramona
+	Found a link: JuanCarlosBodoque
+	Found a link: Alfred
+	Found a link: AlejandraDueñas
+	Found a link: Episodio60:HuachimingoSinHogar
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: PepeLota
+	Found a link: DonSergio
+	Found a link: Señora,DevuélvameLaPelotaOSiNoNoSéQueHaré
+	Found a link: 31Minutos(álbum)
+	Found a link: Episodio11:LaGotera
+	Found a link: Episodio13:Risotrón
+	Found a link: PabloIlabaca
+	Found a link: Episodio10:ElMaguito
+	Found a link: Episodio21:PolicarpoTopTopTopAwards
+to_graph: Marito
+	Found a link: JuanCarlosBodoque
+	Found a link: ÁlvaroDíaz
+	Found a link: Episodio1:ElComienzo
+	Found a link: Episodio4:BenjamínListillo
+	Found a link: Episodio19:LoMejorDe31Minutos(primeraParte)
+to_graph: Guaripolo
+	Found a link: RomeoYJulieta
+	Found a link: Sopapiglobo
+	Found a link: MarioHugo
+	Found a link: MamáDeGuaripolo
+	Found a link: PatanaTufillo
+	Found a link: Mala
+	Found a link: 31CancionesDeAmorYUnaCanciónDeGuaripolo
+	Found a link: PatricioDíaz
+	Found a link: EspecialDeLaTeletón
+	Found a link: Episodio22:Vacaciones
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: PabloIlabaca
+to_graph: Guante
+	Found a link: CalcetínConRombosMan
+	Found a link: RodrigoSalinas
+	Found a link: Episodio1:ElComienzo
+to_graph: AmapolaPolar
+	Found a link: JuanCarlosBodoque
+	Found a link: ZorroBuenaOnda
+	Found a link: AlejandraDueñas
+	Found a link: Episodio22:Vacaciones
+	Found a link: Episodio49:InvasiónTramoya
+to_graph: Bombi
+	Found a link: JuanínJuanHarry
+	Found a link: TulioTriviño
+	Found a link: PolicarpoAvendaño
+	Found a link: TenientePuñete
+	Found a link: Arwrarwrirwrarwro
+	Found a link: Arwrarwrirwrarwro(álbum)
+	Found a link: Episodio66:ElMayordomo
+	Found a link: DanielCastro
+	Found a link: Episodio66:ElMayordomo
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: RobinsonGuillermo
+	Found a link: Episodio30:UnRatoncitoDuroDeCazar
+to_graph: JamesJ.Mcnamara
+	Found a link: Episodio49:InvasiónTramoya
+	Found a link: Episodio50:ElVídeo
+to_graph: CarolaCargante
+	Found a link: Episodio18:ElFinDelMundo
+to_graph: IgorElDestructor
+	Found a link: FelipeGodoy
+	Found a link: Episodio67:ElDiarioDeJuanín
+to_graph: SeñorVaquero
+	Found a link: RodrigoSalinas
+	Found a link: PatricioDíaz
+	Found a link: Episodio3:GuerraEnElMarDespénsico
+	Found a link: Episodio65:Oestelandia
+to_graph: ÁlvaroDíaz
+	Found a link: PatricioDíaz
+to_graph: ElPequeñoTim
+	Found a link: PatanaTufillo
+	Found a link: TulioTriviño
+	Found a link: Episodio1:ElParque
+	Found a link: Episodio12:LaRanaQueNadieQuería
+to_graph: Alfred
+	Found a link: Ramona
+to_graph: DonSergio
+to_graph: Pompón
+	Found a link: CalcetínConRombosMan
+	Found a link: Rucia
+	Found a link: CalcetínConRamonesMan
+	Found a link: FranciscoSchultz
+	Found a link: Episodio24:TíoHoracio
+	Found a link: Episodio48:LaMamá
+to_graph: Johnny(choapino)
+	Found a link: MarioHugo
+	Found a link: PerroChico
+	Found a link: ÁlvaroDíaz
+	Found a link: PerroChico
+to_graph: ExterminadoresDeRatas
+	Found a link: PatricioDíaz
+	Found a link: Episodio30:UnRatoncitoDuroDeCazar
+to_graph: FranciscoSchultz
+to_graph: ProfetaIsaías
+	Found a link: FranciscoSchultz
+	Found a link: Episodio18:ElFinDelMundo
+to_graph: NoeliaBodoque
+	Found a link: ZorroBuenaOnda
+	Found a link: MitsyVodoque
+	Found a link: JuanCarlosBodoque
+	Found a link: AlbertinaYAntonín
+	Found a link: AlejandraDueñas
+	Found a link: Episodio58:Cirugía
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: ChicoTerry
+	Found a link: BalónVonBola
+	Found a link: RosarioCentral
+	Found a link: TénisonSalinas
+	Found a link: MicoElMicófono
+	Found a link: RodrigoSalinas
+	Found a link: Episodio13:Risotrón
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: Jenkins,ElMayordomo
+	Found a link: PatricioDíaz
+	Found a link: Episodio66:ElMayordomo
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: NicasioFallido
+	Found a link: Episodio38:LaAmenazaSiluria(segundaParte)
+to_graph: Sopapiglobo
+	Found a link: RomeoYJulieta
+	Found a link: Guaripolo
+	Found a link: Episodio32:ElDespido
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: BenjamínListillo
+	Found a link: ÁlvaroDíaz
+	Found a link: Episodio4:BenjamínListillo
+	Found a link: Episodio64:BodoqueEnvenenado
+to_graph: VladimiroVirutilla
+	Found a link: Episodio58:Cirugía
+to_graph: Lolo
+	Found a link: Lala(personaje)
+	Found a link: Lala
+	Found a link: 31Minutos(álbum)
+	Found a link: Episodio18:ElFinDelMundo
+	Found a link: Episodio1:ElComienzo
+	Found a link: PedroPeirano
+	Found a link: Episodio1:ElComienzo
+	Found a link: Episodio21:LosPolicarpoTopTopTopAwards
+to_graph: RenatoSensato
+	Found a link: RodrigoSalinas
+	Found a link: Episodio6:ElExperimento
+	Found a link: Episodio63:JackPatata
+to_graph: JuanPabloSopa
+	Found a link: ObjeciónDenegada
+	Found a link: 31CancionesDeAmorYUnaCanciónDeGuaripolo
+	Found a link: Episodio33:31MinutosEducativio
+	Found a link: Episodio30:UnRatoncitoDuroDeCazar
+	Found a link: RodrigoSalinas
+	Found a link: Episodio28:BodoqueDeprimido
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: HelgaSzwazzsenberg
+	Found a link: AlejandraDueñas
+	Found a link: Episodio57:LaMonaLisa
+	Found a link: Episodio63:JackPatata
+to_graph: JuanLicuado
+	Found a link: DanielCastro
+	Found a link: Episodio53:LaBruja(primeraParte)
+	Found a link: Episodio55:ElFuneralDeTulio
+to_graph: MiltonLudovico
+	Found a link: ParqueDeDiversiones
+	Found a link: Episodio49:InvasiónTramoya
+	Found a link: Episodio51:LaAlcancía
+	Found a link: Episodio54:LaBruja(segundaParte)
+	Found a link: PedroPeirano
+to_graph: CarlitosLechuga
+	Found a link: RodrigoSalinas
+	Found a link: Episodio1:ElComienzo
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: Mr.Drilo’s
+	Found a link: FlecoGraseli
+	Found a link: DylanManguera
+	Found a link: Episodio46:Mr.Drilo’s
+to_graph: Huachimingo
+	Found a link: RomeoYJulieta
+	Found a link: LaIslaDeHuachimingo
+	Found a link: MarioHugo
+	Found a link: JuanCarlosBodoque
+	Found a link: JuanínJuanHarry
+	Found a link: DanielCastro
+	Found a link: Episodio6:ElExperimento
+	Found a link: Episodio68:LaGranGalaDeTitirilquén
+to_graph: CalcetínConRamonesMan
+	Found a link: Rucia
+	Found a link: Otis
+	Found a link: Pompón
+	Found a link: CalcetínConRombosMan
+	Found a link: RodrigoSalinas
+	Found a link: Episodio6:ElExperimento
+to_graph: ProfesorDeMichaelAstudilloJr.
+	Found a link: NuncaMeHeSacadoUn7
+	Found a link: 31CancionesDeAmorYUnaCanciónDeGuaripolo
+	Found a link: DanielCastro
+to_graph: JacoboFotonolovski
+	Found a link: PedroPeirano
+	Found a link: Episodio1:ElComienzo
+	Found a link: Episodio19:LoMejorDe31Minutos(primeraParte)
+to_graph: GeneralLaton
+	Found a link: Salsacia
+	Found a link: Conservia
+	Found a link: PedroPeirano
+	Found a link: ÁlvaroDíaz
+	Found a link: PatricioDíaz
+	Found a link: Episodio4:BenjamínListillo
+	Found a link: Episodio23:Relox
+to_graph: VecinaDePepeLota
+	Found a link: PepeLota
+	Found a link: DonSergio
+	Found a link: Señora,DevuélvameLaPelotaOSiNoNoSéQueHaré
+	Found a link: AlejandraDueñas
+	Found a link: Episodio10:ElMaguito
+	Found a link: Episodio18:ElFinDelMundo
+to_graph: JohnQuijada
+	Found a link: DienteBlanco,NoTeVayas
+	Found a link: 31Minutos(álbum)
+	Found a link: RodrigoSalinas
+to_graph: Off
+	Found a link: CalcetínConRombosMan
+	Found a link: RodrigoSalinas
+	Found a link: Episodio1:ElComienzo
+	Found a link: Episodio67:ElDiarioDeJuanín
+to_graph: HermanosComputadoresDePaine
+	Found a link: RaúlGuantecillo
+	Found a link: RaúlGuantecillo
+	Found a link: Mr.Guantecillo
+	Found a link: Ratoncitos(álbum)
+	Found a link: Episodio50:ElVídeo
+	Found a link: Episodio52:BodoqueApostador
+	Found a link: RodrigoSalinas
+	Found a link: Episodio50:ElVídeo
+	Found a link: Episodio58:Cirugía
+to_graph: RodrigoSalinas
+to_graph: FelipeGodoy
