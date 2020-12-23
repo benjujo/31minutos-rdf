@@ -169,13 +169,13 @@ def create_pj_graph():
 
     ##borre las carpetas para no tener problemas
     fileList = os.listdir(ARTICLES_PATH)
-    for file in fileList:
-        with open(ARTICLES_PATH+file, "r") as file:
-            parsed = wtp.parse(file.read())
+    for filename in fileList:
+        with open(ARTICLES_PATH+filename, "r") as f:
+            parsed = wtp.parse(f.read())
             templates = parsed.templates
             for template in templates:
-                if(template.name == 'Fichapersonaje'):
-                    nombre = file.name.replace(".txt","").replace(ARTICLES_PATH,"")
+                if(template.name.strip() == 'Fichapersonaje'):
+                    nombre = f.name.replace(".txt","").replace(ARTICLES_PATH,"")
                     pj = serialize_pj(nombre, template)
                     pj.to_graph(g)
                 

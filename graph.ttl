@@ -1,28 +1,11 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<AbuelaLala> <aficion> "Cebollas"^^xsd:string ;
-    <amigo> <Cebollón> ;
-    <edad> "Anciana"^^xsd:string ;
-    <especie> "Humana (Titere)"^^xsd:string ;
-    <nombre_real> "Lala"^^xsd:string .
-
-<ArmandoDelgadillo> <amigo> <AncianaIguana>,
-        <Demóstenes>,
-        <DomingoPerezoso>,
-        <JaimeJaguar>,
-        <JulianTuc>,
-        <MonoAraña>,
-        <PizoteSisters>,
-        <RodolfaGarcés> ;
-    <apodo> "El armadillo"^^xsd:string ;
-    <especialidad> "La responsabilidad"^^xsd:string,
-        "Liderar"^^xsd:string ;
-    <especie> "Armadillo"^^xsd:string ;
-    <familia> <JuanCarlosBodoque> ;
-    <primera_vacaciones> <Episodio1:ElParque> ;
-    <residencia> "Parque Selva Jungla"^^xsd:string ;
-    <ultima_vacaciones> "Episodio 12: La rana que nadie quería"^^xsd:string ;
-    <voz> <HéctorVelozo> .
+<BelisarioCarmona> <amigo> <MarioHugo>,
+        <TulioTriviñoTufillo> ;
+    <especialidad> "Crecimiento de los árboles"^^xsd:string ;
+    <primera_aparicion> "\"[[Episodio 2: El Árbol Furioso|El Árbol Furioso]]\""^^xsd:string ;
+    <ultima_aparicion> "\"[[Episodio 17: La Coanimadora|La Coanimadora]]\""^^xsd:string ;
+    <voz> <PedroPeirano> .
 
 <BenjamínListillo> <edad> "Adulto"^^xsd:string ;
     <especie> "Tramoya"^^xsd:string ;
@@ -50,18 +33,14 @@
     <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
     <voz> <FranciscoSchultz> .
 
-<CarlaRubio> <amigo> <TulioTriviñoTufillo> ;
-    <edad> "Adulta"^^xsd:string ;
-    <enemigo> <TulioTriviñoTufillo> ;
-    <especialidad> "Ser fome/aburrida"^^xsd:string ;
-    <especie> "Muñeca"^^xsd:string ;
-    <familia> ""^^xsd:string ;
-    <nacimiento> ""^^xsd:string ;
-    <nacionalidad> "Chilena"^^xsd:string ;
-    <primera_aparicion> <Episodio1:ElComienzo> ;
-    <ultima_aparicion> <Episodio61:ElMeteorito> ;
-    <voz> <AlejandraDueñas>,
-        "Karla Estrada (T1 al T3)"^^xsd:string .
+<CLurio> <amigo> ""^^xsd:string ;
+    <cancion> <RitmoSideral> ;
+    <edad> ""^^xsd:string ;
+    <especialidad> "Música"^^xsd:string ;
+    <especie> <Silurios> ;
+    <primera_aparicion> <RitmoSideral> ;
+    <ultima_aparicion> <YoNuncaViTelevisión(show)> ;
+    <voz> <PatricioDíaz> .
 
 <CarlitosLechuga> <aficion> "Globos"^^xsd:string ;
     <edad> "Niño pequeño"^^xsd:string ;
@@ -95,60 +74,46 @@
     <nombre_real> "Carola Cargante"^^xsd:string ;
     <primera_aparicion> <Episodio18:ElFinDelMundo> .
 
-<Cebolla'sMeEncanta> <afiliacion> <31Minutos(noticiero)>,
-        <Cebollón>,
-        "Abuela Lala"^^xsd:string ;
-    <especialidad> "Productos a base de cebolla"^^xsd:string ;
-    <primera_aparicion> <Episodio29:Cebollas> .
+<CasinoBrothers> <afiliacion> <31Minutos(noticiero)> ;
+    <apodo> "Los Casino Brothers"^^xsd:string ;
+    <especialidad> "Improvisar"^^xsd:string,
+        "Molestar"^^xsd:string ;
+    <integrante> "Flauta"^^xsd:string,
+        "Langosta"^^xsd:string ;
+    <primera_aparicion> <Episodio10:Maguito> ;
+    <voz> <PatricioDíaz>,
+        <RodrigoSalinas> .
 
-<ChamánPelmazo> <amigo> <JuanCarlosBodoque> ;
-    <apodo> "Chamán"^^xsd:string,
-        "Chamán Pelmazo"^^xsd:string ;
-    <discipulo> <JuanCarlosBodoque> ;
-    <edad> "Adulto"^^xsd:string ;
-    <especialidad> "Ayudar con dudas existenciales"^^xsd:string ;
-    <especie> "Humano (Títere)"^^xsd:string ;
-    <nacionalidad> "Chilena"^^xsd:string ;
-    <nombre_real> "Pelmazo"^^xsd:string ;
-    <primera_aparicion> <Episodio15:NoTeVayas,Juanín> ;
-    <residencia> "Desierto de Atacama"^^xsd:string ;
-    <ultima_aparicion> <Episodio28:BodoqueDeprimido> ;
-    <voz> <ÁlvaroDíaz> .
+<Chascoberto> <album> <31Minutos(álbum)> ;
+    <cancion> <MeCortaronMalElPelo> ;
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <top> <Episodio2:ElÁrbolFurioso>,
+        <Episodio4:BenjamínListillo> ;
+    <ultima_aparicion> <Episodio60:HuachimingoSinHogar> .
 
-<ChicoTerry> <aficion> "Fútbol"^^xsd:string,
-        "Música"^^xsd:string,
-        "Ser astronauta"^^xsd:string ;
-    <amigo> <BalónVonBola>,
-        <MicoElMicófono>,
-        <RosarioCentral>,
-        <TénisonSalinas> ;
-    <apodo> "Chico Terry"^^xsd:string,
-        "La pequeña promesa del fútbol"^^xsd:string,
-        "Tom Sawyer (Rol actoral)"^^xsd:string,
-        "[https://es.wikipedia.org/wiki/Carlos_Caszely Caszely]"^^xsd:string,
-        "[https://es.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin Chopin]"^^xsd:string ;
-    <edad> "Niño"^^xsd:string ;
-    <especialidad> "Jugar al fútbol"^^xsd:string,
-        "Tocar el piano"^^xsd:string ;
-    <especie> "Muñeco"^^xsd:string ;
+<CiriloPila> <amigo> <Huachimingo>,
+        <JuanCarlosBodoque> ;
+    <apodo> "Profe"^^xsd:string ;
+    <especialidad> "Todos los campos científicos"^^xsd:string ;
+    <especie> "Tortuga"^^xsd:string ;
+    <familia> <JuanOsvaldo> ;
     <nacionalidad> "Chilena"^^xsd:string ;
-    <primera_aparicion> <Episodio13:Risotrón> ;
-    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
-    <voz> <RodrigoSalinas> .
+    <primera_aparicion> <Episodio33:31MinutosEducativio> ;
+    <primera_vacaciones> <Episodio1:ElParque> ;
+    <ultima_aparicion> <Episodio60:HuachimingoSinHogar> ;
+    <ultima_vacaciones> "Episodio 12: La rana que nadie quería"^^xsd:string ;
+    <voz> <HéctorVelozo>,
+        <PatricioDíaz> .
 
-<CindyMiraflores> <aficion> "Educación"^^xsd:string,
-        "Libros"^^xsd:string ;
-    <especie> "Ardilla"^^xsd:string ;
-    <familia> <MorticiaFelicindaTriviño>,
-        <PatanaTufillo>,
-        "Sr. Miraflores (Padre)"^^xsd:string ;
-    <nacimiento> <Titiritalca> ;
+<CossimoGianni> <amigo> ""^^xsd:string ;
+    <edad> "Anciano (Aparenta ser más joven)"^^xsd:string ;
+    <enemigo> ""^^xsd:string ;
+    <especialidad> "La moda"^^xsd:string ;
+    <especie> "Títere"^^xsd:string ;
+    <nacimiento> ""^^xsd:string ;
     <nacionalidad> "Chilena"^^xsd:string ;
-    <nombre_real> ""^^xsd:string ;
-    <pareja> <TulioTriviñoTufillo> ;
-    <primera_aparicion> <Episodio22:Vacaciones> ;
-    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
-    <voz> <AlejandraDueñas> .
+    <primera_aparicion> <Episodio8:ElAsesorDeImagen> ;
+    <ultima_aparicion> ""^^xsd:string .
 
 <CuchoLambretta> <album> <GiraMundial(álbum)>,
         <Ratoncitos(álbum)> ;
@@ -166,6 +131,16 @@
     <ultima_aparicion> <Episodio56:XxxivFestivalDeLaCanciónDeTitirilquén> ;
     <voz> <PatricioDíaz> .
 
+<Cucky> <aficion> "Lo interesante"^^xsd:string ;
+    <album> <31CancionesDeAmorYUnaCanciónDeGuaripolo> ;
+    <apodo> "Señora interesante"^^xsd:string ;
+    <cancion> <Sra.Interesante> ;
+    <primera_aparicion> <Episodio25:Japonés> ;
+    <top> <Episodio27:LuloSerrucho>,
+        <Episodio31:ElSecreto> ;
+    <ultima_aparicion> <Episodio67:ElDiarioDeJuanín> ;
+    <voz> <AlejandraDueñas> .
+
 <CáparaSonia> <album> <Arwrarwrirwrarwro(álbum)> ;
     <cancion> <MundoInterior> ;
     <especialidad> "Ser lento y cantar"^^xsd:string ;
@@ -179,6 +154,23 @@
     <primera_aparicion> <Episodio15:NoTeVayas,Juanín> ;
     <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> .
 
+<César> <amigo> <LLUEHHHB> ;
+    <cancion> <BailanSinCésar> ;
+    <especialidad> "Cantar, bailar mal"^^xsd:string ;
+    <especie> "Pingüino"^^xsd:string .
+
+<DanteTorobolino> <apodo> "Mago"^^xsd:string,
+        "Maguito"^^xsd:string,
+        "Proyectil con patas"^^xsd:string ;
+    <cancion> <MaguitoExplosivo> ;
+    <edad> "Adulto"^^xsd:string ;
+    <especialidad> "Explotar"^^xsd:string ;
+    <especie> "Monstruo (títere)"^^xsd:string ;
+    <nombre_real> "Dante Torobolino"^^xsd:string ;
+    <primera_aparicion> <Episodio10:Maguito> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <FranciscoSchultz> .
+
 <DemetrioLargo> <amigo> <AlbertinaYAntonín>,
         <JuanCarlosBodoque> ;
     <especie> "Cerdo (Títere de mano)"^^xsd:string ;
@@ -187,6 +179,12 @@
     <ultima_aparicion> <Episodio39:LaAmenazaSiluria(terceraParte)> ;
     <voz> <DanielCastro>,
         <RodrigoSalinas> .
+
+<DenisDanis> <especialidad> "Pintar rápido (y horrible)"^^xsd:string ;
+    <nombre_real> ""^^xsd:string ;
+    <primera_aparicion> <Episodio14:Ahorrando> ;
+    <ultima_aparicion> <Episodio60:HuachimingoSinHogar> ;
+    <voz> <PatricioDíaz> .
 
 <Dios> <amigo> <CalcetínConRombosMan>,
         <JuanCarlosBodoque>,
@@ -207,6 +205,14 @@
     <primera_aparicion> <Episodio39:LaAmenazaSiluria(terceraParte)> ;
     <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
     <voz> <PatricioDíaz> .
+
+<DivinoAnticristo> <edad> "60-70 años (Probablemente)"^^xsd:string ;
+    <especialidad> "Vagabundear"^^xsd:string ;
+    <especie> "Humano (Títere)"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <primera_aparicion> <Episodio57:LaMonaLisa> ;
+    <ultima_aparicion> <Episodio64:BodoqueEnvenenado> ;
+    <voz> <HéctorVelozo> .
 
 <DonChumingo> <amigo> <JuanCarlosBodoque>,
         " [[Mico el Micófono]]"^^xsd:string ;
@@ -231,20 +237,31 @@
 <ElFabulosoScanavini> <edad> "Fallecido"^^xsd:string ;
     <primera_aparicion> <Episodio47:ElFantasmaDelEstudio> .
 
-<ElPequeñoTim> <amigo> <PatanaTufillo>,
-        <TulioTriviño> ;
-    <apodo> "Pequeño Tim"^^xsd:string ;
-    <edad> "Niño"^^xsd:string ;
-    <especie> "Títere"^^xsd:string ;
-    <nacionalidad> "Chilena"^^xsd:string ;
-    <nombre_real> "Tim"^^xsd:string ;
-    <primera_vacaciones> <Episodio1:ElParque> ;
-    <ultima_vacaciones> <Episodio12:LaRanaQueNadieQuería> ;
-    <voz> "Nicolás Toro"^^xsd:string .
+<ElGatoQueEmpuja> <album> <Arwrarwrirwrarwro(álbum)> ;
+    <amigo> <JuanCarlosBodoque> ;
+    <cancion> "''' El Gato que Empuja '''"^^xsd:string ;
+    <enemigo> <JuanínJuanHarry> ;
+    <especialidad> "Empujar gente"^^xsd:string ;
+    <especie> "Gato"^^xsd:string ;
+    <familia> <TulioTriviñoTufillo> ;
+    <nacimiento> ""^^xsd:string ;
+    <primera_aparicion> <Episodio67:ElDiarioDeJuanín> .
 
-<EstrellaDeLana> <especie> "Muñeca de lana"^^xsd:string ;
-    <primera_aparicion> <31Minutos,LaPelícula> ;
-    <voz> <AlejandraDueñas> .
+<ElMedioHombre> <especialidad> "Las cosas a medias"^^xsd:string .
+
+<EustaquioRenato> <aficion> "Estar aburrido y enojado"^^xsd:string ;
+    <album> <Arwrarwrirwrarwro(álbum)> ;
+    <cancion> <Amurrao> ;
+    <edad> "Bebé"^^xsd:string ;
+    <especialidad> "Golpear y hacer berrinche"^^xsd:string ;
+    <especie> "Oso"^^xsd:string ;
+    <familia> "Mamá de Eustaquio"^^xsd:string,
+        "Papá de Eustaquio"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <primera_aparicion> <Episodio63:JackPatata> ;
+    <top> <Episodio65:Oestelandia> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <PatricioDíaz> .
 
 <ExequielTapia> <afiliacion> "Club Weirdo"^^xsd:string ;
     <apodo> "Señor mimo"^^xsd:string ;
@@ -271,11 +288,6 @@
     <nombre_real> "Felipe"^^xsd:string ;
     <primera_aparicion> <Episodio4:BenjamínListillo> ;
     <ultima_aparicion> <Episodio7:ElSeñorAmable> .
-
-<FernandoSolís> <nacimiento> "27 de Febrero de 1966"^^xsd:string,
-        "Valdivia, Chile"^^xsd:string ;
-    <nacionalidad> "Chileno"^^xsd:string ;
-    <nombre_real> "Fernando Javier Solís Lara"^^xsd:string .
 
 <FlorBovina> <album> <31Minutos>,
         <YoNuncaViTelevisión(álbum)> ;
@@ -369,35 +381,9 @@
     <primera_aparicion> <Episodio36:Hielito> ;
     <voz> <AlejandraDueñas> .
 
-<Huachimingo> <aficion> "Coleccionar pelusas"^^xsd:string ;
-    <amigo> <JuanCarlosBodoque>,
-        <JuanínJuanHarry>,
-        <MarioHugo> ;
-    <apodo> <RomeoYJulieta>,
-        "Huachiminguito"^^xsd:string,
-        "Mentiroso"^^xsd:string,
-        "Predador natural de las pelusas"^^xsd:string ;
-    <edad> "Más de 1500 años"^^xsd:string ;
-    <especialidad> "Controlar plagas de pelusas"^^xsd:string,
-        "Inventar historias"^^xsd:string,
-        "Mentir"^^xsd:string ;
-    <especie> "Huachimingo"^^xsd:string ;
-    <nacimiento> <LaIslaDeHuachimingo> ;
-    <nacionalidad> "Huachidense-Chilena"^^xsd:string ;
-    <nombre_real> "H. H. Huachimingo"^^xsd:string ;
-    <primera_aparicion> <Episodio6:ElExperimento> ;
-    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
-    <voz> <DanielCastro> .
-
-<IgorElDestructor> <apodo> "El Destructor del aburrimiento"^^xsd:string,
-        "Igor, El Destructor"^^xsd:string ;
-    <edad> "Adulto"^^xsd:string ;
-    <especialidad> "Hacer diversión"^^xsd:string ;
-    <especie> "Bombilla de luz"^^xsd:string ;
-    <nacionalidad> "Chilena"^^xsd:string ;
-    <nombre_real> "Igor"^^xsd:string ;
-    <primera_aparicion> <Episodio67:ElDiarioDeJuanín> ;
-    <voz> <FelipeGodoy> .
+<HombreDePlumavit> <especialidad> "Robar plumavit"^^xsd:string ;
+    <especie> "Hombre de plumavit"^^xsd:string ;
+    <primera_aparicion> <Episodio16:Enfermosis> .
 
 <JackPatata> <especie> "Humano (Títere)"^^xsd:string ;
     <nacionalidad> "Chilena"^^xsd:string ;
@@ -468,22 +454,25 @@
     <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
     <voz> <RodrigoSalinas> .
 
-<LocoEstero> <aficion> "Investigación de especies marinas"^^xsd:string ;
-    <amigo> <JuanCarlosBodoque>,
-        "Estrella"^^xsd:string ;
-    <apodo> "Dr. Richardson"^^xsd:string,
-        "Loco Estero"^^xsd:string ;
-    <edad> "Adulto"^^xsd:string ;
-    <enemigo> <TíoPelado> ;
-    <especialidad> "Ecología"^^xsd:string ;
-    <especie> "[https://es.wikipedia.org/wiki/Concholepas_concholepas Loco (''Concholepas concholepas'')]"^^xsd:string ;
-    <nacimiento> ""^^xsd:string ;
+<LinoYLana> <aficion> "Cuidar el medioambiente"^^xsd:string,
+        "La música"^^xsd:string ;
+    <album> <Arwrarwrirwrarwro(álbum)> ;
+    <amigo> <JuanCarlosBodoque> ;
+    <apodo> "Hippies"^^xsd:string,
+        "Los cantantes de moda este verano"^^xsd:string ;
+    <cancion> <MiMamáMeLoTejeTodo> ;
+    <edad> "Niños"^^xsd:string ;
+    <especialidad> "Cantar"^^xsd:string ;
+    <especie> "Títeres tejidos"^^xsd:string ;
+    <familia> "Mamá de Lino y Lana"^^xsd:string ;
+    <integrante> ""^^xsd:string ;
     <nacionalidad> "Chilena"^^xsd:string ;
-    <nombre_real> "Desconocido"^^xsd:string ;
-    <primera_aparicion> <Episodio59:PatanaEnamorada> ;
-    <residencia> "Las Cruces (Valparaíso)"^^xsd:string ;
-    <ultima_aparicion> <Episodio59:PatanaEnamorada> ;
-    <voz> <FelipeGodoy> .
+    <primera_aparicion> <Episodio57:LaMonaLisa> ;
+    <residencia> "Archipiélago de Chiloé"^^xsd:string ;
+    <top> <Episodio57:LaMonaLisa> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <AlejandraDueñas>,
+        <ÁlvaroDíaz> .
 
 <LonganizoPrieto> <edad> "Adulta"^^xsd:string ;
     <especialidad> "Inventor"^^xsd:string ;
@@ -514,22 +503,6 @@
     <primera_aparicion> <Episodio11:LaGotera> ;
     <ultima_aparicion> <Episodio12:Patana> ;
     <voz> <AlejandraDueñas> .
-
-<MamáDeTulio> <apodo> "Mamá (Tulio)"^^xsd:string ;
-    <edad> "Anciana"^^xsd:string ;
-    <especie> "Simio chimpancé con ojos de botón y sin nariz"^^xsd:string ;
-    <familia> <TulioTriviñoTufillo> ;
-    <nacimiento> ""^^xsd:string ;
-    <nacionalidad> "Chilena"^^xsd:string ;
-    <nombre_real> "Vespertina Tufillo"^^xsd:string ;
-    <pareja> "Tulio Triviño I (en Libro gordo)"^^xsd:string ;
-    <primera_aparicion> <Episodio2:ElÁrbolFurioso>,
-        <Episodio48:LaMamá> ;
-    <residencia> "Casa a propiedad de Tulio"^^xsd:string ;
-    <ultima_aparicion> <Episodio62:BebéMonstruo>,
-        <Episodio67:ElDiarioDeJuanín>,
-        ""^^xsd:string ;
-    <voz> <PedroPeirano> .
 
 <MarianitaRiofrío> <amigo> <JuanCarlosBodoque> ;
     <especie> "Conejo"^^xsd:string ;
@@ -590,6 +563,19 @@
         <Episodio54:LaBruja(segundaParte)> ;
     <voz> <PedroPeirano> .
 
+<Minilolas(grupo)> <cancion> <Minilolas> ;
+    <integrante> "La Mojojojo"^^xsd:string,
+        "La Romi"^^xsd:string,
+        "La Tami"^^xsd:string ;
+    <voz> <AlejandraDueñas>,
+        <FranFeuerhake> .
+
+<MonstruoAzul> <amigo> <JuanCarlosBodoque> ;
+    <enemigo> <TulioTriviñoTufillo> ;
+    <especie> "Monstruo"^^xsd:string ;
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <ultima_aparicion> <Episodio9:DíaLibre> .
+
 <MonstruoChupachupa> <aficion> "Aspirar y destruir ciudades pequeñas"^^xsd:string ;
     <apodo> "El monstruo"^^xsd:string,
         "Monstruo Chupachupa"^^xsd:string ;
@@ -607,18 +593,15 @@
     <primera_aparicion> <Episodio38:LaAmenazaSiluria(segundaParte)> ;
     <ultima_aparicion> ""^^xsd:string .
 
-<Off> <amigo> <CalcetínConRombosMan> ;
-    <especialidad> "Derechos de los niños"^^xsd:string,
-        "Narrarar"^^xsd:string ;
-    <nacionalidad> "Chilena"^^xsd:string ;
-    <nombre_real> "Desconocido"^^xsd:string ;
-    <primera_aparicion> <Episodio1:ElComienzo> ;
-    <ultima_aparicion> <Episodio67:ElDiarioDeJuanín> ;
-    <voz> <RodrigoSalinas> .
-
 <OsoMirón> <especialidad> "Acosar a [[Mico el Micófono]]"^^xsd:string ;
     <especie> "Oso azul"^^xsd:string ;
     <voz> "N/A"^^xsd:string .
+
+<PatoTengoMiedo> <especialidad> "Tener miedo"^^xsd:string ;
+    <especie> "Pato"^^xsd:string ;
+    <primera_aparicion> <Episodio4:BenjamínListillo> ;
+    <ultima_aparicion> <Episodio66:ElMayordomo> ;
+    <voz> <PedroPeirano> .
 
 <PatoWilly> <aficion> "Competencia de autos ridículos"^^xsd:string,
         "Las serpentinas"^^xsd:string ;
@@ -635,6 +618,30 @@
     <primera_aparicion> <Episodio45:Estiércol> ;
     <ultima_aparicion> <31Minutos,LaPelícula> ;
     <voz> <AlejandraDueñas> .
+
+<PatrullaApumanque> <amigo> ""^^xsd:string ;
+    <integrante> <JuanCarlosBodoque>,
+        <TulioTriviño> ;
+    <primera_aparicion> ""^^xsd:string ;
+    <voz> ""^^xsd:string .
+
+<PercyMamani> <aficion> "Encontrar a su padrino"^^xsd:string ;
+    <album> <Arwrarwrirwrarwro(álbum)> ;
+    <apodo> "El huerfadrino"^^xsd:string ;
+    <cancion> <ElHuerfadrino> ;
+    <edad> "10 años"^^xsd:string ;
+    <especialidad> "Cantar"^^xsd:string ;
+    <especie> "Humano (Títere)"^^xsd:string ;
+    <familia> "Madre de Percy"^^xsd:string,
+        "Padrino de Percy"^^xsd:string,
+        "Señor Mamani (Padre)"^^xsd:string ;
+    <mascota> "Dos perros"^^xsd:string ;
+    <nacionalidad> "Chileno"^^xsd:string ;
+    <primera_aparicion> <Episodio57:LaMonaLisa> ;
+    <top> <Episodio60:HuachimingoSinHogar>,
+        <Episodio67:ElDiarioDeJuanín> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <PatricioDíaz> .
 
 <PerfectinaGómez> <amigo> <CalcetínConRombosMan> ;
     <edad> "Joven"^^xsd:string ;
@@ -653,6 +660,12 @@
     <ultima_aparicion> <Episodio18:ElFinDelMundo> ;
     <voz> <RodrigoSalinas> .
 
+<PresidenteOso> <aficion> "La música de [https://es.wikipedia.org/wiki/Sui_Generis_(banda) Sui Generis]"^^xsd:string,
+        "Tocar la guitarra"^^xsd:string ;
+    <especie> "Oso"^^xsd:string ;
+    <voz> <FranciscoSchultz>,
+        <RodrigoSalinas> .
+
 <ProfesorDeMichaelAstudilloJr.> <album> <31CancionesDeAmorYUnaCanciónDeGuaripolo> ;
     <cancion> <NuncaMeHeSacadoUn7> ;
     <edad> "Adulto"^^xsd:string ;
@@ -667,6 +680,22 @@
     <nombre_real> "Isaías"^^xsd:string ;
     <primera_aparicion> <Episodio18:ElFinDelMundo> ;
     <voz> <FranciscoSchultz> .
+
+<Ratoncitos(grupo)> <album> <Ratoncitos(álbum)> ;
+    <cancion> <GrandesMuertosDeLaMúsicaRevivenEnLosRatoncitos>,
+        <Ratoncitos> ;
+    <integrante> <JuanCarlosBodoque>,
+        <JuanínJuanHarry>,
+        <MarioHugo>,
+        <PolicarpoAvendaño>,
+        <TulioTriviño> ;
+    <primera_aparicion> <Episodio53:LaBruja(primeraParte)> ;
+    <top> <Episodio53:LaBruja(primeraParte)> ;
+    <ultima_aparicion> <Episodio65:Oestelandia> ;
+    <voz> <DanielCastro>,
+        <PedroPeirano>,
+        <RodrigoSalinas>,
+        <ÁlvaroDíaz> .
 
 <RenatoSensato> <edad> "Adulta"^^xsd:string ;
     <especialidad> "Ser clonado"^^xsd:string ;
@@ -774,13 +803,11 @@
     <primera_aparicion> <Episodio4:BenjamínListillo> ;
     <ultima_aparicion> <Episodio4:BenjamínListillo> .
 
-<TormentaChina> <album> <Arwrarwrirwrarwro(álbum)> ;
-    <amigo> <JuanCarlosBodoque> ;
-    <cancion> <TormentaChina(canción)> ;
-    <especie> "Caballo o Yegua"^^xsd:string ;
-    <primera_aparicion> <Episodio18:ElFinDelMundo>,
-        <Episodio57:LaMonaLisa> ;
-    <ultima_aparicion> <Episodio64:BodoqueEnvenenado> .
+<Tramoyas> <especialidad> "Variadas"^^xsd:string ;
+    <especie> "Tramoyas"^^xsd:string ;
+    <integrante> "Varios (10 identificados)"^^xsd:string ;
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> .
 
 <VecinaDePepeLota> <cancion> <Señora,DevuélvameLaPelotaOSiNoNoSéQueHaré> ;
     <edad> "Anciana"^^xsd:string ;
@@ -817,11 +844,473 @@
     <primera_aparicion> <Episodio35:Mugre> ;
     <ultima_aparicion> <31Minutos,LaPelícula> .
 
+<AbuelaLala> <aficion> "Cebollas"^^xsd:string ;
+    <amigo> <Cebollón> ;
+    <edad> "Anciana"^^xsd:string ;
+    <especie> "Humana (Titere)"^^xsd:string ;
+    <nombre_real> "Lala"^^xsd:string .
+
 <Alfred> <especie> "Títere"^^xsd:string ;
     <nacionalidad> "Chilena"^^xsd:string ;
     <pareja> <Ramona> ;
     <primera_aparicion> "La nube de humo: Capitulo 2"^^xsd:string ;
     <residencia> "Coyhaique"^^xsd:string .
+
+<Anatoli> <album> <Arwrarwrirwrarwro(álbum)> ;
+    <amigo> <Olga>,
+        <PatanaTufillo>,
+        <TulioTriviño> ;
+    <cancion> "Anatoli, el Incombustible (instrumental)"^^xsd:string ;
+    <edad> "Adulto"^^xsd:string ;
+    <especialidad> "Arriesgar su vida"^^xsd:string ;
+    <especie> "Muñeco"^^xsd:string ;
+    <logro> "Sobrevivir a varias pruebas extremas"^^xsd:string ;
+    <nacionalidad> "Rusa-Chilena"^^xsd:string ;
+    <primera_aparicion> <Episodio61:ElMeteorito> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <HéctorVelozo> .
+
+<ArmandoDelgadillo> <amigo> <AncianaIguana>,
+        <Demóstenes>,
+        <DomingoPerezoso>,
+        <JaimeJaguar>,
+        <JulianTuc>,
+        <MonoAraña>,
+        <PizoteSisters>,
+        <RodolfaGarcés> ;
+    <apodo> "El armadillo"^^xsd:string ;
+    <especialidad> "La responsabilidad"^^xsd:string,
+        "Liderar"^^xsd:string ;
+    <especie> "Armadillo"^^xsd:string ;
+    <familia> <JuanCarlosBodoque> ;
+    <primera_vacaciones> <Episodio1:ElParque> ;
+    <residencia> "Parque Selva Jungla"^^xsd:string ;
+    <ultima_vacaciones> "Episodio 12: La rana que nadie quería"^^xsd:string ;
+    <voz> <HéctorVelozo> .
+
+<Cebolla'sMeEncanta> <afiliacion> <31Minutos(noticiero)>,
+        <Cebollón>,
+        "Abuela Lala"^^xsd:string ;
+    <especialidad> "Productos a base de cebolla"^^xsd:string ;
+    <primera_aparicion> <Episodio29:Cebollas> .
+
+<ChamánPelmazo> <amigo> <JuanCarlosBodoque> ;
+    <apodo> "Chamán"^^xsd:string,
+        "Chamán Pelmazo"^^xsd:string ;
+    <discipulo> <JuanCarlosBodoque> ;
+    <edad> "Adulto"^^xsd:string ;
+    <especialidad> "Ayudar con dudas existenciales"^^xsd:string ;
+    <especie> "Humano (Títere)"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Pelmazo"^^xsd:string ;
+    <primera_aparicion> <Episodio15:NoTeVayas,Juanín> ;
+    <residencia> "Desierto de Atacama"^^xsd:string ;
+    <ultima_aparicion> <Episodio28:BodoqueDeprimido> ;
+    <voz> <ÁlvaroDíaz> .
+
+<ChicoTerry> <aficion> "Fútbol"^^xsd:string,
+        "Música"^^xsd:string,
+        "Ser astronauta"^^xsd:string ;
+    <amigo> <BalónVonBola>,
+        <MicoElMicófono>,
+        <RosarioCentral>,
+        <TénisonSalinas> ;
+    <apodo> "Chico Terry"^^xsd:string,
+        "La pequeña promesa del fútbol"^^xsd:string,
+        "Tom Sawyer (Rol actoral)"^^xsd:string,
+        "[https://es.wikipedia.org/wiki/Carlos_Caszely Caszely]"^^xsd:string,
+        "[https://es.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin Chopin]"^^xsd:string ;
+    <edad> "Niño"^^xsd:string ;
+    <especialidad> "Jugar al fútbol"^^xsd:string,
+        "Tocar el piano"^^xsd:string ;
+    <especie> "Muñeco"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <primera_aparicion> <Episodio13:Risotrón> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <RodrigoSalinas> .
+
+<CoágulaEspátulo> <album> <Arwrarwrirwrarwro(álbum)> ;
+    <especialidad> "Ver películas de terror"^^xsd:string ;
+    <especie> "Títere"^^xsd:string ;
+    <familia> "Abuela"^^xsd:string ;
+    <top> <Episodio58:Cirugía>,
+        <Episodio63:JackPatata> .
+
+<DinosaurioRoberto> <album> <31CancionesDeAmorYUnaCanciónDeGuaripolo> ;
+    <amigo> <JuanínJuanHarry>,
+        <PolicarpoAvendaño>,
+        <TíoHoracio>,
+        "Otros dinosaurios"^^xsd:string,
+        "Simón Chapatinski"^^xsd:string ;
+    <apodo> "Dinosaurio Anacleto"^^xsd:string ;
+    <cancion> <ElDinosaurioAnacleto> ;
+    <edad> "+65000000 años<ref>Extinción de los dinosaurios.</ref>"^^xsd:string ;
+    <especialidad> ""^^xsd:string ;
+    <especie> "Dinosaurio"^^xsd:string ;
+    <nombre_real> "Dinosaurio Roberto"^^xsd:string ;
+    <primera_aparicion> <Episodio22:Vacaciones>,
+        <Episodio9:DíaLibre> ;
+    <residencia> "Casa en el campo"^^xsd:string ;
+    <top> <Episodio26:¡quéLástima!>,
+        <Episodio34:MaguitoExplosivo> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <ÁlvaroDíaz> .
+
+<ElPequeñoTim> <amigo> <PatanaTufillo>,
+        <TulioTriviño> ;
+    <apodo> "Pequeño Tim"^^xsd:string ;
+    <edad> "Niño"^^xsd:string ;
+    <especie> "Títere"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Tim"^^xsd:string ;
+    <primera_vacaciones> <Episodio1:ElParque> ;
+    <ultima_vacaciones> <Episodio12:LaRanaQueNadieQuería> ;
+    <voz> "Nicolás Toro"^^xsd:string .
+
+<EstrellaDeLana> <especie> "Muñeca de lana"^^xsd:string ;
+    <primera_aparicion> <31Minutos,LaPelícula> ;
+    <voz> <AlejandraDueñas> .
+
+<EusebioManguera> <aficion> "Coleccionar ventiladores"^^xsd:string,
+        "Comprar las más irresponsables excentricidades"^^xsd:string,
+        "Despedir algunos empleados"^^xsd:string,
+        "Despilfarrar su dinero"^^xsd:string ;
+    <afiliacion> <31Minutos(noticiero)>,
+        "Una mafia"^^xsd:string ;
+    <amigo> <BalónVonBola>,
+        <ElPresidenteOso>,
+        <JuanCarlosBodoque>,
+        <JuanínJuanHarry>,
+        <MarioHugo>,
+        <PatanaTufillo>,
+        <PolicarpoAvendaño>,
+        <RaúlGuantecillo>,
+        <TulioTriviño> ;
+    <apodo> "Amo y Señor"^^xsd:string,
+        "Experto inútil (Ep. 65)"^^xsd:string,
+        "Jefe"^^xsd:string,
+        "Jefecito"^^xsd:string,
+        "Manguera"^^xsd:string,
+        "Señor Manguera"^^xsd:string,
+        "Viejo loco (Ep. 42)"^^xsd:string ;
+    <edad> "Adulto ligeramente más viejo"^^xsd:string ;
+    <especialidad> "Dueño del canal en que se transmite [[31 Minutos (Noticiero)|31 Minutos]]"^^xsd:string ;
+    <especie> "Manguera"^^xsd:string ;
+    <familia> <DylanManguera> ;
+    <mascota> "Pupi, un perro bull terrier"^^xsd:string,
+        "Un gato"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Eusebio Manguera"^^xsd:string ;
+    <primera_aparicion> <Episodio12:Patana> ;
+    <residencia> "Una mansión (Ep. 42)"^^xsd:string ;
+    <ultima_aparicion> <Episodio67:ElDiarioDeJuanín>,
+        <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <FernandoSolís> .
+
+<FernandoSolís> <nacimiento> "27 de Febrero de 1966"^^xsd:string,
+        "Valdivia, Chile"^^xsd:string ;
+    <nacionalidad> "Chileno"^^xsd:string ;
+    <nombre_real> "Fernando Javier Solís Lara"^^xsd:string .
+
+<FlecoGraseli> <afiliacion> <Mr.Drilo’s> ;
+    <especie> "Perro"^^xsd:string ;
+    <primera_aparicion> <Episodio46:Mr.Drilo’s> .
+
+<FreddyTurbina> <aficion> "Andar en bicicleta"^^xsd:string,
+        "Cantar"^^xsd:string ;
+    <album> <31Minutos(álbum)>,
+        <YoNuncaViTelevisión(álbum)> ;
+    <amigo> <JuanCarlosBodoque> ;
+    <apodo> "La estrella de Chañaral"^^xsd:string ;
+    <cancion> <MiEquilibrioEspiritual> ;
+    <edad> "Adulto joven"^^xsd:string ;
+    <especialidad> "Bicicletas"^^xsd:string,
+        "Música"^^xsd:string ;
+    <especie> "Humano (Títere)"^^xsd:string ;
+    <familia> <PolicarpoAvendaño> ;
+    <nacimiento> "Chañaral, Región de Atacama"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Freddy Turbina"^^xsd:string ;
+    <primera_aparicion> <Episodio13:Risotrón> ;
+    <top> <Episodio14:Ahorrando>,
+        <Episodio15:NoTeVayas,Juanín> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <DanielCastro>,
+        <PabloIlabaca> .
+
+<Huachimingo> <aficion> "Coleccionar pelusas"^^xsd:string ;
+    <amigo> <JuanCarlosBodoque>,
+        <JuanínJuanHarry>,
+        <MarioHugo> ;
+    <apodo> <RomeoYJulieta>,
+        "Huachiminguito"^^xsd:string,
+        "Mentiroso"^^xsd:string,
+        "Predador natural de las pelusas"^^xsd:string ;
+    <edad> "Más de 1500 años"^^xsd:string ;
+    <especialidad> "Controlar plagas de pelusas"^^xsd:string,
+        "Inventar historias"^^xsd:string,
+        "Mentir"^^xsd:string ;
+    <especie> "Huachimingo"^^xsd:string ;
+    <nacimiento> <LaIslaDeHuachimingo> ;
+    <nacionalidad> "Huachidense-Chilena"^^xsd:string ;
+    <nombre_real> "H. H. Huachimingo"^^xsd:string ;
+    <primera_aparicion> <Episodio6:ElExperimento> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <DanielCastro> .
+
+<IgorElDestructor> <apodo> "El Destructor del aburrimiento"^^xsd:string,
+        "Igor, El Destructor"^^xsd:string ;
+    <edad> "Adulto"^^xsd:string ;
+    <especialidad> "Hacer diversión"^^xsd:string ;
+    <especie> "Bombilla de luz"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Igor"^^xsd:string ;
+    <primera_aparicion> <Episodio67:ElDiarioDeJuanín> ;
+    <voz> <FelipeGodoy> .
+
+<JacksonAceituno> <especialidad> "Conflictos bélicos"^^xsd:string ;
+    <especie> "Oso (posible)"^^xsd:string ;
+    <nacimiento> ""^^xsd:string ;
+    <nacionalidad> "Española-Chilena"^^xsd:string ;
+    <nombre_real> ""^^xsd:string ;
+    <primera_aparicion> <Episodio3:GuerraEnElMarDespénsico> ;
+    <ultima_aparicion> <Episodio59:PatanaEnamorada> ;
+    <voz> <DanielCastro> .
+
+<Johnny(choapino)> <amigo> "Perros de [[Mario Hugo]]"^^xsd:string ;
+    <cancion> <PerroChico> ;
+    <especie> "Perro"^^xsd:string ;
+    <familia> <MarioHugo>,
+        "Dueño anterior"^^xsd:string ;
+    <primera_aparicion> <PerroChico> ;
+    <voz> <ÁlvaroDíaz> .
+
+<JuanTástico> <album> <31CancionesDeAmorYUnaCanciónDeGuaripolo> ;
+    <cancion> <RinRaja> ;
+    <edad> "Niño"^^xsd:string ;
+    <enemigo> "Vecina (mencionada)"^^xsd:string,
+        "Vecinos"^^xsd:string ;
+    <especialidad> "Tocar timbres"^^xsd:string ;
+    <especie> "Humana (titere)"^^xsd:string ;
+    <familia> "Madre"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <primera_aparicion> <Episodio22:Vacaciones> ;
+    <top> <Episodio23:Relox>,
+        <Episodio29:Cebollas> ;
+    <ultima_aparicion> <Episodio41:FiestaEnLaCasaDeJuanín> ;
+    <voz> ""^^xsd:string .
+
+<LLUEHHHB> <album> <31Minutos(álbum)> ;
+    <apodo> "Los Monos Locos"^^xsd:string ;
+    <cancion> <BailanSinCésar> ;
+    <especialidad> "Cantar y bailar"^^xsd:string ;
+    <especie> "Monos"^^xsd:string ;
+    <integrante> "4"^^xsd:string ;
+    <primera_aparicion> <Episodio6:ElExperimento> ;
+    <top> <Episodio10:ElMaguito>,
+        <Episodio8:ElAsesorDeImagen>,
+        <Episodio9:DíaLibre> ;
+    <ultima_aparicion> <Episodio67:ElDiarioDeJuanín> .
+
+<LaCorchetis> <album> <Arwrarwrirwrarwro(álbum)> ;
+    <apodo> "La Corchetis,"^^xsd:string ;
+    <cancion> <Primavera>,
+        <SonPololos> ;
+    <edad> "Niña"^^xsd:string ;
+    <especialidad> "Cantar"^^xsd:string ;
+    <especie> "Humana (Títere)"^^xsd:string ;
+    <familia> <PolicarpoAvendaño>,
+        "Abuela de Corchetis"^^xsd:string,
+        "Hermano de Corchetis"^^xsd:string,
+        "Mamá de Corchetis"^^xsd:string,
+        "Papá de Corchetis (mencionado)"^^xsd:string ;
+    <mascota> "Portazo, un gato"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <primera_aparicion> <Episodio59:PatanaEnamorada> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <AlejandraDueñas> .
+
+<Lala(personaje)> <aficion> "Empanadas"^^xsd:string ;
+    <amigo> <Lolo> ;
+    <cancion> <Lala> ;
+    <especie> "Títere de mano"^^xsd:string ;
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <ultima_aparicion> <Episodio7:ElSr.Amable> ;
+    <voz> <PedroPeirano> .
+
+<LocoEstero> <aficion> "Investigación de especies marinas"^^xsd:string ;
+    <amigo> <JuanCarlosBodoque>,
+        "Estrella"^^xsd:string ;
+    <apodo> "Dr. Richardson"^^xsd:string,
+        "Loco Estero"^^xsd:string ;
+    <edad> "Adulto"^^xsd:string ;
+    <enemigo> <TíoPelado> ;
+    <especialidad> "Ecología"^^xsd:string ;
+    <especie> "[https://es.wikipedia.org/wiki/Concholepas_concholepas Loco (''Concholepas concholepas'')]"^^xsd:string ;
+    <nacimiento> ""^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Desconocido"^^xsd:string ;
+    <primera_aparicion> <Episodio59:PatanaEnamorada> ;
+    <residencia> "Las Cruces (Valparaíso)"^^xsd:string ;
+    <ultima_aparicion> <Episodio59:PatanaEnamorada> ;
+    <voz> <FelipeGodoy> .
+
+<Lolo> <album> <31Minutos(álbum)> ;
+    <amigo> <Lala(personaje)> ;
+    <cancion> <Lala> ;
+    <edad> "43 años"^^xsd:string ;
+    <especialidad> "Decir solo ''Lala''"^^xsd:string ;
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <top> <Episodio18:ElFinDelMundo>,
+        <Episodio1:ElComienzo> ;
+    <ultima_aparicion> <Episodio21:LosPolicarpoTopTopTopAwards> ;
+    <voz> <PedroPeirano> .
+
+<MamáDePolicarpo> <aficion> "Cuidar a su hijo"^^xsd:string ;
+    <amigo> <MarioHugo> ;
+    <enemigo> <MamáDeMarioHugo> ;
+    <familia> <HermanosGuarennes>,
+        <PolicarpoAvendaño> ;
+    <nombre_real> "Nombre desconocido"^^xsd:string,
+        "Stuchelbangen (Apellido)"^^xsd:string ;
+    <primera_aparicion> <Episodio48:LaMamá> ;
+    <voz> <AlejandraDueñas> .
+
+<MamáDeTulio> <apodo> "Mamá (Tulio)"^^xsd:string ;
+    <edad> "Anciana"^^xsd:string ;
+    <especie> "Simio chimpancé con ojos de botón y sin nariz"^^xsd:string ;
+    <familia> <TulioTriviñoTufillo> ;
+    <nacimiento> ""^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Vespertina Tufillo"^^xsd:string ;
+    <pareja> "Tulio Triviño I (en Libro gordo)"^^xsd:string ;
+    <primera_aparicion> <Episodio2:ElÁrbolFurioso>,
+        <Episodio48:LaMamá> ;
+    <residencia> "Casa a propiedad de Tulio"^^xsd:string ;
+    <ultima_aparicion> <Episodio62:BebéMonstruo>,
+        <Episodio67:ElDiarioDeJuanín>,
+        ""^^xsd:string ;
+    <voz> <PedroPeirano> .
+
+<Off> <amigo> <CalcetínConRombosMan> ;
+    <especialidad> "Derechos de los niños"^^xsd:string,
+        "Narrarar"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Desconocido"^^xsd:string ;
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <ultima_aparicion> <Episodio67:ElDiarioDeJuanín> ;
+    <voz> <RodrigoSalinas> .
+
+<Olga> <amigo> <Anatoli> ;
+    <edad> "Adulta"^^xsd:string ;
+    <especialidad> "Ayudar"^^xsd:string,
+        "Escribir rápido"^^xsd:string ;
+    <especie> "Muñeca"^^xsd:string ;
+    <nacionalidad> "Rusa-chilena"^^xsd:string ;
+    <nombre_real> "Olga"^^xsd:string ;
+    <primera_aparicion> <Episodio61:ElMeteorito> ;
+    <ultima_aparicion> <Episodio64:BodoqueEnvenenado> ;
+    <voz> <AlejandraDueñas> .
+
+<PayasoClavito> <apodo> <Risotrón>,
+        "Alberto Roberto"^^xsd:string ;
+    <especialidad> "Imitar voces"^^xsd:string ;
+    <especie> "Títere"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <primera_aparicion> <Episodio13:Risotrón> ;
+    <voz> <AlejandraDueñas>,
+        <FranciscoSchultz> .
+
+<PepeLota> <album> <31Minutos(álbum)> ;
+    <amigo> <DonSergio> ;
+    <cancion> <Señora,DevuélvameLaPelotaOSiNoNoSéQueHaré> ;
+    <edad> "Niño"^^xsd:string ;
+    <enemigo> "Emerilda Pomposa ([[Vecina de Pepe Lota]])"^^xsd:string ;
+    <especialidad> "Lanzar la pelota a la casa de la vecina"^^xsd:string ;
+    <especie> "Humana"^^xsd:string ;
+    <familia> "Madre"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Pepe Lota"^^xsd:string ;
+    <primera_aparicion> <Episodio10:ElMaguito> ;
+    <top> <Episodio11:LaGotera>,
+        <Episodio13:Risotrón> ;
+    <ultima_aparicion> <Episodio21:PolicarpoTopTopTopAwards> ;
+    <voz> <PabloIlabaca> .
+
+<Risotrón> <enemigo> <TulioTriviño> ;
+    <especialidad> "Reproducir risas grabadas"^^xsd:string ;
+    <especie> "Máquina"^^xsd:string ;
+    <familia> <PayasoClavito> ;
+    <primera_aparicion> <Episodio13:Risotrón> ;
+    <voz> <AlejandraDueñas>,
+        "<s>[[Payaso Clavito]]</s>"^^xsd:string .
+
+<RosarioCentral> <aficion> "Tejer"^^xsd:string,
+        "Tocar el piano"^^xsd:string ;
+    <amigo> <ChicoTerry>,
+        <JuanCarlosBodoque> ;
+    <edad> "Adulta mayor"^^xsd:string ;
+    <especie> "Oveja"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> ""^^xsd:string ;
+    <primera_aparicion> <Episodio5:ElMonstruoChupaChupa> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <ÁlvaroDíaz> .
+
+<Sasquatch> <apodo> "El Monstruo Kaibutsu (en Japón)"^^xsd:string,
+        "El Monstruo del Bosque"^^xsd:string ;
+    <especialidad> ""^^xsd:string ;
+    <especie> "Monstruo"^^xsd:string ;
+    <logro> "Mejor lanzador de water en ''[[31 minutos de emoción]]''"^^xsd:string ;
+    <primera_aparicion> <Episodio25:Japonés> ;
+    <ultima_aparicion> <Episodio45:ElEstiércol> ;
+    <voz> "Rodrigo Salinas"^^xsd:string .
+
+<Silurios> <especie> "Silurios"^^xsd:string ;
+    <nacimiento> "Siluris"^^xsd:string ;
+    <nacionalidad> "Silurianos"^^xsd:string ;
+    <voz> <DanielCastro> .
+
+<Sopapiglobo> <aficion> "Empanadas venusianas"^^xsd:string ;
+    <amigo> <Guaripolo> ;
+    <apodo> <RomeoYJulieta>,
+        "Sopapiglobus (Ep. 65)"^^xsd:string ;
+    <especialidad> "Manejar naves espaciales"^^xsd:string,
+        "Tocar la guitarra"^^xsd:string ;
+    <especie> "Sopapo-globo"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Sopapiglobo"^^xsd:string ;
+    <primera_aparicion> <Episodio32:ElDespido> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> "N/A"^^xsd:string .
+
+<TenientePuñete> <aficion> "Encontrar a su hermano convertido en zombie"^^xsd:string ;
+    <afiliacion> "P.G.I. (Policía gorila de investigaciones)"^^xsd:string ;
+    <amigo> ""^^xsd:string ;
+    <edad> "Adulto"^^xsd:string ;
+    <especialidad> "Encontrar zombies"^^xsd:string,
+        "Guardaespaldas"^^xsd:string,
+        "Investigación criminal"^^xsd:string ;
+    <especie> "Gorila"^^xsd:string ;
+    <familia> <Bombi> ;
+    <logro> "Encontrar a su [[Bombi|hermano]]"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Puñete"^^xsd:string ;
+    <primera_aparicion> <Episodio63:JackPatata> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <FelipeGodoy> .
+
+<TepoTepo> <amigo> <MarioHugo> ;
+    <edad> "5"^^xsd:string ;
+    <especie> "Pinscher miniatura"^^xsd:string .
+
+<TormentaChina> <album> <Arwrarwrirwrarwro(álbum)> ;
+    <amigo> <JuanCarlosBodoque> ;
+    <cancion> <TormentaChina(canción)> ;
+    <especie> "Caballo o Yegua"^^xsd:string ;
+    <primera_aparicion> <Episodio18:ElFinDelMundo>,
+        <Episodio57:LaMonaLisa> ;
+    <ultima_aparicion> <Episodio64:BodoqueEnvenenado> .
 
 <AmapolaPolar> <aficion> "Cuidado al medio ambiente"^^xsd:string ;
     <amigo> <JuanCarlosBodoque>,
@@ -858,9 +1347,77 @@
     <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
     <voz> <DanielCastro> .
 
-<FlecoGraseli> <afiliacion> <Mr.Drilo’s> ;
-    <especie> "Perro"^^xsd:string ;
-    <primera_aparicion> <Episodio46:Mr.Drilo’s> .
+<CarlaRubio> <amigo> <TulioTriviñoTufillo> ;
+    <edad> "Adulta"^^xsd:string ;
+    <enemigo> <TulioTriviñoTufillo> ;
+    <especialidad> "Ser fome/aburrida"^^xsd:string ;
+    <especie> "Muñeca"^^xsd:string ;
+    <familia> ""^^xsd:string ;
+    <nacimiento> ""^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <ultima_aparicion> <Episodio61:ElMeteorito> ;
+    <voz> <AlejandraDueñas>,
+        "Karla Estrada (T1 al T3)"^^xsd:string .
+
+<Cebollón> <aficion> "Cantar"^^xsd:string ;
+    <afiliacion> <Cebolla'sMeEncanta> ;
+    <album> <31CancionesDeAmorYUnaCanciónDeGuaripolo> ;
+    <amigo> <AbuelaLala> ;
+    <cancion> "Cebollón (Música de Cebolla's Me Encanta)"^^xsd:string ;
+    <edad> "Adulta (antes)"^^xsd:string,
+        "Infantil(ahora)"^^xsd:string ;
+    <enemigo> <TulioTriviño> ;
+    <especie> "Cebolla"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <primera_aparicion> <Episodio29:Cebollas> ;
+    <ultima_aparicion> <Episodio29:Cebollas> ;
+    <voz> <PatricioDíaz> .
+
+<ChanchoIrarrázabal> <afiliacion> <LaLigaDelMal> ;
+    <especialidad> "Molestar"^^xsd:string ;
+    <especie> "Cerdo"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <voz> <RodrigoSalinas> .
+
+<CindyMiraflores> <aficion> "Educación"^^xsd:string,
+        "Libros"^^xsd:string ;
+    <especie> "Ardilla"^^xsd:string ;
+    <familia> <MorticiaFelicindaTriviño>,
+        <PatanaTufillo>,
+        "Sr. Miraflores (Padre)"^^xsd:string ;
+    <nacimiento> <Titiritalca> ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> ""^^xsd:string ;
+    <pareja> <TulioTriviñoTufillo> ;
+    <primera_aparicion> <Episodio22:Vacaciones> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <AlejandraDueñas> .
+
+<DonSergio> <amigo> "Pepe Lota"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <pareja> "Emerilda Pomposa"^^xsd:string .
+
+<DylanManguera> <aficion> "Comer comida chatarra"^^xsd:string ;
+    <afiliacion> <Mr.Drilo’s>,
+        <PatrullaColmillito> ;
+    <apodo> "Angelito"^^xsd:string,
+        "Bebé hipopótamo"^^xsd:string,
+        "Cachorro de ballena"^^xsd:string,
+        "Delincuete juvenil"^^xsd:string,
+        "El ex-obeso"^^xsd:string,
+        "Encantador angelito"^^xsd:string,
+        "Gordito"^^xsd:string,
+        "Jefe"^^xsd:string,
+        "Monstruo traga-traga"^^xsd:string,
+        "Niño gordinflón"^^xsd:string ;
+    <especie> "Títere de manguera"^^xsd:string ;
+    <familia> <EusebioManguera> ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Dylan Manguera"^^xsd:string ;
+    <primera_aparicion> <Episodio36:Hielito> ;
+    <ultima_aparicion> <Episodio50:ElVídeo> ;
+    <voz> <PatricioDíaz> .
 
 <Guaripolo> <aficion> "Cantar"^^xsd:string,
         "Meterse en situaciones ajenas"^^xsd:string,
@@ -884,36 +1441,250 @@
     <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
     <voz> <PatricioDíaz> .
 
-<HéctorVelozo> <apodo> "Tito"^^xsd:string ;
+<HermanosGuarennes> <album> <31Minutos(álbum)> ;
+    <cancion> <Tangananica,Tangananá> ;
+    <edad> "Jóvenes"^^xsd:string ;
+    <especialidad> "Pelear entre ellos"^^xsd:string ;
+    <especie> "Guarén (rata)"^^xsd:string ;
+    <familia> <PolicarpoAvendaño>,
+        "Mamá (referenciada en el video)"^^xsd:string ;
+    <integrante> "Huermanco/Tangananica"^^xsd:string,
+        "Smidson/Tangananá<ref>31 Minutos en Sofoca - [http://www.sofoca.cl/31minutos/leseras/ranking-top-y-otras-canciones/ Ranking Top y otras canciones]</ref>"^^xsd:string ;
     <nacionalidad> "Chilena"^^xsd:string ;
-    <nombre_real> "Héctor Velozo"^^xsd:string .
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <top> <Episodio3:GuerraEnElMarDespénsico> ;
+    <ultima_aparicion> <Episodio61:ElMeteorito> ;
+    <voz> <DanielCastro>,
+        <PedroPeirano> .
 
-<Johnny(choapino)> <amigo> "Perros de [[Mario Hugo]]"^^xsd:string ;
-    <cancion> <PerroChico> ;
-    <especie> "Perro"^^xsd:string ;
-    <familia> <MarioHugo>,
-        "Dueño anterior"^^xsd:string ;
-    <primera_aparicion> <PerroChico> ;
+<JoePino> <aficion> "Opinar sobre temas"^^xsd:string ;
+    <afiliacion> <PatrullaColmillito> ;
+    <album> <31Minutos(álbum)> ;
+    <amigo> <CalcetínConRombosMan>,
+        <MicoElMicófono>,
+        <PolicarpoAvendaño> ;
+    <cancion> <RinRaja>,
+        <YoOpino> ;
+    <edad> ""^^xsd:string ;
+    <especialidad> "Opinar"^^xsd:string,
+        "Responder encuestas"^^xsd:string ;
+    <especie> "Perro (Jack Russell Terrier)"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> ""^^xsd:string ;
+    <primera_aparicion> <Episodio4:BenjamínListillo> ;
+    <top> <Episodio12:Patana>,
+        <Episodio17:LaCoanimadora> ;
     <voz> <ÁlvaroDíaz> .
 
-<Lala(personaje)> <aficion> "Empanadas"^^xsd:string ;
-    <amigo> <Lolo> ;
-    <cancion> <Lala> ;
-    <especie> "Títere de mano"^^xsd:string ;
+<LaLigaDelMal> <enemigo> <LosCincoBuenísimos> ;
+    <integrante> <CalcetínConHongosMan>,
+        <ChanchoIrarrázabal>,
+        <PatanaTufillo>,
+        <TíoPelado> ;
+    <primera_aparicion> <Episodio44:LaLigaDelMal> .
+
+<LuloSerrucho> <apodo> "El maestro del disfraz"^^xsd:string ;
+    <edad> "Adulto"^^xsd:string ;
+    <especialidad> "Suplantación"^^xsd:string ;
+    <especie> "Serrucho"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <primera_aparicion> <Episodio27:LuloSerrucho> ;
+    <ultima_aparicion> <Episodio37:LaAmenazaSiluria(primeraParte)> ;
+    <voz> <PatricioDíaz> .
+
+<MamáDeMarioHugo> <edad> "Adulta mayor"^^xsd:string ;
+    <enemigo> ""^^xsd:string ;
+    <especialidad> "Cuidar a su hijo"^^xsd:string ;
+    <especie> "Perro chihuahua"^^xsd:string ;
+    <familia> <MarioHugo> ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <pareja> <PolicarpoAvendaño> ;
+    <primera_aparicion> <Episodio48:LaMamá> ;
+    <ultima_aparicion> <Episodio50:ElVídeo> ;
+    <voz> <PatricioDíaz> .
+
+<MaximilianoOrtiz> <afiliacion> "''Los Títeres''"^^xsd:string ;
+    <amigo> <CelestinaReyes>,
+        <LautaroCabrera>,
+        <NancyCachete>,
+        <PolicarpoAvendaño>,
+        <RogelioPatraña> ;
+    <apodo> "Príncipe Calugo"^^xsd:string ;
+    <edad> "Adulto"^^xsd:string ;
+    <enemigo> <NancyCachete>,
+        "(Obra en teleserie)"^^xsd:string ;
+    <especie> "Humano (Títere)"^^xsd:string ;
+    <nacionalidad> "Chileno"^^xsd:string ;
+    <pareja> <CelestinaReyes>,
+        "(Obra en teleserie)"^^xsd:string ;
     <primera_aparicion> <Episodio1:ElComienzo> ;
-    <ultima_aparicion> <Episodio7:ElSr.Amable> ;
+    <ultima_aparicion> <Episodio5:ElMonstruoChupaChupa> ;
+    <voz> <ÁlvaroDíaz> .
+
+<MicoElMicófono> <aficion> "Encuestar"^^xsd:string ;
+    <amigo> <BalónVonBola>,
+        <CalcetínConRombosMan>,
+        <JoePino>,
+        <JuanCarlosBodoque>,
+        <JuanínJuanHarry>,
+        <MarioHugo>,
+        <PatanaTufillo>,
+        <PolicarpoAvendaño>,
+        <RaúlGuantecillo>,
+        "Varios encuestados"^^xsd:string ;
+    <apodo> "Miquito"^^xsd:string,
+        "Renacuajo"^^xsd:string ;
+    <cancion> <EncuéstameSiPuedes>,
+        "Mico, el micófono (instrumental)"^^xsd:string ;
+    <edad> "Adulto"^^xsd:string ;
+    <enemigo> <MocoElMocofono>,
+        <TulioTriviño> ;
+    <especialidad> "Encuestas"^^xsd:string ;
+    <especie> "Micrófono"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <DanielCastro> .
+
+<MitsyVodoque> <amigo> ""^^xsd:string ;
+    <apodo> "Mamá (Juan Carlos)"^^xsd:string ;
+    <edad> "Adulta mayor"^^xsd:string ;
+    <especie> "Conejo"^^xsd:string ;
+    <familia> <AlbertinaYAntonín>,
+        <JuanCarlosBodoque>,
+        <NoeliaBodoque> ;
+    <nacimiento> ""^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> ""^^xsd:string ;
+    <pareja> "Don Belisario de Bodoque (Esposo)"^^xsd:string ;
+    <primera_aparicion> <Episodio48:LasMadres>,
+        <Episodio6:ElExperimento> ;
+    <ultima_aparicion> <Episodio52:BodoqueApostador> ;
+    <voz> <AlejandraDueñas> .
+
+<Mr.Drilo’s> <afiliacion> <DylanManguera>,
+        <FlecoGraseli> ;
+    <especialidad> "Comida rápida"^^xsd:string ;
+    <primera_aparicion> <Episodio46:Mr.Drilo’s> .
+
+<NancyCachete> <afiliacion> "''Los Títeres''"^^xsd:string ;
+    <amigo> <CelestinaReyes>,
+        <LautaroCabrera>,
+        <MaximilianoOrtiz>,
+        <PolicarpoAvendaño>,
+        <RogelioPatraña> ;
+    <apodo> "La bruja Granuja"^^xsd:string ;
+    <edad> "Adulta"^^xsd:string ;
+    <enemigo> <CelestinaReyes>,
+        <LautaroCabrera>,
+        <MaximilianoOrtiz>,
+        <RogelioPatraña> ;
+    <especie> "Humana (Títere)"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Nancy Cachete"^^xsd:string ;
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <ultima_aparicion> <Episodio5:ElMonstruoChupaChupa> ;
     <voz> <PedroPeirano> .
 
-<Lolo> <album> <31Minutos(álbum)> ;
-    <amigo> <Lala(personaje)> ;
-    <cancion> <Lala> ;
-    <edad> "43 años"^^xsd:string ;
-    <especialidad> "Decir solo ''Lala''"^^xsd:string ;
-    <primera_aparicion> <Episodio1:ElComienzo> ;
-    <top> <Episodio18:ElFinDelMundo>,
-        <Episodio1:ElComienzo> ;
-    <ultima_aparicion> <Episodio21:LosPolicarpoTopTopTopAwards> ;
-    <voz> <PedroPeirano> .
+<Otis> <aficion> "Pasteles"^^xsd:string ;
+    <amigo> <CalcetínConRamonesMan>,
+        <CalcetínConRombosMan> ;
+    <cancion> ""^^xsd:string ;
+    <edad> "Niño"^^xsd:string ;
+    <especialidad> "Reportar"^^xsd:string ;
+    <especie> "Calcetín"^^xsd:string ;
+    <familia> <Rucia> ;
+    <nombre_real> "Otis S. Castro"^^xsd:string ;
+    <primera_aparicion> <Episodio35:Mugre> ;
+    <voz> <PatricioDíaz> .
+
+<PatrullaColmillito> <amigo> <CalcetínConRombosMan>,
+        <JuanCarlosBodoque> ;
+    <integrante> <AliciaCantimplora>,
+        <ElLámpara>,
+        <JoePino>,
+        <PepeCuchillo>,
+        <Winstermister>,
+        <WowWow> ;
+    <primera_aparicion> <Episodio10:Maguito> ;
+    <ultima_aparicion> <Episodio36:Hielito> ;
+    <voz> ""^^xsd:string .
+
+<Ramona> <aficion> "Cuidado al medio ambiente"^^xsd:string ;
+    <amigo> <JuanCarlosBodoque> ;
+    <apodo> "Hermosa chilota"^^xsd:string ;
+    <edad> "29-36"^^xsd:string ;
+    <especialidad> "Ecología"^^xsd:string,
+        "Huertos urbanos"^^xsd:string ;
+    <especie> "Humana (Títere)"^^xsd:string ;
+    <nacimiento> "Chiloé"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Ramona Pincoya"^^xsd:string ;
+    <pareja> <Alfred> ;
+    <primera_aparicion> <Episodio60:HuachimingoSinHogar> ;
+    <residencia> "Chiloé"^^xsd:string,
+        "Coyhaique"^^xsd:string ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <AlejandraDueñas> .
+
+<TénisonSalinas> <apodo> "Edison"^^xsd:string,
+        "Ericsson"^^xsd:string,
+        "Konchalovsky"^^xsd:string,
+        "Morrissey"^^xsd:string,
+        "Parkinson"^^xsd:string,
+        "Wilkinson"^^xsd:string,
+        "Érvinson"^^xsd:string ;
+    <edad> "Adulto"^^xsd:string ;
+    <especialidad> "Deportes"^^xsd:string ;
+    <especie> "Pelota de tenis"^^xsd:string ;
+    <nacimiento> ""^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Ténison Salinas"^^xsd:string ;
+    <voz> <RodrigoSalinas> .
+
+<ZorroBuenaOnda> <aficion> "La naturaleza"^^xsd:string ;
+    <amigo> <AmapolaPolar>,
+        <JuanCarlosBodoque> ;
+    <especialidad> "Decir: ''¡Buena onda!''"^^xsd:string ;
+    <especie> "Zorro de Darwin"^^xsd:string ;
+    <primera_aparicion> <Episodio22:Vacaciones> ;
+    <ultima_aparicion> <Episodio63:JackPatata> ;
+    <voz> "Patricio Díaz"^^xsd:string .
+
+<Cachirula> <aficion> "Coleccionar de animales raros"^^xsd:string ;
+    <amigo> <EstrellaDeLana> ;
+    <cancion> <LaGranCachirula> ;
+    <edad> "Niña"^^xsd:string ;
+    <enemigo> <TulioTriviño> ;
+    <especie> "Humana (títere)"^^xsd:string ;
+    <nombre_real> "Cachirula de los Cachirulos"^^xsd:string ;
+    <primera_aparicion> <31Minutos,LaPelícula> ;
+    <residencia> "Isla de Cachirula"^^xsd:string ;
+    <ultima_aparicion> <31Minutos,LaPelícula> ;
+    <ultima_vacaciones> ""^^xsd:string ;
+    <voz> "[https://es.wikipedia.org/wiki/Catalina_Saavedra Catalina Saavedra]"^^xsd:string .
+
+<CalcetínConHongosMan> <aficion> <CalcetínConRombosMan> ;
+    <amigo> <CalcetínConRombosMan>,
+        <ChanchoIrarrázabal>,
+        <TíoPelado> ;
+    <cancion> "''[https://youtu.be/1rpLTRiJyRA Tightrope]'' de Electric Light Orchestra"^^xsd:string ;
+    <edad> ""^^xsd:string ;
+    <enemigo> <CalcetínConRamonesMan>,
+        <CalcetínConRombosMan>,
+        <LosCincoBuenísimos> ;
+    <especialidad> "Destrucción"^^xsd:string,
+        "Química"^^xsd:string,
+        "Reír con burla"^^xsd:string ;
+    <especie> "Calcetín"^^xsd:string ;
+    <nacionalidad> "Chileno"^^xsd:string ;
+    <primera_aparicion> <Episodio37:LaAmenazaSiluria(primeraParte)> ;
+    <residencia> "Cueva subterránea junto a un desagüe"^^xsd:string ;
+    <ultima_aparicion> <Episodio44:LaLigaDelMal> ;
+    <voz> <PatricioDíaz> .
+
+<FelipeGodoy> <nacionalidad> "Chileno"^^xsd:string ;
+    <nombre_real> "Felipe Godoy"^^xsd:string .
 
 <MorticiaFelicindaTriviño> <apodo> "Felicinda"^^xsd:string,
         "Morticia"^^xsd:string ;
@@ -926,11 +1697,6 @@
     <primera_aparicion> <Episodio12:Patana> ;
     <residencia> <Titirilquén> ;
     <voz> <AlejandraDueñas> .
-
-<Mr.Drilo’s> <afiliacion> <DylanManguera>,
-        <FlecoGraseli> ;
-    <especialidad> "Comida rápida"^^xsd:string ;
-    <primera_aparicion> <Episodio46:Mr.Drilo’s> .
 
 <NoeliaBodoque> <amigo> <ZorroBuenaOnda>,
         "Señor Litre"^^xsd:string ;
@@ -949,34 +1715,6 @@
     <residencia> "[https://es.wikipedia.org/wiki/Bosque_Panul Bosque Panul], Santiago (comuna de La Florida)"^^xsd:string ;
     <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
     <voz> <AlejandraDueñas> .
-
-<Otis> <aficion> "Pasteles"^^xsd:string ;
-    <amigo> <CalcetínConRamonesMan>,
-        <CalcetínConRombosMan> ;
-    <cancion> ""^^xsd:string ;
-    <edad> "Niño"^^xsd:string ;
-    <especialidad> "Reportar"^^xsd:string ;
-    <especie> "Calcetín"^^xsd:string ;
-    <familia> <Rucia> ;
-    <nombre_real> "Otis S. Castro"^^xsd:string ;
-    <primera_aparicion> <Episodio35:Mugre> ;
-    <voz> <PatricioDíaz> .
-
-<PepeLota> <album> <31Minutos(álbum)> ;
-    <amigo> <DonSergio> ;
-    <cancion> <Señora,DevuélvameLaPelotaOSiNoNoSéQueHaré> ;
-    <edad> "Niño"^^xsd:string ;
-    <enemigo> "Emerilda Pomposa ([[Vecina de Pepe Lota]])"^^xsd:string ;
-    <especialidad> "Lanzar la pelota a la casa de la vecina"^^xsd:string ;
-    <especie> "Humana"^^xsd:string ;
-    <familia> "Madre"^^xsd:string ;
-    <nacionalidad> "Chilena"^^xsd:string ;
-    <nombre_real> "Pepe Lota"^^xsd:string ;
-    <primera_aparicion> <Episodio10:ElMaguito> ;
-    <top> <Episodio11:LaGotera>,
-        <Episodio13:Risotrón> ;
-    <ultima_aparicion> <Episodio21:PolicarpoTopTopTopAwards> ;
-    <voz> <PabloIlabaca> .
 
 <Pompón> <aficion> "Teatro"^^xsd:string ;
     <afiliacion> ""^^xsd:string ;
@@ -1011,55 +1749,32 @@
     <ultima_vacaciones> ""^^xsd:string ;
     <voz> <FranciscoSchultz> .
 
-<Ramona> <aficion> "Cuidado al medio ambiente"^^xsd:string ;
-    <amigo> <JuanCarlosBodoque> ;
-    <apodo> "Hermosa chilota"^^xsd:string ;
-    <edad> "29-36"^^xsd:string ;
-    <especialidad> "Ecología"^^xsd:string,
-        "Huertos urbanos"^^xsd:string ;
-    <especie> "Humana (Títere)"^^xsd:string ;
-    <nacimiento> "Chiloé"^^xsd:string ;
-    <nacionalidad> "Chilena"^^xsd:string ;
-    <nombre_real> "Ramona Pincoya"^^xsd:string ;
-    <pareja> <Alfred> ;
-    <primera_aparicion> <Episodio60:HuachimingoSinHogar> ;
-    <residencia> "Chiloé"^^xsd:string,
-        "Coyhaique"^^xsd:string ;
+<TíoHoracio> <aficion> "Estar en televisión"^^xsd:string ;
+    <album> <31CancionesDeAmorYUnaCanciónDeGuaripolo> ;
+    <amigo> <DinosaurioRoberto>,
+        <TíoPelado>,
+        "El castor mañosete (Compañero)"^^xsd:string,
+        "El tapir enojón (Compañero)"^^xsd:string,
+        "Geppeto"^^xsd:string,
+        "La pájara loca (Compañera)"^^xsd:string,
+        "Resortitos (Mascotas del programa)"^^xsd:string ;
+    <apodo> "''Genio'' de la televisión"^^xsd:string,
+        "Tío Horacio"^^xsd:string ;
+    <cancion> <Boing,Boing,Boing> ;
+    <edad> "Adulto mayor"^^xsd:string ;
+    <enemigo> <CalcetínConRombosMan>,
+        <TulioTriviño> ;
+    <especialidad> "Tirar pastelazos en la cara"^^xsd:string,
+        "Vender cosas"^^xsd:string ;
+    <especie> "Humano (Títere)"^^xsd:string ;
+    <nacimiento> ""^^xsd:string ;
+    <nacionalidad> "Argentina-Chilena"^^xsd:string ;
+    <nombre_real> "Horacio Sanhueza"^^xsd:string ;
+    <primera_aparicion> <Episodio24:TíoHoracio> ;
+    <top> <Episodio24:TíoHoracio>,
+        <Episodio25:Japonés> ;
     <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
-    <voz> <AlejandraDueñas> .
-
-<Sopapiglobo> <aficion> "Empanadas venusianas"^^xsd:string ;
-    <amigo> <Guaripolo> ;
-    <apodo> <RomeoYJulieta>,
-        "Sopapiglobus (Ep. 65)"^^xsd:string ;
-    <especialidad> "Manejar naves espaciales"^^xsd:string,
-        "Tocar la guitarra"^^xsd:string ;
-    <especie> "Sopapo-globo"^^xsd:string ;
-    <nacionalidad> "Chilena"^^xsd:string ;
-    <nombre_real> "Sopapiglobo"^^xsd:string ;
-    <primera_aparicion> <Episodio32:ElDespido> ;
-    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
-    <voz> "N/A"^^xsd:string .
-
-<TenientePuñete> <aficion> "Encontrar a su hermano convertido en zombie"^^xsd:string ;
-    <afiliacion> "P.G.I. (Policía gorila de investigaciones)"^^xsd:string ;
-    <amigo> ""^^xsd:string ;
-    <edad> "Adulto"^^xsd:string ;
-    <especialidad> "Encontrar zombies"^^xsd:string,
-        "Guardaespaldas"^^xsd:string,
-        "Investigación criminal"^^xsd:string ;
-    <especie> "Gorila"^^xsd:string ;
-    <familia> <Bombi> ;
-    <logro> "Encontrar a su [[Bombi|hermano]]"^^xsd:string ;
-    <nacionalidad> "Chilena"^^xsd:string ;
-    <nombre_real> "Puñete"^^xsd:string ;
-    <primera_aparicion> <Episodio63:JackPatata> ;
-    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
-    <voz> <FelipeGodoy> .
-
-<TepoTepo> <amigo> <MarioHugo> ;
-    <edad> "5"^^xsd:string ;
-    <especie> "Pinscher miniatura"^^xsd:string .
+    <voz> <ÁlvaroDíaz> .
 
 <AlbertinaYAntonín> <edad> "Niños"^^xsd:string ;
     <especialidad> "Ecología"^^xsd:string ;
@@ -1078,55 +1793,30 @@
     <voz> <DanielCastro>,
         "Lorena Penjean"^^xsd:string .
 
-<DonSergio> <amigo> "Pepe Lota"^^xsd:string ;
+<HéctorVelozo> <apodo> "Tito"^^xsd:string ;
     <nacionalidad> "Chilena"^^xsd:string ;
-    <pareja> "Emerilda Pomposa"^^xsd:string .
+    <nombre_real> "Héctor Velozo"^^xsd:string .
 
-<MaximilianoOrtiz> <afiliacion> "''Los Títeres''"^^xsd:string ;
-    <amigo> <CelestinaReyes>,
-        <LautaroCabrera>,
-        <NancyCachete>,
-        <PolicarpoAvendaño>,
-        <RogelioPatraña> ;
-    <apodo> "Príncipe Calugo"^^xsd:string ;
-    <edad> "Adulto"^^xsd:string ;
-    <enemigo> <NancyCachete>,
-        "(Obra en teleserie)"^^xsd:string ;
-    <especie> "Humano (Títere)"^^xsd:string ;
+<PabloIlabaca> <afiliacion> "Chancho en Piedra (Banda)"^^xsd:string ;
+    <apodo> "Jaco Sánchez"^^xsd:string,
+        "K-V-Zon"^^xsd:string ;
+    <familia> "Felipe Ilabaca (Hermano mayor)"^^xsd:string ;
+    <nacimiento> "25 de agosto de 1976"^^xsd:string ;
     <nacionalidad> "Chileno"^^xsd:string ;
-    <pareja> <CelestinaReyes>,
-        "(Obra en teleserie)"^^xsd:string ;
-    <primera_aparicion> <Episodio1:ElComienzo> ;
-    <ultima_aparicion> <Episodio5:ElMonstruoChupaChupa> ;
-    <voz> <ÁlvaroDíaz> .
+    <nombre_real> "Pablo Ignacio llabaca González"^^xsd:string .
 
-<NancyCachete> <afiliacion> "''Los Títeres''"^^xsd:string ;
-    <amigo> <CelestinaReyes>,
-        <LautaroCabrera>,
-        <MaximilianoOrtiz>,
-        <PolicarpoAvendaño>,
-        <RogelioPatraña> ;
-    <apodo> "La bruja Granuja"^^xsd:string ;
+<Rucia> <aficion> "Estar con amigos"^^xsd:string ;
+    <amigo> <CalcetínConRamonesMan>,
+        <Pompón> ;
     <edad> "Adulta"^^xsd:string ;
-    <enemigo> <CelestinaReyes>,
-        <LautaroCabrera>,
-        <MaximilianoOrtiz>,
-        <RogelioPatraña> ;
-    <especie> "Humana (Títere)"^^xsd:string ;
+    <especialidad> ""^^xsd:string ;
+    <especie> "Calcetín"^^xsd:string ;
+    <familia> <OtisS.Castro> ;
     <nacionalidad> "Chilena"^^xsd:string ;
-    <nombre_real> "Nancy Cachete"^^xsd:string ;
-    <primera_aparicion> <Episodio1:ElComienzo> ;
-    <ultima_aparicion> <Episodio5:ElMonstruoChupaChupa> ;
-    <voz> <PedroPeirano> .
-
-<ZorroBuenaOnda> <aficion> "La naturaleza"^^xsd:string ;
-    <amigo> <AmapolaPolar>,
-        <JuanCarlosBodoque> ;
-    <especialidad> "Decir: ''¡Buena onda!''"^^xsd:string ;
-    <especie> "Zorro de Darwin"^^xsd:string ;
-    <primera_aparicion> <Episodio22:Vacaciones> ;
-    <ultima_aparicion> <Episodio63:JackPatata> ;
-    <voz> "Patricio Díaz"^^xsd:string .
+    <nombre_real> ""^^xsd:string ;
+    <pareja> <CalcetínConRombosMan> ;
+    <primera_aparicion> <Capítulo16:Enfermosis> ;
+    <voz> <AlejandraDueñas> .
 
 <CalcetínConRamonesMan> <amigo> <Otis>,
         <Pompón>,
@@ -1140,20 +1830,202 @@
     <primera_aparicion> <Episodio6:ElExperimento> ;
     <voz> <RodrigoSalinas> .
 
-<FelipeGodoy> <nacionalidad> "Chileno"^^xsd:string ;
-    <nombre_real> "Felipe Godoy"^^xsd:string .
-
-<PabloIlabaca> <afiliacion> "Chancho en Piedra (Banda)"^^xsd:string ;
-    <apodo> "Jaco Sánchez"^^xsd:string,
-        "K-V-Zon"^^xsd:string ;
-    <familia> "Felipe Ilabaca (Hermano mayor)"^^xsd:string ;
-    <nacimiento> "25 de agosto de 1976"^^xsd:string ;
-    <nacionalidad> "Chileno"^^xsd:string ;
-    <nombre_real> "Pablo Ignacio llabaca González"^^xsd:string .
+<LosCincoBuenísimos> <enemigo> <LaLigaDelMal> ;
+    <integrante> <JuanCarlosBodoque>,
+        <JuanínJuanHarry>,
+        <MarioHugo>,
+        <PatanaTufillo>,
+        <PolicarpoAvendaño>,
+        <TulioTriviñoTufillo> ;
+    <primera_aparicion> <Episodio44:LaLigaDelMal> .
 
 <FranciscoSchultz> <apodo> "Pancho"^^xsd:string ;
     <nacionalidad> "Chileno"^^xsd:string ;
     <nombre_real> "Francisco Schultz"^^xsd:string .
+
+<TíoPelado> <album> <Ratoncitos(álbum)> ;
+    <apodo> "Tío Pelado"^^xsd:string ;
+    <cancion> "Solo de batería del Tío Pelado"^^xsd:string ;
+    <especialidad> "Estafas"^^xsd:string ;
+    <nombre_real> "Teodoro Demetrio Sórdido"^^xsd:string ;
+    <voz> <DanielCastro>,
+        <PedroPeirano> .
+
+<BalónVonBola> <aficion> "Deportes"^^xsd:string,
+        "Dormir"^^xsd:string,
+        "Fútbol"^^xsd:string ;
+    <amigo> <RaúlGuantecillo>,
+        <TénisonSalinas> ;
+    <cancion> "''Siga dando bote, Balón''"^^xsd:string ;
+    <edad> "Anciano (posiblemente más viejo)"^^xsd:string ;
+    <especie> "Balón de fútbol"^^xsd:string ;
+    <familia> "Abuelo Balón"^^xsd:string,
+        "Sr. Balón (padre)"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <primera_aparicion> <Episodio2:ElÁrbolFurioso> ;
+    <ultima_aparicion> <Episodio66:ElMayordomo> ;
+    <voz> <ÁlvaroDíaz> .
+
+<RaúlGuantecillo> <aficion> "Deportes"^^xsd:string,
+        "Escribir libros"^^xsd:string ;
+    <amigo> <BalónVonBola>,
+        <TenissonSalinas> ;
+    <apodo> "Guantecillo"^^xsd:string ;
+    <cancion> <Mr.Guantecillo> ;
+    <edad> "Adulto mayor"^^xsd:string ;
+    <enemigo> ""^^xsd:string ;
+    <especialidad> ""^^xsd:string ;
+    <especie> "Guante de Boxeo"^^xsd:string ;
+    <familia> ""^^xsd:string ;
+    <nacimiento> ""^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> ""^^xsd:string ;
+    <pareja> ""^^xsd:string ;
+    <primera_aparicion> <Episodio2:ElÁrbolFurioso> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <PedroPeirano> .
+
+<JuanínJuanHarry> <aficion> "Coleccionar estampillas"^^xsd:string,
+        "Trabajar"^^xsd:string ;
+    <afiliacion> ""^^xsd:string ;
+    <album> ""^^xsd:string ;
+    <amigo> <BalónVonBola>,
+        <Bombi>,
+        <CalcetínConRombosMan>,
+        <JuanCarlosBodoque>,
+        <MarioHugo>,
+        <PatanaTufillo>,
+        <PolicarpoAvendaño>,
+        <RaúlGuantecillo>,
+        <TulioTriviño> ;
+    <apodo> <LosCincoBuenísimos>,
+        <RomeoYJulieta>,
+        "Castor/Fermín, el castor (Ep. 26)"^^xsd:string,
+        "El abominable hombre de las nieves/el Yeti (Ep. 14)"^^xsd:string,
+        "Juanito (por Tío Pelado en la película)"^^xsd:string,
+        "[https://es.wikipedia.org/wiki/Sancho_Panza Sancho Panza] (Ep. 33)"^^xsd:string ;
+    <cancion> <Ratoncitos> ;
+    <discipulo> ""^^xsd:string ;
+    <edad> "34 años"^^xsd:string ;
+    <enemigo> ""^^xsd:string ;
+    <especialidad> "Decir: ''¡Estamos al aire!''"^^xsd:string,
+        "Encargarse de todo"^^xsd:string ;
+    <especie> "Juanín (''Juaninus Juaninus''), especie de pelaje blanco sin ojos visibles.<ref>http://www.tvn.cl/programas/31minutos/juanin/</ref>"^^xsd:string ;
+    <familia> "La cuidadora de Juanín"^^xsd:string ;
+    <integrante> ""^^xsd:string ;
+    <lider> ""^^xsd:string ;
+    <logro> ""^^xsd:string ;
+    <mascota> "Un gallo (en la película)"^^xsd:string ;
+    <nacimiento> ""^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Juanín Juan Harry"^^xsd:string ;
+    <pareja> ""^^xsd:string ;
+    <primera_aparicion> <Episodio6:ElExperimento> ;
+    <primera_vacaciones> ""^^xsd:string ;
+    <residencia> ""^^xsd:string ;
+    <top> ""^^xsd:string ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <ultima_vacaciones> ""^^xsd:string ;
+    <voz> <RodrigoSalinas> .
+
+<TulioTriviño> <aficion> "Coleccionar corbatas"^^xsd:string,
+        "Comprar cosas caras"^^xsd:string,
+        "El dinero"^^xsd:string,
+        "En sí mismo"^^xsd:string,
+        "Ramitas saladas"^^xsd:string,
+        "Tocar la armónica"^^xsd:string ;
+    <album> <31Minutos(álbum)> ;
+    <amigo> <BalónVonBola>,
+        <CalcetínConRombosMan>,
+        <CarlaRubio>,
+        <JuanCarlosBodoque>,
+        <JuanínJuanHarry>,
+        <MarioHugo>,
+        <PatanaTufillo>,
+        <PolicarpoAvendaño>,
+        <RaúlGuantecillo> ;
+    <apodo> <LosCincoBuenísimos>,
+        <RomeoYJulieta>,
+        "Pastelito de merengue"^^xsd:string,
+        "Señor Recorcholis"^^xsd:string,
+        "[https://es.m.wikipedia.org/wiki/Don_Quijote_(personaje) Don Quijote] (Ep. 33)"^^xsd:string ;
+    <cancion> <Ratoncitos>,
+        <YoNuncaViTelevisión> ;
+    <edad> "41-46"^^xsd:string ;
+    <enemigo> <Cachirula>,
+        <CarlaRubio>,
+        <LuloSerrucho>,
+        <TíoHoracio>,
+        <TíoPelado> ;
+    <especialidad> "Conducir el noticiero"^^xsd:string ;
+    <especie> "Chimpancé con ojos de botón y sin nariz"^^xsd:string ;
+    <familia> <MorticiaFelicindaTriviño>,
+        <PatanaTufillo>,
+        <VespertinaTufillo>,
+        "Abuelo Getulio"^^xsd:string,
+        "Bisabuelo Cornelio"^^xsd:string,
+        "Prima desconocida (Ep.3)"^^xsd:string,
+        "Tulio Triviño I (Padre)"^^xsd:string,
+        "Varios personajes históricos de [[Titirilquén]]"^^xsd:string ;
+    <nacimiento> "Pueblo de [[Titirilquén]]"^^xsd:string ;
+    <nacionalidad> <wikipedia:es:Chile> ;
+    <nombre_real> "Tulio Triviño Tufillo"^^xsd:string ;
+    <pareja> <CindyMiraflores> ;
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <primera_vacaciones> <Episodio1:ElParque> ;
+    <residencia> "Mansión Triviño/Casa de Tulio"^^xsd:string ;
+    <top> <Episodio21:LosPolicarpoTopTopTopAwards> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <ultima_vacaciones> <Episodio12:LaRanaQueNadieQuería> ;
+    <voz> <PedroPeirano> .
+
+<PatanaTufillo> <aficion> "Coleccionar servilletas"^^xsd:string,
+        "Color rosado"^^xsd:string,
+        "Miembra del ''Club de nerd Weirdo''"^^xsd:string,
+        "Pasear en viaje"^^xsd:string ;
+    <afiliacion> ""^^xsd:string ;
+    <album> ""^^xsd:string ;
+    <amigo> <BalónVonBola>,
+        <CalcetínConRombosMan>,
+        <ElPequeñoTim>,
+        <JuanCarlosBodoque>,
+        <JuanínJuanHarry>,
+        <MarioHugo>,
+        <PolicarpoAvendaño>,
+        <RaúlGuantecillo> ;
+    <apodo> <RomeoYJulieta>,
+        "La Sombra"^^xsd:string,
+        "Niña Frutilla"^^xsd:string,
+        "Niña problema"^^xsd:string,
+        "Patubela"^^xsd:string ;
+    <cancion> <YoVengoDeTitirilquén> ;
+    <discipulo> ""^^xsd:string ;
+    <edad> "Joven"^^xsd:string ;
+    <enemigo> ""^^xsd:string ;
+    <especialidad> ""^^xsd:string,
+        "Regalar flores"^^xsd:string,
+        "Resolver casos"^^xsd:string ;
+    <especie> "Pájaro"^^xsd:string ;
+    <familia> <CindyMiraflores>,
+        <MamáDeTulio>,
+        <MorticiaFelicindaTriviño>,
+        <TulioTriviñoTufillo> ;
+    <guiaEspiritual> ""^^xsd:string ;
+    <integrante> ""^^xsd:string ;
+    <lider> ""^^xsd:string ;
+    <logro> ""^^xsd:string ;
+    <mascota> ""^^xsd:string ;
+    <nacimiento> ""^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Patricia Ana Tufillo Triviño"^^xsd:string ;
+    <pareja> ""^^xsd:string ;
+    <primera_aparicion> <Episodio12:Patana> ;
+    <primera_vacaciones> <Episodio1:ElParque> ;
+    <residencia> ""^^xsd:string ;
+    <top> ""^^xsd:string ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <ultima_vacaciones> "Episodio 12: La rana que nadie quería"^^xsd:string ;
+    <voz> <AlejandraDueñas> .
 
 <ÁlvaroDíaz> <edad> "48 años (actual)"^^xsd:string ;
     <especialidad> "Periodismo"^^xsd:string,
@@ -1163,14 +2035,195 @@
     <nacionalidad> "Chileno"^^xsd:string ;
     <nombre_real> "Álvaro Díaz González"^^xsd:string .
 
-<PatricioDíaz> <apodo> "Pato"^^xsd:string ;
-    <familia> <ÁlvaroDíaz> ;
+<DanielCastro> <apodo> "Flacosis"^^xsd:string ;
+    <nacimiento> "1978"^^xsd:string ;
     <nacionalidad> "Chileno"^^xsd:string ;
-    <nombre_real> "Patricio Díaz"^^xsd:string .
+    <nombre_real> "Daniel Castro Steinert"^^xsd:string .
+
+<MarioHugo> <aficion> "Tener y cuidar a sus perros de mascota"^^xsd:string ;
+    <amigo> <BalónVonBola>,
+        <CalcetínConRombosMan>,
+        <JuanCarlosBodoque>,
+        <JuanínJuanHarry>,
+        <PatanaTufillo>,
+        <PolicarpoAvendaño>,
+        <RaúlGuantecillo>,
+        <TulioTriviñoTufillo> ;
+    <apodo> <LosCincoBuenísimos>,
+        <RomeoYJulieta>,
+        "El señor hermoso y desconocido (Ep. 41)"^^xsd:string,
+        "Ernesto Felipe (mamá)"^^xsd:string,
+        "Latero (Bodoque)"^^xsd:string ;
+    <cancion> <Ratoncitos> ;
+    <edad> "Joven"^^xsd:string ;
+    <enemigo> <Cachirula>,
+        <Guaripolo>,
+        <TíoPelado> ;
+    <especialidad> "Fenómenos naturales simples, hermosos y desconocidos"^^xsd:string ;
+    <especie> "Perro Chihuahua"^^xsd:string ;
+    <familia> <MamáDeMarioHugo> ;
+    <nacionalidad> "Chilena de Ascendencia Mexicana"^^xsd:string ;
+    <nombre_real> "Ernesto Felipe Mario Hugo"^^xsd:string ;
+    <primera_aparicion> <Episodio3:GuerraEnElMarDespénsico> ;
+    <residencia> "Casa de Mario Hugo"^^xsd:string ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <voz> <RodrigoSalinas> .
+
+<PedroPeirano> <edad> "48 años (actual)"^^xsd:string ;
+    <nacimiento> "25 de Diciembre de 1971. Santiago, Chile."^^xsd:string ;
+    <nacionalidad> "Chileno"^^xsd:string ;
+    <nombre_real> "Pedro Pablo Peirano Olate"^^xsd:string .
+
+<CalcetínConRombosMan> <aficion> "Comer helado"^^xsd:string,
+        "Escribir en su diario personal"^^xsd:string,
+        "Leer"^^xsd:string ;
+    <album> <31Minutos(álbum)> ;
+    <amigo> <CalcetínConHongosMan>,
+        <JuanCarlosBodoque>,
+        <JuanínJuanHarry>,
+        <MarioHugo>,
+        <Off>,
+        <Otis>,
+        <PatanaTufillo>,
+        <PolicarpoAvendaño>,
+        <Pompón>,
+        <TulioTriviñoTufillo>,
+        "Ex-Calcetín con Rombos Man (mentor)"^^xsd:string ;
+    <apodo> "Calcetín huacho/solo"^^xsd:string ;
+    <cancion> "Calcetín con Rombos Man (instrumental)"^^xsd:string ;
+    <edad> "Adulto"^^xsd:string ;
+    <enemigo> <CalcetínConHongosMan>,
+        <CalcetínConRamonesMan>,
+        <IgorElDestructor>,
+        <LuloSerrucho>,
+        <Sasquatch>,
+        <TíoHoracio>,
+        <TíoPelado>,
+        "El aguafiestas"^^xsd:string,
+        "Plancha"^^xsd:string ;
+    <especialidad> "Derechos de los niños"^^xsd:string ;
+    <especie> "Calcetín"^^xsd:string ;
+    <familia> <CalcetínConRamonesMan>,
+        "Pancracio (primo)"^^xsd:string ;
+    <nacimiento> <wikipedia:es:IslasGalápagos> ;
+    <nacionalidad> <wikipedia:es:Ecuador> ;
+    <nombre_real> "César Quintanilla"^^xsd:string ;
+    <pareja> <Rucia> ;
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <ultima_aparicion> <Episodio67:ElDiarioDeJuanín> ;
+    <voz> <DanielCastro> .
+
+<PolicarpoAvendaño> <aficion> "El hundimiento del Titanic"^^xsd:string,
+        "Música"^^xsd:string ;
+    <amigo> <BalónVonBola>,
+        <CalcetínConRombosMan>,
+        <JuanCarlosBodoque>,
+        <JuanínJuanHarry>,
+        <MarioHugo>,
+        <PatanaTufillo>,
+        <RaúlGuantecillo>,
+        <TulioTriviño>,
+        "Padrino de Percy Mamani (mejor amigo)"^^xsd:string ;
+    <apodo> <LosCincoBuenísimos>,
+        "''Normal'' (sinónimo de su nombre)"^^xsd:string,
+        "Babycarpo (Ep. 62)"^^xsd:string,
+        "El posadero (Ep. 33, obra del Quijote)"^^xsd:string,
+        "El señor fiesta (Ep. 41)"^^xsd:string,
+        "Pelacarpo (Ep. 31)"^^xsd:string,
+        "Pelado"^^xsd:string,
+        "Platacarpo (Ep. 57)"^^xsd:string,
+        "Poli (amigos cercanos)"^^xsd:string,
+        "Policalvo (Ep. 31)"^^xsd:string,
+        "Policarpito (Ep. 31)"^^xsd:string,
+        "Policarpín (madre)"^^xsd:string ;
+    <cancion> <Ratoncitos> ;
+    <edad> "38-45"^^xsd:string ;
+    <enemigo> <Cachirula>,
+        <TíoPelado> ;
+    <especialidad> "Música, farándula y espectáculo"^^xsd:string,
+        "Presentador del [[Ránking Top]]"^^xsd:string ;
+    <especie> "Humano (títere, similar a un cascanueces)"^^xsd:string ;
+    <familia> <CoágulaEspátulo>,
+        <FreddyTurbina>,
+        <HermanosGuarennes>,
+        <JuanTástico>,
+        <LaCorchetis>,
+        <MamáDePolicarpo>,
+        "Manolo (peluquín)"^^xsd:string ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Policarpo Avendaño Stuchelbangen"^^xsd:string ;
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <primera_vacaciones> ""^^xsd:string ;
+    <residencia> <wikipedia:es:Miami>,
+        "Casa departamento con piscina en forma de piano"^^xsd:string ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <ultima_vacaciones> ""^^xsd:string ;
+    <voz> <DanielCastro> .
 
 <RodrigoSalinas> <apodo> "El Guatón Salinas"^^xsd:string ;
     <edad> "45 años (actual)"^^xsd:string ;
     <nacimiento> "1 de febrero de 1975"^^xsd:string ;
     <nacionalidad> "Chileno"^^xsd:string ;
     <nombre_real> "Rodrigo Salvador Salinas Marambio"^^xsd:string .
+
+<PatricioDíaz> <apodo> "Pato"^^xsd:string ;
+    <familia> <ÁlvaroDíaz> ;
+    <nacionalidad> "Chileno"^^xsd:string ;
+    <nombre_real> "Patricio Díaz"^^xsd:string .
+
+<AlejandraDueñas> <apodo> "Jani Dueñas"^^xsd:string ;
+    <edad> "45 años (actual)"^^xsd:string ;
+    <nacimiento> "11 de enero de 1975"^^xsd:string ;
+    <nombre_real> "Alejandra Selma Dueñas Santander"^^xsd:string .
+
+<JuanCarlosBodoque> <aficion> "Apuestas y juegos de azar"^^xsd:string ;
+    <afiliacion> <31Minutos(noticiero)> ;
+    <album> <31CancionesDeAmorYUnaCanciónDeGuaripolo>,
+        <Arwrarwrirwrarwro(álbum)> ;
+    <amigo> <AmapolaPolar>,
+        <BalónVonBola>,
+        <CalcetínConRombosMan>,
+        <JuanínJuanHarry>,
+        <LocoEstero>,
+        <MarioHugo>,
+        <PatanaTufillo>,
+        <PolicarpoAvendaño>,
+        <Ramona>,
+        <RaúlGuantecillo>,
+        <TulioTriviño> ;
+    <apodo> <LosCincoBuenísimos>,
+        <RomeoYJulieta>,
+        "''Seishin usagi akai'' (Sagrado conejo rojo, por los japoneses. Ep. 25)"^^xsd:string,
+        "Bodoque"^^xsd:string,
+        "Conejo"^^xsd:string,
+        "El alma de la fiesta (Ep. 41)"^^xsd:string ;
+    <cancion> <ElArrepentimientoDeJuanCarlosBodoque>,
+        <Ratoncitos>,
+        <TormentaChina(canción)> ;
+    <edad> "39-45"^^xsd:string ;
+    <enemigo> <TíoPelado> ;
+    <especialidad> "Ecología"^^xsd:string ;
+    <especie> "Conejo"^^xsd:string ;
+    <familia> <AlbertinaYAntonín>,
+        <ArmandoDelgadillo>,
+        <MitsyVodoque>,
+        <NoeliaBodoque>,
+        "Botman (primo)"^^xsd:string,
+        "Conde Bodrácula (tío)"^^xsd:string,
+        "Don Belisario de Bodoque (padre)"^^xsd:string,
+        "Josefo (primo)"^^xsd:string,
+        "Marito (sobrino)"^^xsd:string,
+        "Tía Eulalia"^^xsd:string,
+        "Varios hermanos y hermanas"^^xsd:string,
+        "Willy Nelson Bodoque (primo)"^^xsd:string ;
+    <guiaEspiritual> <ChamánPelmazo> ;
+    <mascota> <TormentaChina> ;
+    <nacimiento> <Titirilquén> ;
+    <nacionalidad> "Chilena"^^xsd:string ;
+    <nombre_real> "Juan Carlos de Bodoque y Vodoque"^^xsd:string ;
+    <primera_aparicion> <Episodio1:ElComienzo> ;
+    <primera_vacaciones> <Episodio1:ElParque> ;
+    <ultima_aparicion> <Episodio68:LaGranGalaDeTitirilquén> ;
+    <ultima_vacaciones> "Episodio 12: La rana que nadie quería"^^xsd:string ;
+    <voz> <ÁlvaroDíaz> .
 
