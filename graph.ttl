@@ -2231,3 +2231,31 @@
     <ultima_vacaciones> "Episodio 12: La rana que nadie quería"^^xsd:string ;
     <voz> <ÁlvaroDíaz> .
 
+<PolicarpoAvendaño> owl:sameAs <Policarpo> .
+<DinosaurioRoberto> owl:sameAs <ElDinosaurioRoberto> .
+<TulioTriviño> owl:sameAs <Tulio> .
+<Cebolla'sMeEncanta> owl:sameAs <CebollasMeEncanta> .
+<PatanaTufillo> owl:sameAs <PatanaTufilloTriviño> .
+<ElMedioHombre> owl:sameAs <MedioHombre> .
+<MamáDeTulio> owl:sameAs <VespertinaTufillo> .
+<PresidenteOso> owl:sameAs <ElPresidenteOso> .
+<TulioTriviño> owl:sameAs <TulioTriviñoTufillo> .
+<Otis> owl:sameAs <OtisS.Castro> .
+<JuanínJuanHarry> owl:sameAs <Juanín> .
+<MitsyVodoque> owl:sameAs <MitzyBodoque> .
+<Vespertina> owl:sameAs <MaríaAntonietaTriviño> .
+<VladimiroVirutilla> owl:sameAs <VlarimiroVirutilla> .
+<TribuDeHuachimingos> owl:sameAs <Huachimingos> .
+<JuanCarlosBodoque> owl:sameAs <Bodoque> .
+<Señora,DevuélvameLaPelotaOSiNoNoSéQueHaré> owl:sameAs <Señora,DevuélvameLaPelota,OSiNo,NoSéQueHaré> .
+<Jenkins(elMayordomo)> owl:sameAs <Jenkis(elMayordomo)> .
+<Jenkins(elMayordomo)> owl:sameAs <Jenkins,ElMayordomo> .
+<CindyMiraflores> owl:sameAs <Cindy> .
+<PatanaTufillo> owl:sameAs <Patana> .
+<MicoElMicófono> owl:sameAs <Mico> .
+<Segurito> owl:sameAs <Segurito(personaje)> .
+<ChanchoIrarrázabalChanchoIrarrázabalChanchoIra> owl:sameAs <ChanchoIrrarázabal> .
+<TénisonSalinas> owl:sameAs <TenissonSalinas> .
+<MonstruoChupachupa> owl:sameAs <ChupaChupa> .
+<EustaquioRenato> owl:sameAs <AmurraoRenato> .
+<Jenkins(elMayordomo)> owl:sameAs <Genkis(elMayordomo)> .
