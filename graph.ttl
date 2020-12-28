@@ -2259,3 +2259,6 @@
 <MonstruoChupachupa> owl:sameAs <ChupaChupa> .
 <EustaquioRenato> owl:sameAs <AmurraoRenato> .
 <Jenkins(elMayordomo)> owl:sameAs <Genkis(elMayordomo)> .
+
+<cancion> rdfs:range <Cancion> .
+<voz> rdfs:range <ActorDoblaje> .
