@@ -1,0 +1,57 @@
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:    <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX :        <http://example.org/>
+
+# Top 7 de actores de doblaje en cantidad de voces
+SELECT ?nombre (COUNT(?personaje) AS ?numeropersonajes)  WHERE {
+  ?personaje :voz ?actor .
+  OPTIONAL {
+    ?actor :nombre_real ?nombre .
+  }
+}
+GROUP BY ?actor ?nombre
+ORDER BY DESC(?numeropersonajes)
+LIMIT 7
+
+# Top 6 de peores amigos
+SELECT ?personaje2 (COUNT(?personaje1) AS ?amigos)
+WHERE {
+  ?personaje1 :amigo ?personaje2 .
+  FILTER NOT EXISTS {
+    ?personaje1 :amigo ?personaje2 .
+    ?personaje2 :amigo ?personaje1
+  }
+}
+GROUP BY ?personaje2
+ORDER BY DESC(?amigos)
+LIMIT 6
+
+# Top 5 de los más haters
+SELECT ?personaje ?nombre (COUNT(?enemigos) AS ?numeroenemigos)  WHERE {
+?personaje :enemigo ?enemigos .
+OPTIONAL {
+  ?personaje :nombre_real ?nombre .
+}
+}
+GROUP BY ?nombre ?personaje
+ORDER BY DESC(?numeroenemigos)
+LIMIT 5
+
+# Top 5 enemigos públicos
+SELECT ?enemigo ?nombre (COUNT(?personaje) AS ?numeropersonajes)  WHERE {
+  ?personaje :enemigo ?enemigo .
+  OPTIONAL {
+    ?enemigo :nombre_real ?nombre .
+  }
+  FILTER(?enemigo != "")
+}
+GROUP BY ?nombre ?enemigo
+ORDER BY DESC(?numeropersonajes)
+LIMIT 5
+
+# Top diversidad de especie
+SELECT ?especie (COUNT(?personaje) AS ?cantidad) WHERE {
+  ?personaje :especie ?especie .
+}
+GROUP BY ?especie
+ORDER BY DESC(?cantidad)
